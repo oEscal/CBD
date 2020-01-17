@@ -1,0 +1,2790 @@
+project_name,organization
+Apache Geronimo,IBM
+Geronimo,Chariot Solutions
+ActiveMQ,Chariot Solutions
+Apache ActiveMQ,Chariot Solutions
+Apache Camel,Chariot Solutions
+ActiveMQ,Chariot Solutions
+Camel,Chariot Solutions
+Apache Geronimo,Chariot Solutions 
+Apache Camel,Chariot Solutions 
+Apache Hadoop,Cloudera
+Apache Hadoop,Cloudera
+Hadoop,Cloudera
+Apache Hadoop,Cloudera 
+Apache Hadoop,Cloudera 
+Apache OpenJPA,Oracle Corporation
+Apache OpenJPA,Oracle Corporation
+Apache OpenJPA,Oracle Corporation 
+Apache OpenJPA,Oracle Corporation 
+OpenJPA,Oracle
+Sqoop,Cloudera
+Sqoop,Cloudera
+Db,The Apache Software Foundation
+Apache Karaf,Inovex
+Apache Aries,Ericsson
+Aries,Ericsson
+Apache Aries,Ericsson
+Apache Whirr,Cloud Conscious
+Apache Whirr,Cloud Conscious
+Apache Whirr,Cloud Conscious
+Apache Whirr,Cloud Conscious
+Apache Commons HTTP Client,Intencha
+Apache Commons HTTP Client,Intencha 
+Apache Axiom,WSO2
+Apache Axis,WSO2
+Apache Synapse,WSO2
+Apache Axiom,WSO2
+Apache Axis2,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Hive,Cloudera
+Falcon,Inmobi
+Ambari,Hortonworks
+Apache Axiom,WSO2
+Apache Axis,WSO2
+Apache Axiom,WSO2
+Apache Axis2,WSO2
+Apache Camel,SAP
+Camel,SAP
+Apache Aries,LinkedIn
+Apache Geronimo,Chariot Solutions
+Apache Geronimo,Chariot Solutions
+Apache Aries,LinkedIn
+Aries,LinkedIn
+Apache Pig,HortonWorks
+Apache Pig,HortonWorks
+Apache HCatalog,Hortonworks
+Apache HCatalog,Hortonworks
+Apache HCatalog,Hortonworks
+Calcite,Hortonworks
+Hive,Hortonworks
+Knox,Hortonworks
+Oozie,Hortonworks
+Pig,HortonWorks
+Apache Bigtop,Yahoo! 
+Apache Bigtop,Yahoo! 
+Apache Hive,Hortonworks
+Apache PIG,HortonWorks 
+Apache Aries,Ericsson 
+Apache Aries,Ericsson
+Aries,Ericsson
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache OpenJPA,IBM Corporation
+Apache OpenJPA,IBM Corporation
+Apache OpenJPA,IBM Corporation 
+Apache OpenJPA,IBM Corporation 
+OpenJPA,IBM
+Apache Hadoop,Cloudera
+Apache Hadoop,Cloudera
+Hadoop,Cloudera
+Oozie,Cloudera
+Apache Bigtop,Cloudera 
+Apache Hadoop,Cloudera 
+Apache Hadoop,Cloudera 
+Ambari,Hortonworks
+Apache Axiom,Indiana University Extreme! Co
+Apache Axis,Indiana University Extreme! Co
+Apache Axiom,Indiana University Extreme! Co
+Apache Axis2,Indiana University Extreme! Co
+Airavata,IBM
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Giraph,Facebook
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Accumulo,Cloudera
+Accumulo,Cloudera
+Sqoop,WANdisco
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache Zookeeper,Google
+Zookeeper,Google
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache Geronimo,IBM
+Apache Gora,Indra
+Apache Gora,Indra
+Gora,Indra
+Apache Sling,Adobe 
+Apache Hadoop,LinkedIn
+Apache Hadoop,LinkedIn 
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Apache Hadoop,InMobi
+Apache Hadoop,InMobi
+Apache Hive,InMobi
+Falcon,InMobi
+Hadoop,InMobi
+Hive,InMobi
+Apache Hadoop,InMobi 
+Apache Hadoop,InMobi 
+Apache Hive,InMobi
+Airavata,Indiana University
+Apache Sling,Adobe 
+Jackrabbit,Adobe
+HBase,Facebook
+Apache HBase,Facebook 
+Apache Bigtop,Yahoo! 
+Camel,Red Hat
+Karaf,RedHat
+ServiceMix,Red Hat
+Syncope,Tirasa
+Apache Syncope,Tirasa 
+Apache ServiceMix,Engineering Ingegneria Informa
+ServiceMix,Engineering Ingegneria Informa
+Apache ServiceMix,Engineering Ingegneria Informa
+Apache ServiceMix,Softwarefabrik GmbH
+ServiceMix,Softwarefabrik GmbH
+Apache ServiceMix,Softwarefabrik GmbH 
+Apache Whirr,Cloudsoft
+Apache Whirr,Cloudsoft
+Apache Whirr,Cloudsoft
+Apache Whirr,Cloudsoft
+Apache Bigtop,Facebook 
+Syncope,Talend
+Apache Syncope,Talend 
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Flume,Cloudera
+Sqoop,Cloudera
+Apache Bigtop,Cloudera 
+REEF,Microsoft
+Ambari,Hortonworks
+Apache Gora,NASA JPL
+Apache Gora,NASA JPL
+Apache Gora,NASA JPL
+Gora,NASA JPL
+Apache Sandesha,IBM
+Apache Sandesha,IBM
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache Hbase,Intel
+Apache Whirr,Trend Micro
+Apache Whirr,Trend Micro
+Apache Whirr,Trend Micro
+Apache Whirr,Trend Micro
+Apache Bigtop,Intel 
+Apache HBase,Intel 
+MyFaces,Oracle
+Hadoop,Cloudera
+Apache Hadoop,Cloudera 
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Click,ObjectStyle
+Apache Click,ObjectStyle
+Apache Click,ObjectStyle 
+Apache Gora,Getopt
+Apache Hadoop,Getopt
+Apache Gora,Getopt
+Apache Gora,Getopt
+Gora,Getopt
+Hadoop,Getopt
+Apache Hadoop,Getopt 
+Apache MyFaces,Oracle
+Apache Tobago,Oracle
+Apache MyFaces,Oracle
+MyFaces,Oracle
+Apache Tobago,Oracle 
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Oozie,independent
+Pig,Google
+Apache PIG,Twitter 
+Phoenix,Hortonworks
+Apache Axis,IBM
+Apache Axis2,IBM
+Sentry,Cloudera
+Phoenix,Intel
+HBase,Intel
+Apache HBase,Intel 
+Apache Synapse,IBM
+Apache Synapse,IBM
+Synapse,IBM
+Apache ANT,Agilebuild
+Camel,Red Hat
+Oltu,Adobe
+Apache Sling,Adobe 
+Hadoop,Cloudera
+REEF,Microsoft
+Apache Axiom,Lanka Software Foundation / Un
+Apache Axis,Lanka Software Foundation / Un
+Apache Axiom,Lanka Software Foundation / Un
+Apache Axis2,Lanka Software Foundation / Un
+Gora,Oracle
+Ambari,Hortonworks
+Apache Jackrabbit,Hippo
+Jackrabbit,Hippo
+Apache Jackrabbit,Hippo
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Ambari,Hortonworks
+Apache Hadoop,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+ActiveMQ,Savoir Technologies
+Apache Woden,IBM
+Apache Woden,IBM 
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks
+Sentry,Microsoft
+Hadoop,Cloudera
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Apache Synapse,AdroitLogic
+Apache Synapse,AdroitLogic
+Synapse,AdroitLogic
+Geronimo,IBM
+Apache Geronimo,IBM 
+Ambari,Hortonworks
+Apache Hive,Facebook
+Hive,Qubole
+Apache Hive,Qubole 
+Apache Hive,Hortonworks
+Apache Pig,HortonWorks
+Apache Pig,HortonWorks
+Apache HCatalog,Hortonworks
+Apache HCatalog,Hortonworks
+Calcite,Hortonworks
+Hive,Hortonworks
+Pig,HortonWorks
+Apache Hive,HortonWorks 
+Apache PIG,HortonWorks 
+Apache Axiom,Computer Associates
+Apache Axis,Computer Associates
+Apache Axiom,Computer Associates
+Apache Axis2,Computer Associates
+Nutch,NASA JPL
+Airavata,Hippo
+Giraph,Facebook
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Apache Camel,Cyberlogic Consulting GmbH
+Camel,Cyberlogic Consulting GmbH
+Falcon,Hortonworks
+Apache Jackrabbit,Hippo
+Jackrabbit,Hippo
+Apache Jackrabbit,Hippo
+Apache Batik,CSIRO Australia
+Apache Camel,Initek Consulting
+Camel,Initek Consulting
+Apache Camel,Savoir Technologies 
+Apache Pig,Yahoo!
+Apache Pig,Yahoo!
+Apache Commons Email,Apache Software Foundation
+Apache Commons Email,The Apache Software Foundation
+Apache Zookeeper,Facebook
+Apache Zookeeper,Facebook
+Bookkeeper,Facebook
+Zookeeper,Facebook
+Apache Aries,SAP
+Apache Aries,SAP
+Aries,SAP
+Db,Oracle
+Apache Sling,Adobe
+Apache Sling,Adobe
+Apache Sling,Adobe 
+Apache Sling,Adobe 
+REEF,Microsoft
+Apache Hadoop,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Camel,Red Hat
+Camel,Red Hat
+Apache Gump,IBM
+Apache Commons Modeler,Apache
+Apache Pig,Twitter
+Chukwa,Twitter
+Pig,Twitter
+Apache PIG,Twitter 
+Apache Batik,Sun Microsystems
+Accumulo,Cloudera
+Apache Accumulo,Cloudera
+Apache Axis,IBM
+Apache Axis2,IBM
+Apache Accumulo,Hortonworks
+Apache Accumulo,Hortonworks
+Apache Ambari,Hortonworks
+Apache Accumulo,Hortonworks
+Apache Accumulo,Hortonworks
+Accumulo,Hortonworks
+Ambari,Hortonworks
+MyFaces,Oracle
+Apache Syncope,Smals
+Syncope,Smals
+Apache Syncope,Smals 
+Apache Commons CLI,Werken
+Apache Commons CLI,Werken
+Apache Commons Jelly,The Werken Company
+Ambari,Hortonworks
+Apache River,Sun Microsystems
+Apache Hadoop,LinkedIn
+Hadoop,LinkedIn
+Apache Hadoop,LinkedIn 
+REEF,Microsoft
+Oozie,Hortonworks
+Ambari,Red Hat
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Ignite,WANdisco
+Apache Continuum,ASF
+Apache Maven,ASF
+Apache Archiva,ASF
+Apache Axis,IBM
+Apache Axis2,IBM
+Apache Commons Configuration,dunbarconsulting.org
+Apache Commons Configuration,dunbarconsulting.org 
+Apache Commons Configuration,dunbarconsulting.org 
+ActiveMQ,Ning
+Apache ActiveMQ,Ning
+ActiveMQ,Ning
+Apache Jackrabbit,Open Source Applications Found
+Apache Jackrabbit,Open Source Applications Found
+Flume,Cloudera
+Apache Hive,Cloudera 
+Apache ANT,Avue Technologies
+Geronimo,SpringSource
+Apache ServiceMix,SpringSource
+Apache ServiceMix,SpringSource
+Apache ActiveMQ,SpringSource
+Apache Camel,SpringSource
+ActiveMQ,SpringSource
+Camel,SpringSource
+ServiceMix,SpringSource
+Apache Geronimo,SpringSource 
+ActiveMQ,SpringSource
+Apache Camel,SpringSource 
+Apache ServiceMix,SpringSource 
+Apache ServiceMix,SpringSource 
+Apache Commons Net,Hewlett-Packard
+Apache Commons Net,Hewlett-Packard
+Apache Bigtop,Tango 
+Syncope,Exprivia
+Apache Syncope,Exprivia 
+Jackrabbit,Ametys
+Apache Jackrabbit,Ametys
+Ambari,Hortonworks
+Apache Batik,Monash University
+Apache Sling,Hallway Technologies
+Apache Sling,Hallway Technologies 
+Apache Hive,Cloudera
+Hive,LinkedIn
+Apache Hive,Citus Data 
+Apache Continuum,ASF
+Apache Maven,ASF
+Apache Archiva,ASF
+BVal,Amazon
+Apache BVal,Amazon 
+Apache Bean Validation,Amazon 
+Apache Bean Validation,Amazon 
+Apache Sling,Adobe
+Apache Sling,Adobe
+Apache Sling, Java Develope
+Apache Sling,Adobe 
+Apache OpenJPA,IBM Corporation
+OpenJPA,IBM
+Apache OpenJPA,IBM Corporation 
+Apache XMLBeans,LinkedIn
+Apache Ambari,Red Hat
+Ambari,Red Hat
+Apache Sandesha,WSO2
+Apache Sandesha,WSO2
+Apache Axis,WSO2
+Apache Axis2,WSO2
+Crunch,Independent
+Hive,Cloudera
+Oozie,Microsoft
+Sentry,Cloudera
+Hive,Cloudera
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Apache Axis,WSO2
+Apache Axis2,WSO2
+Apache ServiceMix,FuseSource
+ServiceMix,FuseSource
+Apache ServiceMix,FuseSource 
+ActiveMQ,Xpectis
+ActiveMQ,Xpectis
+ActiveMQ,Xpectis
+Apache ActiveMQ,Xpectis
+Apache Camel,Red Hat
+ActiveMQ,Red Hat
+Camel,Red Hat
+Karaf,JBoss
+Apache Camel,FuseSource 
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache ServiceMix,Bull R&D
+ServiceMix,Bull R&D
+Apache ServiceMix,Bull R&D
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Apache Woden,Indiana University
+Apache Axiom,LSF/MIT
+Apache Axis,Indiana University
+Apache Axiom,LSF/MIT
+Apache Axis2,Indiana University
+Apache Woden,Indiana University 
+Airavata,Indiana University
+Apache Axiom,WSO2
+Apache Axis,WSO2
+Apache Axiom,WSO2
+Apache Axis2,WSO2
+Ambari,Microsoft
+Hive,Intel
+Apache Pig,Cloudera
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Hive,Intel
+Apache Axiom,Lanka Software Foundation / Un
+Apache Axis,Lanka Software Foundation / Un
+Apache Axiom,Lanka Software Foundation / Un
+Apache Axis2,Lanka Software Foundation / Un
+Apache Gora,NASA JPL
+Apache Gora,NASA JPL
+Apache Gora,NASA JPL
+Apache Gora,NASA JPL
+Airavata,NASA JPL
+Gora,NASA JPL
+Nutch,NASA JPL
+Tajo,NASA JPL
+Apache ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+ServiceMix,FuseSource
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache ServiceMix,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache Hadoop,Microsoft
+Apache Hadoop,Microsoft
+Hadoop,Microsoft
+Knox,Microsoft
+Oozie,Microsoft
+REEF,Microsoft
+Apache Hadoop,Microsoft 
+Apache Hadoop,Microsoft 
+ActiveMQ,TradingScreen
+Apache Camel,TradingScreen
+ActiveMQ,TradingScreen
+Camel,TradingScreen
+Apache Camel,TradingScreen 
+Mesos,NASA JPL
+Hadoop,Hortonworks
+Zookeeper,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache Camel,Atos Worldline
+Camel,Atos Worldline
+Apache Camel,Atos Worldline 
+ActiveMQ,Red Hat
+Camel,Red Hat
+Camel,Red Hat
+Apache ServiceMix,EnBW Energie Baden-Wï¿½_rttemberg
+Aries,Talend
+ServiceMix,EnBW Energie Baden-Wï¿½_rttemberg
+Apache Camel,Talend
+Camel,Talend
+Karaf,Talend
+Syncope,Talend
+Apache ServiceMix,EnBW Energie Baden-Wï¿½_rttemberg
+Apache Camel,Talend 
+Apache Karaf,Talend
+Apache Karaf,Talend
+Apache Syncope,Talend 
+Apache ANT,TUI
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Ambari,Microsoft
+Apache ActiveMQ,Fuse Source
+Apache Camel,Red Hat
+ActiveMQ,Red Hat
+Camel,Red Hat
+ActiveMQ,Fuse Source
+Apache Camel,FuseSource 
+Apache Jackrabbit,DVT-Daten-Verarbeitung-Tirol G
+Jackrabbit,DVT-Daten-Verarbeitung-Tirol G
+Apache Jackrabbit,DVT-Daten-Verarbeitung-Tirol G
+Apache Sling,MySign AG
+Apache Sling,MySign AG 
+Sentry,Intel
+Sqoop,Intel
+ActiveMQ,Fuse Source
+Apache ActiveMQ,Fuse Source
+Hadoop,Cloudera
+Apache Hadoop,Cloudera 
+Apache Syncope,Talend
+Apache Syncope,Talend
+Camel,Talend
+Syncope,Talend
+Apache Syncope,Talend 
+Apache ANT,Cortex eBusiness
+Apache Pig,Yahoo!
+Apache Commons Logging,Apache Software Foundation
+Apache OpenJPA,Oracle Corporation
+OpenJPA,Oracle
+Apache OpenJPA,Oracle Corporation 
+Apache Commons EL,Apache Software Foundation
+Apache Commons Logging,Apache Software Foundation
+Apache Commons Modeler,Apache
+Apache Commons JXPath,Sun Microsystems
+Db,Oracle
+Db,Oracle
+Apache ActiveMQ,Giant Leap Technologies
+ActiveMQ,Giant Leap Technologies
+ActiveMQ,Giant Leap Technologies
+Apache Geronimo,SpringSource
+Apache Geronimo,SpringSource
+Apache ServiceMix,IBM
+Apache ActiveMQ,IBM
+ServiceMix,IBM
+Apache Commons DBCP,dain@apache.org
+ActiveMQ,IBM
+Apache ServiceMix,IBM 
+Apache ServiceMix,EnvoiSolutions
+ServiceMix,EnvoiSolutions
+Apache ServiceMix,EnvoiSolutions 
+Apache Sling,Six Dimensions 
+Apache Aries,Talend
+Apache Aries,Talend
+Aries,Talend
+Apache Geronimo,IBM
+Apache Geronimo,IBM 
+Geronimo,IBM
+Apache Pig,HortonWorks
+Apache Pig,HortonWorks
+Apache HCatalog,Hortonworks
+Hive,Hortonworks
+Pig,HortonWorks
+Apache Hive,Hortonworks
+Apache PIG,HortonWorks 
+Apache Commons Net,Savarese Software Research
+Apache Commons Net,Savarese Software Research
+Apache Maven,ASF
+Apache Camel,Talend
+Camel,Talend
+ServiceMix,Talend
+Apache Camel,Talend 
+Apache ServiceMix,Talend
+Apache Velocity,CollabNet
+Apache Velocity,CollabNet
+Apache Commons Configuration,CollabNet
+Apache Commons Email,CollabNet
+Apache Commons FileUpload,CollabNet
+Apache Commons Lang,CollabNet
+Apache Torque,CollabNet
+Apache Velocity Anakia,CollabNet
+Apache Velocity Anakia,CollabNet
+Apache Velocity Anakia,CollabNet
+Apache Commons Lang,CollabNet
+Apache Torque,CollabNet
+Velocity,CollabNet
+Apache Commons Betwixt,CollabNet 
+Apache Commons Configuration,CollabNet
+Apache Commons Configuration,CollabNet
+Apache Commons Email,CollabNet
+Apache Velocity,CollabNet
+Apache Velocity,CollabNet
+Apache James,Student Loans Company ltd
+Apache James,Student Loans Company ltd
+Apache James,Student Loans Company ltd
+Sentry,Intel
+Apache Geronimo,IBM
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Apache Hadoop,Yahoo! 
+Apache Axiom,Lanka Software Foundation
+Apache Axis,Purdue University
+Apache Axiom,Lanka Software Foundation
+Apache Axis2,Purdue University
+Geronimo,IBM
+Apache Axiom,IBM
+Apache Sandesha,WSO2
+Apache Axiom,IBM
+Apache Sandesha,WSO2
+Apache Geronimo,IBM 
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Crunch,Cloudera
+Mesos,Twitter
+Apache ServiceMix,FuseSource
+ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+Accumulo,Cloudera
+Apache Gora,NASA JPL
+Apache Gora,NASA JPL
+Apache Gora,NASA JPL
+Gora,NASA JPL
+Apache Whirr,CISUC/Univ. Coimbra
+Apache Whirr,CISUC/Univ. Coimbra
+Apache XMLBeans,about me
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache ServiceMix,IBM
+ServiceMix,IBM
+Apache Geronimo,IBM 
+Apache ServiceMix,IBM 
+Apache Aries,Red Hat
+Apache Aries,Red Hat
+Aries,Adobe
+Tajo,Google
+Apache OpenJPA,Oracle Corporation
+Apache OpenJPA,Oracle Corporation
+OpenJPA,Oracle
+Apache OpenJPA,Oracle Corporation 
+Apache OpenJPA,Oracle Corporation
+Apache Axis,IBM
+Apache Axis2,IBM
+Apache Aries,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Aries,IBM
+Aries,IBM
+Geronimo,IBM
+Apache ServiceMix,IBM
+Apache ServiceMix,IBM
+Apache ActiveMQ,IBM
+Apache BVal,IBM
+Apache Camel,IBM
+ActiveMQ,IBM
+Camel,IBM
+Karaf,IBM
+ServiceMix,IBM
+ActiveMQ,IBM
+Apache Bean Validation,IBM 
+Apache Bean Validation,IBM 
+Apache Camel,IBM 
+Apache Karaf,IBM
+Apache Karaf,IBM
+Apache Karaf,IBM
+Apache ServiceMix,IBM 
+Apache ServiceMix,IBM 
+Apache Geronimo,IBM 
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Airavata,Indiana University
+Crunch,Independent
+Apache OpenJPA,IBM Corporation
+OpenJPA,IBM
+Apache OpenJPA,IBM Corporation 
+Jackrabbit,Adobe
+Apache Batik,CSIRO Australia
+Apache Axiom,WSO2
+Apache Axis,Georgia Institute of Technolog
+Apache Synapse,WSO2
+Apache Axiom,WSO2
+Apache Axis2,Georgia Institute of Technolog
+Apache Synapse,WSO2
+Synapse,WSO2
+Apache ActiveMQ,Fuse Source
+ActiveMQ,Red Hat
+ActiveMQ,Fuse Source
+Apache Syncope,Intesys
+Syncope,Intesys
+Apache Syncope,Intesys 
+ActiveMQ,Thoughtworks
+Apache Camel,Thoughtworks
+ActiveMQ,Thoughtworks
+Camel,Thoughtworks
+MyFaces,ThoughtWorks
+Apache MyFaces,ThoughtWorks
+Apache Camel,Thoughtworks 
+ActiveMQ,BeVocal
+Apache ActiveMQ,BeVocal
+ActiveMQ,BeVocal
+Apache Commons Logging,Apache Software Foundation
+Apache Maven,ASF
+Apache Archiva,ASF
+Apache Accumulo,The Johns Hopkins University
+River,Asarian Technologies LLC
+Apache River,Asarian Technologies LLC
+Apache Axis,Sosnoski Software
+Apache Axis2,Sosnoski Software
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache HCatalog,Hortonworks
+Apache HCatalog,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Hadoop,Hortonworks
+HBase,Hortonworks
+Knox,Hortonworks
+Oozie,Hortonworks
+Phoenix,Hortonworks
+Apache HBase,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Hadoop,Intel
+Apache Axiom,Lanka Software Foundation / Un
+Apache Axis,Lanka Software Foundation / Un
+Apache Axiom,Lanka Software Foundation / Un
+Apache Axis2,Lanka Software Foundation / Un
+Apache Hadoop,Facebook
+Apache Hadoop,Facebook
+Apache Hive,Facebook
+Hadoop,Facebook
+Apache Hadoop,Facebook 
+Apache Hadoop,Facebook 
+REEF,Microsoft
+Ambari,IBM
+Sqoop,Intel
+Apache OpenJPA,IBM Corporation
+OpenJPA,IBM
+Apache OpenJPA,IBM Corporation 
+Apache Aries,SAP
+Apache Aries,SAP
+Aries,SAP
+Apache Syncope,Everett Italia
+Apache Syncope,Everett Italia 
+Apache Commons Jelly,Multitask Consulting
+Apache Commons Configuration,Multitask Consulting
+Apache Commons Email,Apache Software Foundation
+Apache Commons FileUpload,Multitask Consulting
+Apache Commons HTTP Client,Multitask Consulting
+Apache Commons JEXL,Apache Software Foundation
+Apache Commons JEXL,Apache Software Foundation
+Apache Commons Jelly,Multitask Consulting
+Apache Commons Betwixt,Multitask Consulting 
+Apache Commons Configuration,Multitask Consulting 
+Apache Commons Configuration,Multitask Consulting 
+Apache Commons HTTP Client,Multitask Consulting 
+Ambari,Hortonworks
+Db,IBM
+BVal,IBM
+Db,CollabNet
+Apache Mahout,LinkedIn profile 
+Apache Pig,Twitter
+Apache Pig,Twitter
+Giraph,Twitter
+Pig,Twitter
+Apache PIG,Twitter 
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Hadoop,Facebook
+Hadoop,Facebook
+Apache Hadoop,Facebook 
+Apache Axis,Software AG
+Apache Axis2,Software AG
+Apache Gora,Konneka
+Apache Gora,Google
+Apache Gora,Google
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache OpenJPA,Oracle Corporation
+Apache OpenJPA,Oracle Corporation
+OpenJPA,Oracle
+Apache BVal,IBM
+Apache OpenJPA,Oracle Corporation 
+Apache OpenJPA,Oracle Corporation 
+Apache Bean Validation,IBM 
+Apache Bean Validation,IBM 
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM 
+Geronimo,IBM
+Hive,Intel
+Apache Avro,Cloudera
+Apache Hadoop,Cloudera
+Apache Hadoop,Cloudera
+Apache Avro, java
+Apache Avro,Cloudera
+Avro,Cloudera
+Hadoop,Cloudera
+Apache Hadoop,Cloudera 
+Apache Hadoop,Cloudera 
+Apache Accumulo,Booz Allen Hamilton
+Apache Accumulo,Booz Allen Hamilton
+Accumulo,Booz Allen Hamilton
+BVal,IBM
+Apache Accumulo,Booz Allen Hamilton
+Accumulo,Booz Allen Hamilton
+Apache Accumulo,Booz Allen Hamilton
+Apache ServiceMix,FuseSource
+ServiceMix,FuseSource
+Apache ServiceMix,FuseSource 
+Hive,m6d
+Apache Hive,m6d 
+Apache Hama,Oracle
+Apache Hama,Oracle
+Apache Bigtop,Oracle corporation 
+Apache Hadoop,Cloudera
+Apache Hadoop,Cloudera
+Hadoop,Cloudera
+Apache Bigtop,Cloudera 
+Apache Hadoop,Cloudera 
+Apache Hadoop,Cloudera 
+Giraph,LinkedIn
+Apache Hbase,Cloudera
+HBase,Facebook
+Apache HBase,Cloudera 
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache Commons CLI,Ariane Software
+Apache Commons Configuration,Ariane Software
+Apache Commons CLI,Ariane Software
+Apache Commons Configuration,Ariane Software 
+Apache Commons Configuration,Ariane Software 
+Apache Syncope,The Apache Software Foundation
+Apache Continuum,ASF
+Apache Maven,ASF
+Phoenix,Hortonworks
+Apache Gora,Hortonworks
+Apache Hbase,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Gora,Hortonworks
+Apache Gora,Hortonworks
+Gora,Hortonworks
+Hadoop,Hortonworks
+HBase,Hortonworks
+Apache HBase,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache ServiceMix,FuseSource
+ServiceMix,FuseSource
+Apache ServiceMix,FuseSource 
+Apache Axiom,WSO2
+Apache Axis,WSO2
+Apache Synapse,WSO2
+Apache Axiom,WSO2
+Apache Axis2,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Apache Archiva,ASF
+Hive,Microsoft
+Apache Hive,Microsoft
+Apache Commons Configuration,upstate.com
+Apache Commons Email,OpenSource Connections
+Apache Commons Configuration,upstate.com 
+Apache Commons Configuration,upstate.com 
+Apache Commons Email,OpenSource Connections 
+Apache Hadoop,IBM
+Apache Ambari,IBM
+Apache Ambari,IBM
+Apache Ambari,IBM
+Ambari,IBM
+Chukwa,IBM
+Hadoop,IBM
+Apache Hadoop,IBM 
+Sentry,Cloudera
+Geronimo,IBM
+Apache Geronimo,IBM 
+Apache ANT,eHatcher Solutions
+Ambari,Red Hat
+Apache Maven,ASF
+Airavata,Indiana University
+Apache Jackrabbit,BEA
+Jackrabbit,BEA
+Apache Jackrabbit,BEA
+HBase,Cloudera
+Hive,Hortonworks
+Giraph,Trend Micro
+Ignite,Trend Micro
+Apache Syncope,Tirasa
+Apache Syncope,Tirasa
+Syncope,Tirasa
+Apache Syncope,Tirasa 
+Apache Axis,Lanka Software Foundation
+Apache Axis2,Lanka Software Foundation
+Apache OpenJPA,IBM Corporation
+OpenJPA,IBM
+Apache OpenJPA,IBM Corporation 
+Aries,Adobe
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Sling,Adobe
+Apache Sling,Adobe
+Apache Jackrabbit,Adobe
+Apache Sling,Adobe 
+Apache Sling,Adobe 
+Hive,Intel
+Apache Gora,Kalooga
+Apache Gora,Kalooga
+Apache Gora,Kalooga
+Camel,Red Hat
+Apache Karaf,Energeya
+Bookkeeper,Microsoft
+OpenJPA,Tirasa
+Apache Cocoon,Tirasa
+Apache Cocoon,Tirasa
+Apache Syncope,Tirasa
+Apache Syncope,Tirasa
+Syncope,Tirasa
+Apache Syncope,Tirasa 
+Jackrabbit,Adobe
+Apache HCatalog,Yahoo!
+Apache HCatalog,Yahoo!
+Apache Hive,Yahoo!
+Apache River,Sun Microsystems
+Apache Whirr,Orange11
+Apache Whirr,Orange11
+Camel,SAP
+Apache River,Sun Microsystems
+Apache ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+Apache Camel,Red Hat
+Camel,Red Hat
+Karaf,JBoss
+ServiceMix,FuseSource
+Apache Camel,FuseSource 
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache ServiceMix,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache Commons Configuration,Infoblu S.p.A
+Apache Commons Configuration,Infoblu S.p.A
+MyFaces,Oracle
+Hive,Facebook
+Apache Hive,Facebook
+Apache Commons Pool,Apache Software Foundation
+Apache Hbase,Twitter
+HBase,Facebook
+ActiveMQ,Fuse Source
+Apache ActiveMQ,Fuse Source
+Apache Camel,Red Hat
+ActiveMQ,Red Hat
+Camel,Red Hat
+Apache Camel,FuseSource 
+Apache Axis,Lanka Software Foundation
+Apache Axis2,Lanka Software Foundation
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache OpenJPA,Gilt Groupe
+Apache OpenJPA,Gilt Groupe
+Apache OpenJPA,Gilt Groupe
+Apache OpenJPA,Gilt Groupe
+Geronimo,Intel
+OpenJPA,Gilt Groupe
+Apache Velocity,Independent (DVSL Maven)
+Apache Velocity,Independent (DVSL Maven)
+Apache Commons JEXL,independent
+Apache Velocity Anakia,Independent (DVSL Maven)
+Apache Velocity Anakia,Independent (DVSL Maven)
+Apache Velocity Anakia,Independent (DVSL Maven)
+Apache Commons JEXL,independent
+Apache Commons Jelly,Adeptra
+Apache Geronimo,Intel 
+Apache Velocity,Independent (DVSL Maven) 
+Apache Velocity,Independent (DVSL Maven) 
+Apache Commons Jelly,Adeptra
+Hadoop,Twitter
+Apache BVal,IRIAN Solutions GmbH
+Apache Bean Validation,IRIAN Solutions GmbH 
+Apache Bean Validation,IRIAN Solutions GmbH 
+Apache ServiceMix,anova
+Apache ServiceMix,anova
+Apache Camel,Red Hat
+Camel,Red Hat
+Karaf,JBoss
+ServiceMix,anova
+Apache Camel,FuseSource 
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache ServiceMix,anova 
+Apache ServiceMix,anova 
+Syncope,Tirasa
+Apache ServiceMix,Engineering Ingegneria Informa
+ServiceMix,Engineering Ingegneria Informa
+Apache ServiceMix,Engineering Ingegneria Informa
+Apache Geronimo,Intel
+Apache Geronimo,Intel
+Ambari,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Pig, Release
+Apache Pig,HortonWorks
+Hadoop,Hortonworks
+Pig,HortonWorks
+Zookeeper,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache PIG,HortonWorks 
+Nutch,NASA JPL
+Apache Axiom,Sonic Software
+Apache Axis,Sonic Software
+Apache Synapse,WSO2
+Apache Axiom,Sonic Software
+Apache Axis2,Sonic Software
+Apache Synapse,WSO2
+Synapse,WSO2
+ActiveMQ,Tullib
+Apache Camel,Tullib
+ActiveMQ,Tullib
+Camel,Tullib
+Apache Camel,Tullib 
+Apache Mahout,Dilisim 
+Hive,Hortonworks
+BVal,IRIAN Solutions GmbH
+Apache ServiceMix,Capgemini France
+ServiceMix,Capgemini France
+Apache ServiceMix,Capgemini France
+Chukwa,Intel
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache Whirr,Cloudera
+Apache Woden,IBM
+Apache Woden,IBM 
+Apache Mahout,LucidWorks 
+Sentry,Cloudera
+Apache ServiceMix,Progress
+ServiceMix,Progress
+Apache ServiceMix,Progress
+Apache River,StratusCom Manufacturing Syste
+River,StratusCom Manufacturing Syste
+Apache River,StratusCom Manufacturing Syste
+Apache Geronimo,IBM
+Geronimo,Mortbay
+ActiveMQ,MortBay
+Apache ServiceMix,MortBay
+Apache ActiveMQ,MortBay
+ActiveMQ,MortBay
+ServiceMix,MortBay
+Apache Geronimo,Mortbay 
+Apache ServiceMix,MortBay 
+Apache Hbase,Cloudera
+HBase,Cloudera
+Apache HBase,Cloudera 
+Syncope,Stadtwerke Mï¿½_nchen Services Gm
+Apache Syncope,Stadtwerke Mï¿½_nchen Services Gm
+ActiveMQ,Fuse Source
+Apache ODE,Iona
+Apache ODE,Iona
+Apache ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+Apache ActiveMQ,Fuse Source
+Apache Camel,Red Hat
+ActiveMQ,Red Hat
+Camel,Red Hat
+Karaf,JBoss
+ServiceMix,FuseSource
+Apache Aries,Progress
+Apache Aries,Progress
+Aries,Progress
+Geronimo,IONA
+Apache Camel,FuseSource 
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache ODE,Iona 
+Apache ODE,Iona 
+Apache ServiceMix,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache Geronimo,IONA 
+Hive,Hortonworks
+Apache Hive,Hortonworks
+Sqoop,Cloudera
+ActiveMQ,Talend
+Apache ActiveMQ,Talend
+Apache Camel,Talend
+ActiveMQ,Talend
+Camel,Talend
+Apache Camel,Talend 
+Apache Geronimo,Mortbay
+Apache Geronimo,IBM 
+Geronimo,IBM
+Apache Hadoop,Facebook
+Apache Hadoop,Facebook
+Hadoop,Facebook
+Apache Hadoop,Facebook 
+Apache Hadoop,Facebook 
+ActiveMQ,ASPone
+Apache Camel,ASPone
+ActiveMQ,ASPone
+Camel,ASPone
+Apache Camel,ASPone 
+Sentry,Cloudera
+Hive,Hortonworks
+Flume,Cloudera
+Sqoop,Cloudera
+Hive,Hortonworks
+Apache Hive,Hortonworks
+Apache Hadoop,Cloudera
+Hadoop,Cloudera
+Oozie,Cloudera
+Apache Hadoop,Cloudera 
+MyFaces,IBM
+Apache Hive,Facebook
+Karaf,Savoir Technologies
+Apache Karaf,Savoir Technologies
+Apache Karaf,Savoir Technologies
+Apache OpenJPA,IBM Corporation
+OpenJPA,IBM
+Apache OpenJPA,IBM Corporation 
+Apache Batik,Efacec
+Apache OpenJPA,IBM Corporation
+Apache OpenJPA,IBM Corporation 
+OpenJPA,IBM
+Apache Velocity,The Henning Schmiedehausen Org
+Apache Velocity,The Henning Schmiedehausen Org
+Apache Turbine,INTERMETA - Gesellschaft fï¿½_r M
+Apache Velocity Anakia,The Henning Schmiedehausen Org
+Apache Velocity Anakia,The Henning Schmiedehausen Org
+Apache Velocity Anakia,The Henning Schmiedehausen Org
+Apache Turbine,INTERMETA - Gesellschaft fï¿½_r M
+Apache Velocity,The Henning Schmiedehausen Org
+Apache Velocity,The Henning Schmiedehausen Org
+Flume,Cloudera
+Zookeeper,Cloudera
+Apache Camel,Red Hat
+Camel,Red Hat
+Apache Geronimo,IONA
+Apache Geronimo,IONA
+Apache Maven,ASF
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Db,Integrated Technology S.C.
+ActiveMQ,Fuse Source
+Apache ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+Apache ActiveMQ,Fuse Source
+Apache Camel,Red Hat
+ActiveMQ,Red Hat
+Camel,Red Hat
+Karaf,JBoss
+ServiceMix,FuseSource
+Apache Aries,Progress
+Apache Aries,Progress
+Aries,Progress
+Geronimo,IONA
+Apache Camel,FuseSource 
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache ServiceMix,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache Geronimo,IONA 
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Apache Hadoop,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM 
+Geronimo,IBM
+Zookeeper,Cloudera
+Apache ServiceMix,GAIA-TI
+ServiceMix,GAIA-TI
+Apache ServiceMix,GAIA-TI
+Apache Torque,Integrated Technology S.C.
+Apache Torque,Integrated Technology S.C.
+Accumulo,Cloudera
+Apache Sling,Adobe 
+Apache Sling,Adobe 
+Mesos,Twitter
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Spark,Cloudera
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Apache Gora,FuseSource
+Apache ServiceMix,Upstream S.A.
+Apache Whirr,FuseSource
+Apache Camel,Red Hat
+Apache Gora,RedHat
+Apache Gora,RedHat
+Apache Whirr,FuseSource
+Camel,Red Hat
+Gora,Red Hat
+Karaf,JBoss
+ServiceMix,Upstream S.A.
+Apache Camel,FuseSource 
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache Karaf,FuseSource
+Apache ServiceMix,Upstream S.A. 
+Apache Mahout,Homepage
+Ambari,Microsoft
+Hadoop,Microsoft
+Apache Hadoop,Microsoft 
+Apache Turbine,ByteAction GmbH
+Apache Turbine,HEAG MediaNet GmbH
+Turbine,HEAG MediaNet GmbH
+Apache Turbine,HEAG MediaNet GmbH 
+Apache Turbine,ByteAction GmbH 
+Apache Turbine,ByteAction GmbH 
+Apache Geronimo,IONA
+Apache Geronimo,IONA
+Accumulo,Booz Allen Hamilton
+Apache Ambari,WANdisco
+Ambari,WANdisco
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Giraph,Twitter
+Apache Hadoop,LinkedIn
+Apache Hadoop,LinkedIn
+Giraph,LinkedIn
+Hadoop,LinkedIn
+Tajo,Microsoft
+Apache Hadoop,LinkedIn 
+Apache Hadoop,LinkedIn 
+Apache Axiom,Virtusa / Lanka Software Found
+Apache Axis,Indiana University
+Apache Sandesha,Indiana University
+Apache Axiom,Virtusa / Lanka Software Found
+Apache Axis2,Indiana University
+Apache Sandesha,Indiana University
+Apache Commons Lang,Carman Consulting
+Apache Commons Proxy,Carman Consulting
+Apache Commons VFS,Apache Software Foundation
+Apache Commons Lang,Carman Consulting
+Apache Commons Proxy,Carman Consulting
+Apache Commons VFS,Apache Software Foundation
+Apache ANT,Sun Microsystems
+Apache Commons Validator,EdgeTech
+Apache Commons Validator,EdgeTech
+Apache Bigtop,Canonical 
+Apache Aries,Progress
+Apache Aries,Progress
+Aries,Progress
+Geronimo,IONA
+ActiveMQ,Fuse Source
+Apache Commons CLI,SpiritSoft
+Apache Commons Discovery,SpiritSoft
+Apache Commons JEXL,SpiritSoft
+Apache Commons VFS,SpiritSoft
+Apache ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+Apache ActiveMQ,Fuse Source
+Apache Camel,Red Hat
+Apache Commons CLI,SpiritSoft
+Apache Commons Discovery,SpiritSoft
+Apache Commons JEXL,SpiritSoft
+Apache Commons Jelly,SpiritSoft
+Apache Commons VFS,SpiritSoft
+ActiveMQ,Red Hat
+Camel,Red Hat
+Karaf,JBoss
+ServiceMix,FuseSource
+Apache Geronimo,IONA 
+Apache Camel,FuseSource 
+Apache Karaf,FuseSource
+Apache Commons Betwixt,SpiritSoft
+Apache Karaf,FuseSource
+Apache ServiceMix,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache ServiceMix,Savoir Technologies
+Karaf,Savoir Technologies
+ServiceMix,Savoir Technologies
+Apache Karaf,Savoir Technologies
+Apache Karaf,Savoir Technologies
+Apache Karaf,Savoir Technologies
+Apache ServiceMix,Savoir Technologies 
+Apache Commons Configuration,TD Bank
+Apache Commons Configuration,TD Bank
+Apache Geronimo,IONA
+Apache Geronimo,IONA
+Geronimo,Mortbay
+Apache ServiceMix,MortBay
+ServiceMix,MortBay
+Apache Geronimo,Mortbay 
+Apache ServiceMix,MortBay 
+Apache Syncope,Talend
+Apache Syncope,Talend
+Syncope,Talend
+Apache Syncope,Talend 
+Apache Commons EL,Sun Microsystems
+Apache Commons El,Sun Microsystems
+Ambari,Hortonworks
+Apache Aries,IBM
+Apache Geronimo,Mortbay
+Apache Geronimo,Mortbay
+Apache Aries,IBM
+Aries,IBM
+Geronimo,IBM
+Karaf,IBM
+Apache Geronimo,IBM 
+Apache Karaf,IBM
+Apache Karaf,IBM
+Apache Karaf,IBM
+Sentry,Cloudera
+Flume,Cloudera
+Sqoop,Cloudera
+Spark,Intel
+Hive,Hortonworks
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Apache Hadoop,Yahoo! 
+Apache Commons Configuration,Zenplex
+Apache Commons Email,Zenplex
+Apache Commons FileUpload,Zenplex
+Apache Commons Betwixt,Zenplex 
+Apache Commons Configuration,Zenplex 
+Apache Commons Configuration,Zenplex 
+Apache Commons Email,Zenplex 
+Apache Geronimo,IBM 
+Geronimo,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Axiom,Computer Associates
+Apache Axis,Computer Associates
+Apache Axiom,Computer Associates
+Apache Axis2,Computer Associates
+Oozie,Inmobi
+Ambari,Hortonworks
+Aries,Talend
+Apache ServiceMix,Fimasys
+Apache ServiceMix,Fimasys
+Apache Syncope,Talend
+Apache Syncope,Talend
+Apache Archiva,Talend
+Apache Camel,Talend
+ActiveMQ,Talend
+Camel,Talend
+Falcon,Talend
+Karaf,Talend
+ServiceMix,Fimasys
+Syncope,Talend
+Apache Camel,Talend 
+Apache Karaf,Talend
+Apache Karaf,Talend
+Apache Karaf,Talend
+Apache ServiceMix,Fimasys 
+Apache ServiceMix,Fimasys 
+Apache Syncope,Talend 
+Apache Sling,Adobe 
+Apache Hbase,Cloudera
+HBase,Cloudera
+Apache HBase,Cloudera 
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+MyFaces,Oracle
+Apache Axis,IBM
+Apache Axis2,IBM
+Apache Commons HTTP Client,Independent consultant
+Apache Commons HTTP Client,Independent consultant 
+Apache Mahout,WindwardSolutions 
+Apache Accumulo,Cloudera
+Accumulo,Cloudera
+Geronimo,Savoir Technologies
+Apache ServiceMix,Savoir Technologies
+Apache ServiceMix,Savoir Technologies
+Apache Camel,Savoir Technologies
+ActiveMQ,Savoir Technologies
+Camel,Savoir Technologies
+ServiceMix,Savoir Technologies
+Apache Geronimo,Savoir Technologies 
+Apache Camel,Savoir Technologies 
+Apache ServiceMix,Savoir Technologies 
+Apache ServiceMix,Savoir Technologies 
+Apache Avro,Cloudera
+Apache Avro,Cloudera
+Apache Avro,Cloudera
+Avro,Cloudera
+ActiveMQ,SYS Technologies
+Apache Camel,SYS Technologies
+ActiveMQ,SYS Technologies
+Camel,SYS Technologies
+Apache Camel,SYS Technologies 
+Ambari,Hortonworks
+Ambari,Hortonworks
+Apache ODE,JBoss
+Apache ODE,JBoss
+Apache ODE,JBoss 
+Apache ODE,JBoss 
+Apache Commons Net,Quad/Graphics
+Apache Commons Net,Quad/Graphics
+Knox,IBM
+HBase,Hortonworks
+Apache HBase,Hortonworks 
+Apache OpenJPA,IBM
+Apache OpenJPA,IBM
+Apache OpenJPA,IBM
+Apache OpenJPA,IBM
+OpenJPA,IBM
+Apache BVal,IBM
+Apache Bean Validation,IBM 
+Apache Bean Validation,IBM 
+Apache Geronimo,IBM
+Apache Woden,IBM
+Apache Woden,IBM 
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Accumulo,IBM
+Apache ANT,Oracle
+Apache Continuum,ASF
+Apache Maven,ASF
+Apache Accumulo,Cloudera
+Accumulo,Cloudera
+Calcite,Hortonworks
+Hive,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Commons Jelly,Genscape
+Apache Commons Jelly,Genscape
+Apache Hbase,Cloudera
+HBase,Cloudera
+Hive,Cloudera
+Apache HBase,Cloudera 
+HBase,IBM
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Hadoop,Hortonworks
+Hive,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Hive,Hortonworks
+Db,CollabNet
+Apache Continuum,ASF
+Apache Maven,ASF
+Apache Archiva,ASF
+Apache Aries,IBM
+Apache Geronimo,Savoir Technologies
+Apache Geronimo,Savoir Technologies
+Apache Aries,IBM
+Aries,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Sentry,RedHat
+ActiveMQ,TTM
+Apache Camel,TTM
+ActiveMQ,Red Hat
+Camel,TTM
+Apache Camel,TTM 
+Apache OpenJPA,IBM Corporation
+OpenJPA,IBM
+Apache OpenJPA,IBM Corporation 
+Apache Commons Jelly,ThoughtWorks
+Apache Commons Jelly,ThoughtWorks
+ActiveMQ,Google
+Apache ActiveMQ,Google
+ActiveMQ,Google
+Ambari,Hortonworks
+Apache ServiceMix,Savoir Technologies
+Apache Camel,Savoir Technologies
+Camel,Savoir Technologies
+ServiceMix,Savoir Technologies
+Apache Camel,Savoir Technologies 
+Apache ServiceMix,Savoir Technologies 
+Apache Hadoop,Twitter
+Apache Whirr,Twitter
+Apache Whirr,Twitter
+Apache Whirr,Twitter
+Apache Whirr,Twitter
+Hadoop,Twitter
+Apache Hadoop,Twitter 
+Apache Maven,ASF
+Apache Woden,IBM
+Apache Woden,IBM 
+Apache Commons CLI,integral Source
+Apache Commons CLI,integral Source
+Apache River,Sun Microsystems
+Apache Commons Email,CollabNet
+Apache Commons FileUpload,CollabNet
+Apache Torque,CollabNet
+Apache Torque,CollabNet
+Apache Commons Email,CollabNet
+Calcite,Hortonworks
+Hive,Hortonworks
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache Hive,Facebook
+Apache Bigtop,Facebook 
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Knox,Hortonworks
+Apache Ambari,Hortonworks
+Flume,Cloudera
+Db,CollabNet
+ActiveMQ,Fuse Source
+Apache ServiceMix,FuseSource
+Apache ActiveMQ,Fuse Source
+Apache Camel,Red Hat
+ActiveMQ,Red Hat
+Camel,Red Hat
+ServiceMix,FuseSource
+Apache Camel,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache Commons Email,CollabNet
+Apache Torque,CollabNet
+Apache Torque,CollabNet
+Apache Commons Betwixt,StudioZ 
+Apache Commons Email,CollabNet
+ActiveMQ,Iona
+Apache ActiveMQ,Iona
+Apache Pig,Twitter
+Pig,Twitter
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Apache Hadoop,Yahoo! 
+Apache Hbase,Cloudera
+Apache Accumulo,Cloudera
+Accumulo,Cloudera
+Flume,Cloudera
+HBase,Cloudera
+Sqoop,Cloudera
+Apache HBase,Cloudera 
+Ambari,Hortonworks
+Ambari,Hortonworks
+Db,Oracle
+Apache Accumulo,Hortonworks
+Apache Accumulo,Hortonworks
+Accumulo,Hortonworks
+Calcite,Hortonworks
+Phoenix,Hortonworks
+Apache Hive,Facebook
+Hive,Qubole
+Apache Hive,Qubole 
+BVal,IBM
+Apache Commons Jelly,SpiritSoft
+Apache River,Sun Microsystems
+Ambari,IBM
+Apache ServiceMix,CSC Austria AG
+ServiceMix,CSC Austria AG
+Apache ServiceMix,CSC Austria AG
+Apache Karaf,Code-House
+Apache Jackrabbit,Adobe
+Apache Sling,Day Software
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache Sling,Day Software 
+REEF,Microsoft
+Calcite,Hortonworks
+Apache Jackrabbit,greenbytes GmbH
+Jackrabbit,greenbytes GmbH
+Apache Jackrabbit,greenbytes GmbH
+Apache Pig,Twitter
+Apache Pig,Twitter
+Pig,Twitter
+Apache PIG,Twitter 
+Apache Gora,DigitalPebble
+Apache Gora,DigitalPebble
+Apache Geronimo,IBM 
+Geronimo,IBM
+Hadoop,Hortonworks
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Sling,Adobe
+Apache Sling,Adobe
+Apache Jackrabbit,Adobe
+Apache Sling,Adobe 
+Apache Sling,Adobe 
+Db,Zenplex
+Db,Oracle
+Hadoop,Intel
+Apache Hadoop,IBM
+Apache Ambari,IBM
+Apache Ambari,IBM
+Apache Ambari,IBM
+Ambari,IBM
+Hadoop,IBM
+Apache Hadoop,IBM 
+Apache Hbase,Facebook
+HBase,Facebook
+Apache HBase,Facebook 
+Apache Whirr,Outerthought
+Apache Whirr,Outerthought
+Hadoop,Cloudera
+Apache Hadoop,Cloudera 
+Apache Hbase,Facebook
+HBase,Facebook
+Apache HBase,Facebook 
+Apache Synapse,University of Colombo
+Apache Synapse,University of Colombo
+Synapse,University of Colombo
+Sqoop,Cloudera
+Apache Gora,Healthline Networks
+Apache Gora,Healthline Networks
+Gora,Healthline Networks
+Apache Axis,WSO2
+Apache Axis2,WSO2
+Apache Accumulo,Peterson Technologies
+Apache Accumulo,Peterson Technologies
+Apache Gora,Peterson Technologies
+Apache Accumulo,Peterson Technologies
+Apache Accumulo,Peterson Technologies
+Apache Gora,Peterson Technologies
+Apache Gora,Peterson Technologies
+Accumulo,Peterson Technologies
+Gora,Peterson Technologies
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+BVal,IBM
+Apache Aries,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Aries,IBM
+Apache BVal,IBM
+Apache Geronimo,IBM 
+Apache Bean Validation,IBM 
+Apache Bean Validation,IBM 
+Apache Bean Validation,IBM 
+Knox,Hortonworks
+Apache OpenJPA,IBM
+Apache OpenJPA,IBM
+Apache OpenJPA,IBM
+Apache OpenJPA,IBM
+OpenJPA,IBM
+Hive,Facebook
+Apache Hive,Facebook
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Apache Hadoop,Yahoo! 
+Nutch,LucidWorks
+Apache Aries,SAP
+Apache Aries,SAP
+Aries,SAP
+Db,IBM
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Hadoop,WANdisco
+Ignite,WANdisco
+Apache Bigtop,WANdisco 
+Apache Hadoop,WANdisco 
+Apache Commons Configuration,scand.com
+Apache Commons Configuration,scand.com
+Apache Hadoop,WANdisco
+Apache Hadoop,WANdisco
+Hadoop,WANdisco
+Apache Hadoop,WANdisco 
+Apache Hadoop,WANdisco 
+Ambari,Hortonworks
+Apache ODE,Sybase
+Apache ODE,Sybase
+Apache ODE,Sybase 
+Apache ODE,Sybase 
+Hadoop,Hortonworks
+Knox,Hortonworks
+Apache Hbase,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+HBase,Cloudera
+Apache HBase,Cloudera 
+Camel,Red Hat
+Apache ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+ServiceMix,FuseSource
+Apache Camel,FuseSource 
+Apache Karaf,FuseSource
+Apache ServiceMix,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache Woden,IBM
+Apache Woden,IBM 
+Apache Aries,IBM
+Aries,IBM
+Apache Aries,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM 
+Geronimo,IBM
+Hadoop,Cloudera
+Sentry,Cloudera
+Apache Gora,Stanford University
+Apache Gora,Stanford University
+Gora,NASA JPL
+Nutch,NASA JPL
+Hadoop,Hortonworks
+Hive,Intel
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM 
+Geronimo,IBM
+Apache Aries,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Aries,IBM
+Aries,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Apache Hbase,Facebook
+HBase,Facebook
+Apache HBase,Facebook 
+Hadoop,Twitter
+BVal,IBM
+Apache BVal,IBM
+Apache Bean Validation,IBM 
+Apache Bean Validation,IBM 
+Apache Hadoop,IBM
+Apache ANT,Metamach Solutions
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Hadoop,Hortonworks
+Knox,Hortonworks
+Zookeeper,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Giraph,Facebook
+Knox,Hortonworks
+Apache Click,Avoka Technologies
+Apache Click,Avoka Technologies
+Apache Click,Avoka Technologies 
+MyFaces,Oracle
+Db,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Spark,Cloudera
+ActiveMQ,product + concept
+Apache Camel,product + concept
+ActiveMQ,product + concept
+Camel,product + concept
+Apache Camel,product + concept 
+Apache Syncope,Tirasa
+Apache Syncope,Tirasa
+Syncope,Tirasa
+Apache Syncope,Tirasa 
+REEF,Microsoft
+Apache Commons VFS,OPS EDV Gmbh
+Apache MyFaces,OPS EDV GmbH
+Apache Tobago,OPS EDV GmbH
+Apache Commons VFS,OPS EDV Gmbh
+Apache MyFaces,OPS EDV GmbH
+MyFaces,OPS EDV GmbH
+Apache Tobago,OPS EDV GmbH 
+Apache Geronimo,IBM
+ActiveMQ,Savoir Technologies
+Sentry,Cloudera
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache Commons DBCP,Apache Software Foundation
+Pig,LinkedIn
+Apache Commons BCEL,it-frameworksolutions
+Apache Commons BCel,it-frameworksolutions
+REEF,Microsoft
+Airavata,Indiana University
+Apache Jackrabbit,GX
+Jackrabbit,GX
+Apache Jackrabbit,GX
+Apache Commons SCXML,Apache Software Foundation
+Apache Archiva,ASF
+Apache ServiceMix,InterComponentWare AG
+ServiceMix,InterComponentWare AG
+Apache ServiceMix,InterComponentWare AG
+Apache Commons Configuration,tucana.at
+Apache Commons DBCP,tucana.at
+Apache Torque,Tucana.at
+Apache Torque,Tucana.at
+Apache Commons Configuration,tucana.at 
+Apache Commons Configuration,tucana.at 
+Apache Commons DBCP,tucana.at 
+Apache Commons Betwixt,mvdb.com 
+Phoenix,Intel
+Calcite,Intel
+Apache Syncope,Tirasa
+Apache Syncope,Tirasa
+Syncope,Tirasa
+Apache Syncope,Tirasa 
+ActiveMQ,360 Treasury Systems
+Apache Camel,360 Treasury Systems
+ActiveMQ,360 Treasury Systems
+Camel,360 Treasury Systems
+Apache Camel,360 Treasury Systems 
+Apache BVal,Permanent General Assurance Co
+Apache Bean Validation,Permanent General Assurance Co
+Apache Bean Validation,Permanent General Assurance Co
+Apache Bean Validation,Permanent General Assurance Co
+MyFaces,Oracle
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+ServiceMix,IBM
+Apache ServiceMix,IBM
+Apache ServiceMix,IBM
+Apache ServiceMix,IBM 
+Apache ServiceMix,IBM 
+Apache Sandesha,IBM
+Apache Sandesha,IBM
+Apache Avro,Cloudera
+Hive,Hortonworks
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Hbase,Cloudera
+HBase,Cloudera
+Apache HBase,Cloudera 
+Apache Woden,IBM
+Apache Woden,IBM 
+Ambari,Red Hat
+Crunch,Independent
+Apache MyFaces,Kaazing
+Apache Tobago,Kaazing
+Apache BVal,Kaazing
+Apache MyFaces,Kaazing
+MyFaces,Kaazing
+Apache Bean Validation,Kaazing 
+Apache Bean Validation,Kaazing 
+Apache Tobago,Kaazing 
+BVal,Kaazing
+ActiveMQ,BetFair
+Apache ActiveMQ,BetFair
+ActiveMQ,BetFair
+MyFaces,Oracle
+BVal,Permanent General Assurance Co
+Sqoop,Google
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache MyFaces,IBM
+Apache Tobago,IBM
+Apache MyFaces,IBM
+MyFaces,IBM
+Apache Tobago,IBM 
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+ActiveMQ,BoxTone
+Apache ActiveMQ,BoxTone
+ActiveMQ,BoxTone
+Nutch,NASA JPL
+Apache Axis,IBM
+Apache Axis2,IBM
+Phoenix,Cloudera
+Apache Hbase,Cloudera
+Apache Hadoop,StumbleUpon
+HBase,Cloudera
+Apache Bigtop,StumbleUpon 
+Apache HBase,Cloudera 
+Apache Hadoop,StumbleUpon 
+Apache Accumulo,Cloudera
+Apache Accumulo,Cloudera
+Accumulo,Cloudera
+Apache Sling,MySign AG
+Apache Sling,MySign AG
+Apache Sling,MySign AG 
+Apache Sling,MySign AG 
+Flume,Cloudera
+Apache Maven,IBM
+Maven,IBM
+Apache Maven,IBM 
+Accumulo,Peterson Technologies
+Db,IBM
+HBase,Facebook
+Apache Hbase,Facebook
+HBase,Facebook
+Apache HBase,Facebook 
+Airavata,Indiana University
+Hadoop,Twitter
+Apache Geronimo,IBM 
+Geronimo,IBM
+HBase,Cloudera
+Apache Hive,Yahoo!
+Apache Camel,InterComponentWare AG
+Camel,InterComponentWare AG
+Apache Camel,InterComponentWare AG 
+BVal,Thebe Technology
+Apache BVal,Thebe Technology
+Apache Bean Validation,Thebe Technology 
+Apache Bean Validation,Thebe Technology 
+Apache Commons Logging,Apache
+Ambari,Hortonworks
+Db,Tucana.at
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Db,IBM
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Db,Oracle
+Apache Axis,Lanka Software Foundation
+Apache Axis2,Lanka Software Foundation
+Ambari,Hortonworks
+Apache Hive,Facebook
+Apache Hive,Facebook 
+Apache Axiom,WSO2
+Apache Axis,WSO2
+Apache Axiom,WSO2
+Apache Axis2,WSO2
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Commons EL,Massachusetts Institute of Tec
+Apache Commons El,Massachusetts Institute of Tec
+Apache Velocity,ESHA Research
+Apache Velocity,ESHA Research
+Apache Velocity Anakia,ESHA Research
+Apache Velocity Anakia,ESHA Research
+Apache Velocity Anakia,ESHA Research
+Velocity,ESHA Research
+Apache Velocity,ESHA Research 
+Apache Velocity,ESHA Research 
+Hive,NexR
+Apache Hive,NexR 
+Apache Hive,NexR
+ActiveMQ,Royal Bank of Scotland
+Apache Camel,Royal Bank of Scotland
+ActiveMQ,Royal Bank of Scotland
+Camel,Royal Bank of Scotland
+Apache Camel,Royal Bank of Scotland 
+Apache Axis,IBM
+Apache Axis2,IBM
+Calcite,Hortonworks
+Ambari,Hortonworks
+Apache HBase,Hortonworks 
+Spark,IBM
+ActiveMQ,Evolution
+Apache Camel,Evolution
+ActiveMQ,Evolution
+Camel,Evolution
+Apache Camel,Evolution 
+Syncope,Intesys
+Apache Commons Configuration,Cap Gemini
+Apache Commons Configuration,Cap Gemini
+Apache Batik,BitFlash Inc
+Apache Hbase,Facebook
+HBase,Facebook
+Apache HBase,Facebook 
+Apache Axis,IBM
+Apache Axis2,IBM
+Mesos,Intel
+Apache James,Trillian AB
+Apache James,Trillian AB
+Apache James,Trillian AB
+Apache Aries,SAP
+Apache Aries,SAP
+Aries,SAP
+Apache Hive,Facebook
+Hive,Facebook
+Apache Hive,Facebook 
+Airavata,Indiana University
+Giraph,Facebook
+Apache Synapse,Apache
+Apache Synapse,Apache
+Synapse,Apache
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache Pig,Yahoo!
+Apache Pig,Yahoo!
+Apache Continuum,ASF
+Apache Archiva,Ecetera.com.au
+Apache Woden,WSO2
+Apache Woden,WSO2 
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache HCatalog,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Giraph,HortonWorks
+Hadoop,Hortonworks
+Hive,Hortonworks
+Knox,Hortonworks
+REEF,HortonWorks
+Tajo,Hortonworks
+Apache Bigtop,Yahoo! 
+Apache Bigtop,Yahoo! 
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Hive,Hortonworks
+Apache Sling,Edmunds Inc.
+Apache Sling,Edmunds Inc.
+Apache Sling,Edmunds Inc. 
+Apache Sling,Edmunds Inc. 
+Ambari,Hortonworks
+Falcon,Inmobi
+Apache Mahout,LinkedIn profile 
+Knox,IBM
+Sentry,Cloudera
+Apache Hadoop,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Flume,Cloudera
+Zookeeper,Cloudera
+Apache Bigtop,Cloudera 
+Apache Hadoop,Cloudera 
+Apache Bigtop,Cloudera 
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Airavata,WSO2
+Synapse,WSO2
+Apache Maven,Red Hat
+Maven,Red Hat
+Apache Maven,Red Hat 
+Falcon,Hortonworks
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+MyFaces,IBM
+Apache Hive,Facebook
+Apache HCatalog,Facebook
+Apache HCatalog,Facebook
+Falcon,Inmobi
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Falcon,Hortonworks
+Hive,Hortonworks
+ActiveMQ,Prepulse
+Apache ActiveMQ,Prepulse
+ActiveMQ,Prepulse
+Apache Bigtop,Suse 
+Apache Commons CLI,Hewlett-Packard
+Apache Commons CLI,Hewlett-Packard
+Apache MyFaces,Digital Brain
+MyFaces,Digital Brain
+Apache Aries,SAP
+Apache Aries,SAP
+Aries,SAP
+Apache Commons JEXL,Apache Software Foundation
+Apache Commons JEXL,Apache Software Foundation
+Apache ServiceMix,FAST
+ServiceMix,FAST
+Apache ServiceMix,FAST
+Apache ServiceMix,DevZuz
+Apache ServiceMix,DevZuz
+ServiceMix,DevZuz
+Apache ServiceMix,DevZuz 
+Apache ServiceMix,DevZuz 
+Apache Avro,Cloudera
+Apache Avro,Cloudera
+Apache Avro,Cloudera
+Avro,Cloudera
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache Commons EL,Sun Microsystems
+Apache Commons El,Sun Microsystems
+Falcon,Inmobi
+Ambari,Hortonworks
+Apache Hive,Facebook
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Flume,Cloudera
+Hive,Cloudera
+Apache Hive,Cloudera
+Hive,Hortonworks
+Spark,IBM
+Apache Jackrabbit,Cognifide
+Jackrabbit,Cognifide
+Apache Jackrabbit,Cognifide
+Sqoop,Intel
+Apache Commons Email,NequalsOne
+Apache Torque,NEqualsOne
+Apache Torque,NEqualsOne
+Apache Commons Email,NequalsOne
+Db,NEqualsOne
+Apache ServiceMix,Wipro Technologies
+ServiceMix,Wipro Technologies
+Apache ServiceMix,Wipro Technologies
+Apache ODE,TouK
+Apache ODE,TouK
+Apache ODE,TouK 
+Apache ODE,TouK 
+Falcon,Hortonworks
+Apache Hive,Facebook
+Hive,Facebook
+Apache Hive,Facebook 
+Apache Hadoop,Twitter
+Apache Hadoop,Twitter
+Hadoop,Twitter
+Apache Hadoop,Twitter 
+Apache Hadoop,Twitter 
+Sentry,Oracle
+Apache Commons JEXL,Apache Software Foundation
+Apache Commons SCXML,Apache Software Foundation
+Apache Commons VFS,Apache Software Foundation
+Apache Commons JEXL,Apache Software Foundation
+Apache Commons VFS,Apache Software Foundation
+Phoenix,Hortonworks
+HBase,Hortonworks
+Zookeeper,Intel
+Apache Commons Configuration,Intuit
+Apache Commons VFS,Intuit
+Apache Maven,Intuit
+Apache Commons VFS,Intuit
+Maven,Intuit
+Apache Commons Configuration,Intuit 
+Apache Commons Configuration,Intuit 
+Apache Maven,Intuit 
+Ambari,Hortonworks
+Airavata,Indiana University
+HBase,Intel
+Apache HBase,Intel 
+Phoenix,Intel
+Apache Hadoop,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+ActiveMQ,Optaros
+Apache ActiveMQ,Optaros
+ActiveMQ,Optaros
+Zookeeper,Twitter
+Apache Accumulo,Hortonworks
+Accumulo,Hortonworks
+Apache OpenJPA,Oracle Corporation
+OpenJPA,Oracle
+Apache OpenJPA,Oracle Corporation 
+Apache Aries,IBM
+Apache Aries,IBM
+Aries,IBM
+Apache Syncope,Everett
+Syncope,Everett
+Apache Syncope,Everett 
+Apache Gora,Universidad Catolica San Pabl
+Apache Gora,Universidad Catolica San Pabl
+Db,Oracle
+Apache Axiom,IBM
+Apache Axis,IBM
+Apache Axiom,IBM
+Apache Axis2,IBM
+Apache Pig,IBM
+Apache Pig,IBM
+Pig,IBM
+Apache PIG,IBM 
+Apache Camel,Avisi BV
+Camel,Avisi BV
+Apache Camel,Avisi BV 
+Apache Commons Logging,Apache Software Foundation
+Ambari,Hortonworks
+Sqoop,Intel
+Apache OpenJPA,IBM Corporation
+Apache OpenJPA,IBM Corporation
+Apache OpenJPA,IBM Corporation
+Apache OpenJPA,IBM Corporation
+OpenJPA,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM 
+Falcon,InMobi
+ActiveMQ,Fuse Source
+Apache ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+Apache ActiveMQ,Fuse Source
+Apache Camel,Red Hat
+ActiveMQ,Red Hat
+Camel,Red Hat
+ServiceMix,FuseSource
+Apache Camel,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache ServiceMix,FuseSource 
+Apache Commons CLI,Indigo Stone
+Apache Commons CLI,Indigo Stone
+Apache Commons Logging,Apache Software Foundation
+Apache Commons Pool,Apache Software Foundation
+Hadoop,Cloudera
+Oozie,Cloudera
+Apache Axis,Brazil Outsource
+Apache Axis2,Brazil Outsource
+Ambari,Hortonworks
+ActiveMQ,STG Technologies
+Apache ServiceMix,STG Technologies
+Apache Camel,Solentus
+Apache ServiceMix,STG Technologies
+ActiveMQ,STG Technologies
+Camel,Solentus
+ServiceMix,STG Technologies
+Apache Camel,STG Technologies
+Apache Sling,Adobe 
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Apache Hadoop,Yahoo! 
+ActiveMQ,Dresdner Kleinwort Wasserstein
+Apache Camel,Dresdner Kleinwort Wasserstein
+ActiveMQ,Dresdner Kleinwort Wasserstein
+Camel,Dresdner Kleinwort Wasserstein
+Apache Camel,Dresdner Kleinwort Wasserstein
+Apache Commons HTTP Client,Britannica
+Apache Commons Logging,Apache Software Foundation
+Apache Commons HTTP Client,Britannica 
+Apache Pig,Yahoo!
+Apache Aries,ProSyst
+Apache Aries,ProSyst
+Aries,ProSyst
+Apache Bigtop,Cloudera 
+Apache BVal,Viaboxx GmbH
+Apache Bean Validation,Viaboxx GmbH 
+Apache Bean Validation,Viaboxx GmbH 
+BVal,Viaboxx GmbH
+Apache River,Sun Microsystems
+Flume,Hortonworks
+Mesos,Facebook
+Airavata,Microsoft
+REEF,Microsoft
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache Axiom,WSO2
+Apache Axiom,WSO2
+Apache Axis,WSO2
+Apache Axis2,WSO2
+Apache Geronimo,IBM 
+Geronimo,IBM
+Falcon,Hortonworks
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Apache Accumulo,Cloudera
+Accumulo,Cloudera
+HBase,WANdisco
+Apache Jackrabbit,Anyware Technologies
+Jackrabbit,Anyware Technologies
+Apache Jackrabbit,Anyware Technologies
+Apache Aries,SAP
+Apache Aries,SAP
+Aries,SAP
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Airavata,WSO2
+Apache Axis,WSO2
+Apache Axis2,WSO2
+Falcon,InMobi
+Apache Axiom,WSO2
+Apache Axis,WSO2
+Apache Synapse,WSO2
+Apache Axiom,WSO2
+Apache Axis2,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Ambari,Hortonworks
+Apache Commons Pool,Apache Software Foundation
+Hadoop,Cloudera
+Apache Hadoop,Cloudera 
+Hadoop,Twitter
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Axis,WSO2
+Apache Sandesha,WSO2
+Apache Synapse,WSO2
+Apache Axiom,WSO2
+Apache Axis2,WSO2
+Apache Sandesha,WSO2
+Apache Synapse,WSO2
+Airavata,WSO2
+Synapse,WSO2
+Apache Axis,WSO2
+Apache Sandesha,WSO2
+Apache Axis2,WSO2
+Apache Sandesha,WSO2
+Apache Pig,Yahoo!
+Apache Pig,Yahoo!
+Pig,Cloudera
+Apache PIG,Cloudera 
+Apache Avro,Microsoft
+Apache Avro,Microsoft
+Apache Avro,Microsoft
+Avro,Microsoft
+Apache Hadoop,Facebook
+Hadoop,Facebook
+Apache Hadoop,Facebook 
+Ambari,Red Hat
+Apache Turbine,Backstage Technologies Pty. Lt
+Apache Turbine,Backstage Technologies Pty. Lt
+Apache Torque,Backstage Technologies Pty. Lt
+Apache Torque,Backstage Technologies Pty. Lt
+Turbine,Backstage Technologies Pty. Lt
+Apache Turbine,Backstage Technologies Pty. Lt
+Apache Turbine,Backstage Technologies Pty. Lt
+Apache Turbine,Backstage Technologies Pty. Lt
+Apache Camel,Red Hat
+Camel,Red Hat
+Apache Camel,FuseSource 
+MyFaces,Oracle
+Apache Commons Logging,Apache Software Foundation
+Db,Backstage Technologies Pty. Lt
+Accumulo,Cloudera
+Avro,Cloudera
+HBase,Cloudera
+Apache Accumulo,Cloudera
+Apache Commons HTTP Client,Independent consultant
+Apache Commons HTTP Client,Independent consultant 
+Sentry,Cloudera
+Spark,Cloudera
+Apache Mahout,Myrrix 
+Marmotta,Google
+Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Axiom,WSO2
+Apache Axis,WSO2
+Apache Axiom,WSO2
+Apache Axis2,WSO2
+Apache Aries,Talend
+Apache Aries,Talend
+Aries,Talend
+HBase,Hortonworks
+Hive,Hortonworks
+Apache HBase,Hortonworks 
+Hive,Cloudera
+REEF,Microsoft
+Apache Gora,Konneka
+Apache Gora,Konneka
+Apache Gora,Konneka
+Gora,Konneka
+Falcon,InMobi
+Airavata,Indiana University
+Spark,Intel
+Apache Hadoop,InMobi
+Apache Hadoop,InMobi
+Falcon,InMobi
+Hadoop,InMobi
+Apache Avro,InMobi
+Apache Avro,InMobi
+Avro,InMobi
+Apache Hadoop,InMobi 
+Apache Hadoop,InMobi 
+Jackrabbit,Adobe
+Apache Commons EL,Apache Software Foundation
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Apache Axis,University Of Peradeniya
+Apache Axis2,University Of Peradeniya
+REEF,Microsoft
+Sentry,Google
+Chukwa,IBM
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Turbine,IT20one
+Apache Turbine,IT20one
+Turbine,IT20one
+Apache Turbine,IT20one 
+Apache Turbine,IT20one 
+Apache Turbine,IT20one 
+Bookkeeper,Twitter
+Apache River,QCG
+River,QCG
+Apache River,QCG
+Apache Commons Logging,Apache Software Foundation
+Apache BVal,Adobe
+Oltu,Adobe
+Apache Syncope,The Apache Software Foundation
+BVal,Adobe
+Hive,Facebook
+Apache Hive,Facebook
+Falcon,Hortonworks
+Sentry,Cloudera
+Hadoop,InMobi
+Ambari,Hortonworks
+Ambari,Hortonworks
+HBase,Cloudera
+Falcon,InMobi
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Axiom,Lanka Software Foundation
+Apache Axis,Indiana University
+Apache Axiom,Lanka Software Foundation
+Apache Axis2,Indiana University
+Airavata,WSO2
+Apache Geronimo,IBM
+Apache OpenJPA,Oracle Corporation
+OpenJPA,Oracle
+Apache OpenJPA,Oracle Corporation 
+Apache Camel,Red Hat
+Camel,Red Hat
+Apache Camel,FuseSource 
+Apache MyFaces,JBoss/Blog/organization
+Apache Tobago,JBoss/Blog/organization
+Apache MyFaces,JBoss/Blog/organization
+MyFaces,JBoss/Blog/organization
+Apache Tobago,JBoss/Blog/organization 
+Jackrabbit,Adobe
+Apache Sling,Adobe 
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache Maven,ASF
+Apache Bigtop,Cloudera 
+HBase,Hortonworks
+Apache Axis,HP labs
+Apache Hama,Hortonworks
+Apache Hama,Hortonworks
+Apache Accumulo,Hortonworks
+Apache Axis2,HP labs
+Accumulo,Hortonworks
+Hadoop,Hortonworks
+hama,Hortonworks
+Apache Bigtop,HP Laboratories 
+Apache Bigtop,HP Laboratories 
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Mahout,LinkedIn Profile 
+Ambari,Red Hat
+Falcon,InMobi
+Nutch,NASA JPL
+Apache Axis,WSO2
+Apache Axis2,WSO2
+Ambari,Hortonworks
+Knox,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Knox,Hortonworks
+Apache Mahout,VeriSign Inc. 
+Ambari,Hortonworks
+Apache Synapse,WSO2
+Apache Synapse,WSO2
+Synapse,WSO2
+Airavata,Indiana University
+Airavata,Indiana University
+Ambari,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Db,IBM
+Apache HCatalog,Hortonworks
+Apache HCatalog,Hortonworks
+Hive,Hortonworks
+Apache Hive,Hortonworks
+Ambari,Hortonworks
+Hive,Cloudera
+Accumulo,Hortonworks
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Zookeeper,MapR Technologies
+Apache Zookeeper,MapR Technologies
+Apache Zookeeper,MapR Technologies
+Apache Mahout,MapR Technologies 
+Geronimo,IBM
+Apache Geronimo,IBM 
+Accumulo,Cloudera
+Ambari,Hortonworks
+Apache Hbase,Hortonworks
+Apache Accumulo,Hortonworks
+Accumulo,Hortonworks
+HBase,Hortonworks
+Apache HBase,Hortonworks 
+Nutch,Facebook
+Apache Zookeeper,Facebook
+Zookeeper,Facebook
+Ambari,Hortonworks
+Apache Pig,HortonWorks
+Apache Pig,HortonWorks
+Hive,Hortonworks
+Pig,HortonWorks
+Apache Hive,Hortonworks
+Apache PIG,HortonWorks 
+Apache Axiom,WSO2
+Apache Axis,Lanka Software Foundation
+Apache Axiom,WSO2
+Apache Axis2,Lanka Software Foundation
+Apache Axis,WSO2
+Apache Axis2,WSO2
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Knox,Hortonworks
+Apache Batik,Eastman Kodak Company
+Spark,Facebook
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo!
+Apache Hadoop,Yahoo! 
+Apache Hadoop,Yahoo! 
+Apache Sandesha,IBM
+Apache Sandesha,IBM
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache Commons Email,The Apache Software Foundation
+Apache ServiceMix,Blue Elephant Systems
+Apache ServiceMix,Blue Elephant Systems
+ServiceMix,Blue Elephant Systems
+Apache ServiceMix,Blue Elephant Systems 
+Apache ServiceMix,Blue Elephant Systems 
+Apache Turbine,TeWiSoft GmbH
+Apache Torque,TeWiSoft GmbH
+Apache Torque,TeWiSoft GmbH
+Turbine,TeWiSoft GmbH
+Apache Turbine,TeWiSoft GmbH 
+Mesos,Cloudera
+Apache Whirr,Omixon
+Apache Whirr,Omixon
+Apache Whirr,Omixon
+Apache Whirr,Omixon
+Apache Synapse,Atos Origin
+Apache Synapse,Atos Origin
+Synapse,Atos Origin
+Apache Commons Jelly,Intalio
+Apache Commons Jelly,Intalio
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache OpenJPA,IBM Corporation
+Geronimo,IBM
+OpenJPA,IBM
+Apache Geronimo,IBM 
+Apache OpenJPA,IBM Corporation 
+Apache Commons JEXL,independent
+Apache Commons JEXL,independent
+ActiveMQ,Fuse Source
+Apache ActiveMQ,Fuse Source
+ActiveMQ,Red Hat
+Mesos,Redhat
+Apache Jackrabbit,Adobe
+Jackrabbit,Adobe
+Apache Jackrabbit,Adobe
+Apache Commons DBCP,toddc@concur.com
+Apache Hbase,Cloudera
+Apache Hadoop,Cloudera
+Apache Hadoop,Cloudera
+Hadoop,Cloudera
+HBase,Cloudera
+Apache HBase,Cloudera 
+Apache Hadoop,Cloudera 
+Apache Hadoop,Cloudera 
+Apache Aries,ProSyst
+Apache Aries,ProSyst
+Aries,ProSyst
+Apache River,TRH Tech Services Ltd
+River,TRH Tech Services Ltd
+Apache River,TRH Tech Services Ltd
+Aries,IBM
+Sentry,Cloudera
+Apache Hadoop,Cloudera
+Apache Hadoop,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Apache Avro,Cloudera
+Apache Avro,Cloudera
+Apache Whirr,Cloudera
+Apache Whirr,Cloudera
+Avro,Cloudera
+Crunch,Cloudera
+Hadoop,Cloudera
+Apache Bigtop,Cloudera 
+Apache Bigtop,Cloudera 
+Apache Hadoop,Cloudera 
+Apache Hadoop,Cloudera 
+Jackrabbit,Adobe
+Apache Hama,Adobe
+Apache Hama,Adobe
+hama,Adobe
+Jackrabbit,Adobe
+Oltu,Adobe
+Apache Jackrabbit,Adobe
+Apache Maven,CodeLutin
+Maven,CodeLutin
+Apache Maven,CodeLutin 
+REEF,Microsoft
+Apache Commons BCel,ASF
+Apache Camel,Juice Labs
+Camel,Juice Labs
+Apache Camel,Juice Labs 
+Apache HCatalog,Twitter
+Apache Hive,Twitter
+Apache Bigtop,Twitter 
+Apache Commons JCS,IFilm
+Ambari,Red Hat
+Apache Continuum,ASF
+Apache Maven,ASF
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Sentry,IBM
+Apache ServiceMix,FuseSource
+ServiceMix,FuseSource
+Apache ServiceMix,FuseSource 
+Bookkeeper,Intel
+Hadoop,Intel
+Apache Synapse,Apache
+Apache Synapse,Apache
+Synapse,Apache
+Hive,Hortonworks
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Sentry,Cloudera
+Apache HCatalog,Yahoo!
+Apache HCatalog,Yahoo!
+Apache Hive,Yahoo!
+Apache Ambari,Hortonworks
+Hadoop,Hortonworks
+Ambari,Hortonworks
+Sqoop,Hortonworks
+Apache Axiom,Computer Associates
+Apache Axis,Computer Associates
+Apache Axiom,Computer Associates
+Apache Axis2,Computer Associates
+Knox,Hortonworks
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Jackrabbit,Adobe
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Hive,Hortonworks
+Accumulo,Cloudera
+Knox,Hortonworks
+Apache Batik,Sun Microsystems Inc.
+Apache Maven,ASF
+Apache Maven,ASF
+Apache River,Sun Microsystems
+Apache Hadoop,Hortonworks
+Apache Hadoop,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Crunch,Hortonworks
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 
+Apache Hadoop,Hortonworks 
+Apache Aries,SAP
+Apache Aries,SAP
+Aries,SAP
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,The Ohio State University
+Knox,Hortonworks
+Hadoop,Hortonworks
+Apache Maven,ASF
+Apache Commons Jelly,The Werken Company
+Apache Velocity,Forio Business Simulations
+Apache Velocity,Forio Business Simulations
+Apache Turbine,Forio Business Simulations
+Apache Turbine,Forio Business Simulations
+Apache Velocity Anakia,Forio Business Simulations
+Apache Velocity Anakia,Forio Business Simulations
+Apache Velocity Anakia,Forio Business Simulations
+Turbine,Forio Business Simulations
+Velocity,Forio Business Simulations
+Apache Turbine,Forio Business Simulations 
+Apache Turbine,Forio Business Simulations 
+Apache Turbine,Forio Business Simulations 
+Apache Velocity,Forio Business Simulations 
+Apache Velocity,Forio Business Simulations 
+ActiveMQ,Fuse Source
+Apache ActiveMQ,Fuse Source
+Apache Camel,Red Hat
+ActiveMQ,Red Hat
+ServiceMix,FuseSource
+Apache ServiceMix,FuseSource
+Apache Camel,FuseSource 
+Apache ServiceMix,FuseSource
+Apache Camel,Progress Software
+Camel,Progress Software
+Apache Camel,Progress Software 
+Apache Commons Net,Quad/Graphics
+Apache Commons Net,Quad/Graphics
+Flume,Cloudera
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Hadoop,Hortonworks
+Apache Geronimo,IBM
+Apache Geronimo,IBM
+Apache Geronimo,IBM 
+Geronimo,IBM
+Hadoop,Hortonworks
+Sentry,Cloudera
+Apache Hive,Cloudera
+Mesos,Twitter
+hama,Facebook
+Hadoop,Intel
+Tajo,Intel
+Hive,The Ohio State University
+Apache Hive,The Ohio State University
+REEF,Microsoft
+Apache Commons DBCP,Apache Software Foundation
+Apache Commons Modeler,Apache
+Hadoop,Cloudera
+Apache Hive,Facebook 
+Hive,Cloudera
+Knox,IBM
+Airavata,Indiana University
+Apache Geronimo,IBM
+Geronimo,IBM
+Apache Geronimo,IBM 
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Apache Ambari,Hortonworks
+Ambari,Hortonworks
+Knox,Hortonworks
+Ambari,Hortonworks
+Hadoop,Cloudera
+Apache Hadoop,Facebook
+Apache Hadoop,Facebook
+Apache Hive,Facebook
+Hadoop,Facebook
+Apache Hadoop,Facebook 
+Apache Hadoop,Facebook 
+Hadoop,Hortonworks
+Apache Hadoop,Hortonworks 

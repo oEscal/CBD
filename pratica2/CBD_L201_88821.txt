@@ -1,0 +1,90 @@
+# Criar uma base de dados
+> use test
+switched to db test
+
+# Saber qual a base de dados em que se está a trabalhar no momento
+> db
+test
+
+# Saber que bases de dados existem no servidor e o espaço que estas ocupam
+> show dbs
+admin      0.000GB
+cbd        0.001GB
+companies  0.061GB
+config     0.000GB
+local      0.000GB
+test       0.009GB
+
+# Criar uma nova coleção
+> db.createCollection("test_collection")
+{ "ok" : 1 }
+
+# Eliminar uma coleção
+> db.test_collection.drop()
+true
+
+# Inserir um novo documento
+> db.test_collection.insert({nome: "Olá", email: "ola@ola.com"})
+WriteResult({ "nInserted" : 1 })
+
+# Inserir vários documentos
+> db.test_collection.insert([{nome: "Adeus", email: "adeus@adeus.com"}, {nome: "Hmmm", email: "hmmm@hmmm.com"}])
+BulkWriteResult({
+	"writeErrors" : [ ],
+	"writeConcernErrors" : [ ],
+	"nInserted" : 2,
+	"nUpserted" : 0,
+	"nMatched" : 0,
+	"nModified" : 0,
+	"nRemoved" : 0,
+	"upserted" : [ ]
+})
+
+# Leitura de todos os documentos
+> db.test_collection.find()
+{ "_id" : ObjectId("5dc4bfa5b18a22b330cb5d34"), "nome" : "Olá", "email" : "ola@ola.com" }
+{ "_id" : ObjectId("5dc4bfe7b18a22b330cb5d35"), "nome" : "Adeus", "email" : "adeus@adeus.com" }
+{ "_id" : ObjectId("5dc4bfe7b18a22b330cb5d36"), "nome" : "Hmmm", "email" : "hmmm@hmmm.com" }
+
+# Leitura de documentos selecionando a forma como se quer efetuar a pesquisa e os atributos que se pretendem obter
+> db.test_collection.find({nome: "Adeus"}, {email: 1})
+{ "_id" : ObjectId("5dc4bfe7b18a22b330cb5d35"), "email" : "adeus@adeus.com" }
+
+# Edição de documentos
+> db.test_collection.update({nome: "Adeus"}, {email: "adeus@ola.pt"})               // neste caso, vai alterar todo o documento e deixar apenas o email com o valor atribuido
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
+
+> db.test_collection.update({nome: "Adeus"}, {$set: {email: "adeus@ola.pt"}})       // alterar apenas o email (os outros atributos mantêm-se)
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 0 })
+
+# Remover todos os documentos
+> db.test_collection.remove({})
+
+# Remover documentos de acordo com uma query
+> db.test_collection.remove({nome: "Adeus"})
+WriteResult({ "nRemoved" : 1 })
+
+# Um array em mongo pode conter dados de vários tipos
+> db.test_collection.insert({nome: "Adeus", list: ["Adeus", 1]})
+WriteResult({ "nInserted" : 1 })
+
+# Para aceder a um determinado índice dum array em mongo (neste caso acedeu-se ao índice 1 para verificar se o valor lá armazenado era diferente de 0)
+> db.test_collection.find({nome: "Adeus", "list.1": {$ne: 0}})
+{ "_id" : ObjectId("5dc4c2c8b18a22b330cb5d38"), "nome" : "Adeus", "list" : [ "Adeus", 1 ] }
+
+# Criar um índice
+> db.test_collection.ensureIndex({nome: 1})
+{
+	"createdCollectionAutomatically" : false,
+	"numIndexesBefore" : 1,
+	"numIndexesAfter" : 2,
+	"ok" : 1
+}
+
+# Agregações (neste caso mostrar todos os documentos onde há um mail que não seja vazio)
+> db.test_collection.aggregate({$match: {"email": {$nin: ["", null]}}})
+{ "_id" : ObjectId("5dc4bfa5b18a22b330cb5d34"), "nome" : "Olá", "email" : "ola@ola.com" }
+{ "_id" : ObjectId("5dc4bfe7b18a22b330cb5d36"), "nome" : "Hmmm", "email" : "hmmm@hmmm.com" }
+
+# Map reduce
+Usado normalmente para processar e condensar grandes quantidades de dados em dados agregados

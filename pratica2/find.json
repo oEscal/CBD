@@ -1,0 +1,2 @@
+{"grades.score": {"$not": {"$gt": 3}}}
+{"restaurant_id": 1, "nome": 1, "grades.score": 1, "grades": 1}

@@ -1,0 +1,2790 @@
+num,svn_id,role_on_project,project_name
+380,aa0380,Committer,Apache Geronimo
+2234,ammulder,NA,Geronimo
+7,ammulder,Committer,ActiveMQ
+912,ammulder,Committer,Apache ActiveMQ
+1206,ammulder,Committer,Apache Camel
+1903,ammulder,NA,ActiveMQ
+2120,ammulder,NA,Camel
+1322,ammulder,Committer,Apache Geronimo
+194,ammulder,Committer,Apache Camel
+442,atm,PMC,Apache Hadoop
+477,atm,Committer,Apache Hadoop
+2305,atm,NA,Hadoop
+1422,atm,PMC,Apache Hadoop
+1464,atm,Committer,Apache Hadoop
+625,ab0625,PMC,Apache OpenJPA
+633,ab0633,Committer,Apache OpenJPA
+1632,ab1632,Committer,Apache OpenJPA
+1651,ab1651,PMC,Apache OpenJPA
+2578,ab2578,NA,OpenJPA
+2714,abe,NA,Sqoop
+2715,afine,NA,Sqoop
+2182,Army Brown,NA,Db
+1595,anierbeck,NA,Apache Karaf
+1026,ad1026,Contributor,Apache Aries
+2049,ad2049,NA,Aries
+47,ad0047,Contributor,Apache Aries
+800,adriancole,PMC,Apache Whirr
+813,adriancole,Committer,Apache Whirr
+1841,adriancole,committer,Apache Whirr
+1855,adriancole,PMC,Apache Whirr
+292,adrian,Committer,Apache Commons HTTP Client
+1292,adrian,Committer,Apache Commons HTTP Client
+90,azeez,Committer,Apache Axiom
+114,azeez,Committer,Apache Axis
+771,azeez,Committer,Apache Synapse
+1076,azeez,Committer,Apache Axiom
+1101,azeez,Committer,Apache Axis2
+1766,azeez,Committer,Apache Synapse
+2729,azeez,NA,Synapse
+2453,aihuaxu,NA,Hive
+2214,ajayyadava,NA,Falcon
+1967,ajit,NA,Ambari
+102,ajith,Committer,Apache Axiom
+134,ajith,Committer,Apache Axis
+1088,ajith,Committer,Apache Axiom
+1121,ajith,Committer,Apache Axis2
+1207,ay,Committer,Apache Camel
+2121,ay,NA,Camel
+48,al0048,Contributor,Apache Aries
+337,al0337,PMC,Apache Geronimo
+381,al0381,Committer,Apache Geronimo
+1027,al1027,Contributor,Apache Aries
+2050,al2050,NA,Aries
+658,gates,PMC member,Apache Pig
+671,gates,Committer,Apache Pig
+872,gates,Committer,Apache HCatalog
+873,gates,PPMC,Apache HCatalog
+886,gates,Mentor,Apache HCatalog
+2112,gates,NA,Calcite
+2422,gates,NA,Hive
+2512,gates,NA,Knox
+2568,gates,NA,Oozie
+2611,gates,NA,Pig
+1175,gates,committer,Apache Bigtop
+1189,gates,mentor,Apache Bigtop
+1547,gates,Committer,Apache Hive
+1663,gates,PMC member,Apache PIG
+49,al0049,Contributor,Apache Aries
+1028,al1028,Contributor,Apache Aries
+2051,al2051,NA,Aries
+50,al0050,PMC,Apache Aries
+1029,al1029,PMC,Apache Aries
+2052,al2052,NA,Aries
+626,al0626,PMC,Apache OpenJPA
+634,al0634,Committer,Apache OpenJPA
+1633,al1633,Committer,Apache OpenJPA
+1652,al1652,PMC,Apache OpenJPA
+2579,al2579,NA,OpenJPA
+469,tucu,PMC,Apache Hadoop
+521,tucu,Committer,Apache Hadoop
+2360,tucu,NA,Hadoop
+2569,tucu,NA,Oozie
+1167,tucu,committer,Apache Bigtop
+1455,tucu,PMC,Apache Hadoop
+1517,tucu,Committer,Apache Hadoop
+1968,alejandro,NA,Ambari
+106,alek,Committer,Apache Axiom
+141,alek,Committer,Apache Axis
+1092,alek,Committer,Apache Axiom
+1128,alek,Committer,Apache Axis2
+1945,aslom,NA,Airavata
+943,akovalenko,PMC,Apache Ambari
+1971,akovalenko,NA,Ambari
+2282,apresta,NA,Giraph
+944,alexantonenko,PMC,Apache Ambari
+1972,alexantonenko,NA,Ambari
+1006,al1006,Contributor,Apache Accumulo
+1887,al1887,NA,Accumulo
+2724,posix4e,NA,Sqoop
+543,alexparvulescu,Committer,Apache Jackrabbit
+2459,alexparvulescu,NA,Jackrabbit
+1557,alexparvulescu,Committer,Apache Jackrabbit
+1877,shralex,Committer,Apache Zookeeper
+2786,shralex,NA,Zookeeper
+542,alexkli,Committer,Apache Jackrabbit
+2458,alexkli,NA,Jackrabbit
+1556,alexkli,Committer,Apache Jackrabbit
+366,al0366,Committer,Apache Geronimo
+1368,alfonsonishikawa,Committer,Apache Gora
+1382,alfonsonishikawa,PMC,Apache Gora
+2288,alfonsonishikawa,NA,Gora
+1741,aheimoz,Technical Writer,Apache Sling
+478,aw,Committer,Apache Hadoop
+1465,aw,Committer,Apache Hadoop
+475,amarrk,Committer,Apache Hadoop
+1461,amarrk,Committer,Apache Hadoop
+441,amareshwari,PMC,Apache Hadoop
+474,amareshwari,Committer,Apache Hadoop
+535,amareshwari,Committer,Apache Hive
+2207,amareshwari,NA,Falcon
+2301,amareshwari,NA,Hadoop
+2430,amareshwari,NA,Hive
+1421,amareshwari,PMC,Apache Hadoop
+1460,amareshwari,Committer,Apache Hadoop
+1534,amareshwari,Committer,Apache Hive
+1946,amilaj,NA,Airavata
+1742,amitgupt,Java Developer,Apache Sling
+2460,amitj,NA,Jackrabbit
+2376,acube123,NA,HBase
+1396,acube123,Committer,Apache HBase
+1168,arcilla,committer,Apache Bigtop
+2122,acosentino,NA,Camel
+2496,acosentino,NA,Karaf
+2660,acosentino,NA,ServiceMix
+2760,andreapatricelli,NA,Syncope
+1802,an1802,Contributor,Apache Syncope
+741,an0741,Contributor,Apache ServiceMix
+2692,an2692,NA,ServiceMix
+1728,an1728,Contributor,Apache ServiceMix
+697,andreas,Committer,Apache ServiceMix
+2661,andreas,NA,ServiceMix
+1682,andreas,Committer,Apache ServiceMix
+798,asavu,PMC,Apache Whirr
+810,asavu,Committer,Apache Whirr
+1844,asavu,committer,Apache Whirr
+1858,asavu,PMC,Apache Whirr
+1186,asavu,committer,Apache Bigtop
+2757,ashakirin,NA,Syncope
+1797,ashakirin,committer,Apache Syncope
+812,abayer,Committer,Apache Whirr
+1842,abayer,committer,Apache Whirr
+1856,abayer,PMC,Apache Whirr
+2222,abayer,NA,Flume
+2713,abayer,NA,Sqoop
+1169,abayer,committer,Apache Bigtop
+2629,afchung90,NA,REEF
+2024,an2024,NA,Ambari
+412,ahart,Committer,Apache Gora
+1367,ahart,Committer,Apache Gora
+1381,ahart,PMC,Apache Gora
+2287,ahart,NA,Gora
+694,gatfora,Committer,Apache Sandesha
+1679,gatfora,Committer,Apache Sandesha
+941,aonishuk,Committer,Apache Ambari
+1969,aonishuk,NA,Ambari
+51,an0051,PMC,Apache Aries
+1030,an1030,PMC,Apache Aries
+2053,an2053,NA,Aries
+422,apurtell,Committer,Apache Hbase
+799,apurtell,PMC,Apache Whirr
+811,apurtell,Committer,Apache Whirr
+1843,apurtell,committer,Apache Whirr
+1857,apurtell,PMC,Apache Whirr
+1181,apurtell,committer,Apache Bigtop
+1397,apurtell,Committer,Apache HBase
+2540,arobinson74,NA,MyFaces
+2364,wang,NA,Hadoop
+1519,wang,Committer,Apache Hadoop
+939,ababiichuk,PMC,Apache Ambari
+1965,ababiichuk,NA,Ambari
+942,atkach,PMC,Apache Ambari
+1970,atkach,NA,Ambari
+236,an0236,PMC Member,Apache Click
+238,an0238,Committer,Apache Click
+1238,an1238,PMC Member,Apache Click
+411,ab,Committer,Apache Gora
+472,ab,Committer,Apache Hadoop
+1366,ab,Committer,Apache Gora
+1380,ab,PMC,Apache Gora
+2286,ab,NA,Gora
+2298,ab,NA,Hadoop
+1458,ab,Committer,Apache Hadoop
+616,andys,committer,Apache MyFaces
+832,andys,committer,Apache Tobago
+1621,andys,committer,Apache MyFaces
+2553,andys,NA,MyFaces
+1808,andys,committer,Apache Tobago
+544,angela,Committer,Apache Jackrabbit
+2461,angela,NA,Jackrabbit
+1558,angela,Committer,Apache Jackrabbit
+2570,angeloh,NA,Oozie
+2607,niket486,NA,Pig
+1659,aniket486,Committer,Apache PIG
+2598,an2598,NA,Phoenix
+137,u137,Committer,Apache Axis
+1124,u1124,Committer,Apache Axis2
+2639,an2639,NA,Sentry
+2599,an2599,NA,Phoenix
+2377,anoopsamjohn,NA,HBase
+1398,anoopsamjohn,Committer,Apache HBase
+774,antelder,Committer,Apache Synapse
+1769,antelder,Committer,Apache Synapse
+2732,antelder,NA,Synapse
+990,antoine,PMC,Apache ANT
+2123,astefanutti,NA,Camel
+2565,asanso,NA,Oltu
+1743,asanso,Java Developer,Apache Sling
+2300,adhoot,NA,Hadoop
+2632,anupam,NA,REEF
+111,an0111,Contributor,Apache Axiom
+155,an0155,Contributor,Apache Axis
+1098,an1098,Contributor,Apache Axiom
+1142,an1142,Contributor,Apache Axis2
+2297,apgiannakidis,NA,Gora
+1973,avijayan,NA,Ambari
+545,ard,Committer,Apache Jackrabbit
+2462,ard,NA,Jackrabbit
+1559,ard,Committer,Apache Jackrabbit
+2302,arp,NA,Hadoop
+1462,arp,Committer,Apache Hadoop
+2025,arpit,NA,Ambari
+476,arpit,Committer,Apache Hadoop
+2303,arpit,NA,Hadoop
+1463,arpit,Committer,Apache Hadoop
+940,abaranchuk,Committer,Apache Ambari
+1966,abaranchuk,NA,Ambari
+1904,artnaseef,NA,ActiveMQ
+840,ryman,Committer,Apache Woden
+1869,ryman,Committer,Apache Woden
+440,acmurthy,PMC,Apache Hadoop
+473,acmurthy,Committer,Apache Hadoop
+2299,acmurthy,NA,Hadoop
+1420,acmurthy,PMC,Apache Hadoop
+1459,acmurthy,Committer,Apache Hadoop
+2640,ar2640,NA,Sentry
+2304,asuresh,NA,Hadoop
+786,asanka,Committer,Apache Synapse
+1781,asanka,Committer,Apache Synapse
+2744,asanka,NA,Synapse
+783,asankha,Committer,Apache Synapse
+1778,asankha,Committer,Apache Synapse
+2741,asankha,NA,Synapse
+2235,as2235,NA,Geronimo
+1323,as1323,Committer,Apache Geronimo
+2039,as2039,NA,Ambari
+524,athusoo,Committer,Apache Hive
+2408,athusoo,NA,Hive
+1522,athusoo,PMC,Apache Hive
+537,hashutosh,Committer,Apache Hive
+660,hashutosh,PMC member,Apache Pig
+673,hashutosh,Committer,Apache Pig
+870,hashutosh,Committer,Apache HCatalog
+875,hashutosh,PPMC,Apache HCatalog
+2113,hashutosh,NA,Calcite
+2414,hashutosh,NA,Hive
+2613,hashutosh,NA,Pig
+1526,hashutosh,PMC,Apache Hive
+1665,hashutosh,PMC member,Apache PIG
+105,ashu,Committer,Apache Axiom
+140,ashu,Committer,Apache Axis
+1091,ashu,Committer,Apache Axiom
+1127,ashu,Committer,Apache Axis2
+2562,asitang,NA,Nutch
+1947,ate,NA,Airavata
+2276,aching,NA,Giraph
+367,b.0367,Committer,Apache Geronimo
+2237,b.2237,NA,Geronimo
+1325,b.1325,Committer,Apache Geronimo
+1208,bvahdat,Committer,Apache Camel
+2124,bvahdat,NA,Camel
+2219,balu,NA,Falcon
+562,schans,Committer,Apache Jackrabbit
+2484,schans,NA,Jackrabbit
+1577,schans,Committer,Apache Jackrabbit
+1166,be1166,Committer,Apache Batik
+1209,boday,Committer,Apache Camel
+2125,boday,NA,Camel
+195,boday,Committer,Apache Camel
+653,breed,PMC member,Apache Pig
+668,breed23,Committer,Apache Pig
+284,bspeakmon,Committer,Apache Commons Email
+1287,bspeakmon,Committer,Apache Commons Email
+1875,breed,PMC,Apache Zookeeper
+1876,breed,Committer,Apache Zookeeper
+2096,breed,NA,Bookkeeper
+2782,breed,NA,Zookeeper
+52,be0052,PMC,Apache Aries
+1031,be1031,PMC,Apache Aries
+2054,be2054,NA,Aries
+2183,ber2183,NA,Db
+755,bdelacretaz,Committer,Apache Sling
+763,bdelacretaz,PMC,Apache Sling
+1744,bdelacretaz ,Java Developer,Apache Sling
+1757,bdelacretaz ,PMC,Apache Sling
+2626,sezgin,NA,REEF
+479,bikas,Committer,Apache Hadoop
+2306,bikas,NA,Hadoop
+1466,bikas,Committer,Apache Hadoop
+1210,bibryam,Committer,Apache Camel
+2126,bibryam,NA,Camel
+410,bi0410,PMC,Apache Gump
+320,billbarker,Committer,Apache Commons Modeler
+652,billgraham,Committer,Apache Pig
+2172,billgraham,NA,Chukwa
+2608,billgraham,NA,Pig
+1660,billgraham,PMC member,Apache PIG
+1162,bi1162,Committer,Apache Batik
+1879,bhavanki,NA,Accumulo
+1007,bi1007,Contributor,Apache Accumulo
+129,u129,Committer,Apache Axis
+1116,u1116,Committer,Apache Axis2
+2,billie,PMC,Apache Accumulo
+4,billie,Committer,Apache Accumulo
+945,billie,PMC,Apache Ambari
+996,billie,PMC,Apache Accumulo
+1001,billie,Committer,Apache Accumulo
+1880,billie,NA,Accumulo
+1974,billie,NA,Ambari
+2552,bsullivan,NA,MyFaces
+911,bo0911,Contributor,Apache Syncope
+2763,bo2763,NA,Syncope
+1800,bo1800,Contributor,Apache Syncope
+251,bob,Committer,Apache Commons CLI
+1249,bob,Committer,Apache Commons CLI
+1304,werken,Committer,Apache Commons Jelly
+2002,rnettleton,NA,Ambari
+682,bo0682,Emeritus Committer,Apache River
+481,boryas,Committer,Apache Hadoop
+2307,boryas,NA,Hadoop
+1468,boryas,Committer,Apache Hadoop
+2627,shulmanb,NA,REEF
+2571,bzhang,NA,Oozie
+2021,br2021,NA,Ambari
+2308,brandonli,NA,Hadoop
+1469,brandonli,Committer,Apache Hadoop
+2456,br2456,NA,Ignite
+242,brett,PMC Chair,Apache Continuum
+593,brett,PMC Member,Apache Maven
+1018,brett,PMC Member,Apache Archiva
+118,pradine,Committer,Apache Axis
+1105,pradine,Committer,Apache Axis2
+261,bdunbar,Committer,Apache Commons Configuration
+1259,bdunbar,Java Developer,Apache Commons Configuration
+1267,bdunbar,Committer,Apache Commons Configuration
+8,brianm,Committer,ActiveMQ
+913,brianm,Committer,Apache ActiveMQ
+1905,brianm,NA,ActiveMQ
+568,bcm,Emeritus Member,Apache Jackrabbit
+1584,bcm,Emeritus Committer,Apache Jackrabbit
+2223,brock,NA,Flume
+1523,brock,PMC,Apache Hive
+988,br0988,PMC,Apache ANT
+2236,br2236,NA,Geronimo
+698,bsnyder,Committer,Apache ServiceMix
+726,bsnyder,PMC,Apache ServiceMix
+914,bsnyder,Committer,Apache ActiveMQ
+1211,bsnyder,Committer,Apache Camel
+1906,bsnyder,NA,ActiveMQ
+2127,bsnyder,NA,Camel
+2662,bsnyder,NA,ServiceMix
+1324,br1324,Committer,Apache Geronimo
+9,bsnyder,Committer,ActiveMQ
+196,bsnyder,Committer,Apache Camel
+1683,bsnyder,Committer,Apache ServiceMix
+1714,bsnyder,PMC,Apache ServiceMix
+322,brudav,Committer,Apache Commons Net
+1312,brudav,Committer,Apache Commons Net
+1174,bmahe,committer,Apache Bigtop
+2764,br2764,NA,Syncope
+1801,br1801,Contributor,Apache Syncope
+2464,cdamioli,NA,Jackrabbit
+1560,cdamioli,Committer,Apache Jackrabbit
+2048,ca2048,NA,Ambari
+1160,ca1160,Committer,Apache Batik
+762,thecarlhall,Committer,Apache Sling
+1756,thecarlhall,Java Developer,Apache Sling
+536,cws,Committer,Apache Hive
+2409,cws,NA,Hive
+1524,cws,VP,Apache Hive
+243,carlos,PMC Member,Apache Continuum
+594,carlos,PMC Member,Apache Maven
+1019,carlos,PMC Member,Apache Archiva
+2100,carlosvara,NA,BVal
+1147,carlosvara,PMC,Apache BVal
+170,carlosvara,PMC,Apache Bean Validation
+181,carlosvara,Committer,Apache Bean Validation
+757,cziegeler,Committer,Apache Sling
+764,cziegeler,PMC,Apache Sling
+1746,cziegeler ,Chair,Apache Sling
+1758,cziegeler ,PMC Chair,Apache Sling
+635,ca0635,Committer,Apache OpenJPA
+2580,ca2580,NA,OpenJPA
+1634,ca1634,Committer,Apache OpenJPA
+1872,ce1872,Committer,Apache XMLBeans
+946,croberts,PMC,Apache Ambari
+1975,croberts,NA,Ambari
+689,chamikara,Committer,Apache Sandesha
+1674,chamikara,Committer,Apache Sandesha
+146,chamil,Committer,Apache Axis
+1133,chamil,Committer,Apache Axis2
+2176,chaoshi,NA,Crunch
+2410,sunchao,NA,Hive
+2572,brookwc,NA,Oozie
+2641,ch2641,NA,Sentry
+2451,ctang,NA,Hive
+789,charith,Committer,Apache Synapse
+1784,charith,Committer,Apache Synapse
+2747,charith,NA,Synapse
+132,charitha,Committer,Apache Axis
+1119,charitha,Committer,Apache Axis2
+699,cmouillard,Committer,Apache ServiceMix
+2663,cmouillard,NA,ServiceMix
+1684,cmouillard,Committer,Apache ServiceMix
+35,ch0035,Contributor,ActiveMQ
+1932,ch1932,NA,ActiveMQ
+10,cmoulliard,Committer,ActiveMQ
+915,cmoulliard,Committer,Apache ActiveMQ
+1212,cmoulliard,Committer,Apache Camel
+1907,cmoulliard,NA,ActiveMQ
+2128,cmoulliard,NA,Camel
+2501,cmoulliard,NA,Karaf
+197,cmoulliard,Committer,Apache Camel
+576,cmoulliard,Committer,Apache Karaf
+589,cmoulliard,PMC,Apache Karaf
+1594,cmoulliard,NA,Apache Karaf
+742,ch0742,Contributor,Apache ServiceMix
+2693,ch2693,NA,ServiceMix
+1729,ch1729,Contributor,Apache ServiceMix
+780,chathura_ce,Committer,Apache Synapse
+1775,chathura_ce,Committer,Apache Synapse
+2738,chathura_ce,NA,Synapse
+836,ch0836,Committer,Apache Woden
+98,chathura,Committer,Apache Axiom
+123,chathura,Committer,Apache Axis
+1084,chathura,Committer,Apache Axiom
+1110,chathura,Committer,Apache Axis2
+1865,ch1865,Committer,Apache Woden
+1948,chathuri,NA,Airavata
+100,chatra,Committer,Apache Axiom
+130,chatra,Committer,Apache Axis
+1086,chatra,Committer,Apache Axiom
+1117,chatra,Committer,Apache Axis2
+2020,ch2020,NA,Ambari
+2431,chengxiang,NA,Hive
+655,cheolsoo,Committer,Apache Pig
+546,chetanm,Committer,Apache Jackrabbit
+2465,chetanm,NA,Jackrabbit
+1561,chetanm,Committer,Apache Jackrabbit
+2448,chinnaraol,NA,Hive
+112,ch0112,Contributor,Apache Axiom
+157,ch0157,Contributor,Apache Axis
+1099,ch1099,Contributor,Apache Axiom
+1144,ch1144,Contributor,Apache Axis2
+419,mattmann,Committer,Apache Gora
+1376,mattmann,Committer,Apache Gora
+1390,mattmann,PMC,Apache Gora
+1394,mattmann,Champion,Apache Gora
+1949,mattmann,NA,Airavata
+2294,mattmann,NA,Gora
+2557,mattmann,NA,Nutch
+2766,mattmann,NA,Tajo
+700,ccustine,Committer,Apache ServiceMix
+727,ccustine,PMC,Apache ServiceMix
+2664,ccustine,NA,ServiceMix
+571,ccustine,Committer,Apache Karaf
+584,ccustine,PMC,Apache Karaf
+1588,ccustine,NA,Apache Karaf
+1685,ccustine,Committer,Apache ServiceMix
+1713,ccustine,PMC,Apache ServiceMix
+444,cdouglas,PMC,Apache Hadoop
+482,cdouglas,Committer,Apache Hadoop
+2309,cdouglas,NA,Hadoop
+2522,cdouglas,NA,Knox
+2573,cdouglas,NA,Oozie
+2631,cdouglas,NA,REEF
+1424,cdouglas,PMC,Apache Hadoop
+1470,cdouglas,Committer,Apache Hadoop
+34,ch0034,Contributor,ActiveMQ
+1193,ch1193,Contributor,Apache Camel
+1931,ch1931,NA,ActiveMQ
+2156,ch2156,NA,Camel
+222,ch0222,Contributor,Apache Camel
+2535,ch2535,NA,Mesos
+2311,cnauroth,NA,Hadoop
+2784,cnauroth,NA,Zookeeper
+1472,cnauroth,Committer,Apache Hadoop
+53,ch0053,Contributor,Apache Aries
+1032,ch1032,Contributor,Apache Aries
+2055,ch2055,NA,Aries
+1213,cmueller,Committer,Apache Camel
+2129,cmueller,NA,Camel
+198,cmueller,Committer,Apache Camel
+1908,ceposta,NA,ActiveMQ
+2130,ceposta,NA,Camel
+2157,ch2157,NA,Camel
+743,ch0743,Contributor,Apache ServiceMix
+2056,ch2056,NA,Aries
+2694,ch2694,NA,ServiceMix
+1214,cschneider,Committer,Apache Camel
+2131,cschneider,NA,Camel
+2505,cschneider,NA,Karaf
+2758,cschneider,NA,Syncope
+1730,ch1730,Contributor,Apache ServiceMix
+199,cschneider,Committer,Apache Camel
+580,cschneider,Committer,Apache Karaf
+1599,cschneider,NA,Apache Karaf
+1798,cschneider,committer,Apache Syncope
+993,ch0993,PMC,Apache ANT
+368,ch0368,Committer,Apache Geronimo
+2238,ch2238,NA,Geronimo
+1326,ch1326,Committer,Apache Geronimo
+369,ch0369,Committer,Apache Geronimo
+2239,ch2239,NA,Geronimo
+1327,ch1327,Committer,Apache Geronimo
+2029,ch2029,NA,Ambari
+916,davsclaus,Committer,Apache ActiveMQ
+1215,davsclaus,Committer,Apache Camel
+1909,davsclaus,NA,ActiveMQ
+2132,davsclaus,NA,Camel
+11,davsclaus,Committer,ActiveMQ
+200,davsclaus,Committer,Apache Camel
+547,ckoell,Committer,Apache Jackrabbit
+2466,ckoell,NA,Jackrabbit
+1562,ckoell,Committer,Apache Jackrabbit
+756,cl0756,Committer,Apache Sling
+1745,clemens,Java Developer,Apache Sling
+2642,co2642,NA,Sentry
+2716,colin,NA,Sqoop
+12,cmacnaug,Committer,ActiveMQ
+917,cmacnaug,Committer,Apache ActiveMQ
+2310,cmccabe,NA,Hadoop
+1471,cmccabe,Committer,Apache Hadoop
+904,coheigea,Committer,Apache Syncope
+905,coheigea,PMC,Apache Syncope
+2133,coheigea,NA,Camel
+2754,coheigea,NA,Syncope
+1794,coheigea,PMC member,Apache Syncope
+991,co0991,PMC Chair,Apache ANT
+654,chandec,Documentation,Apache Pig
+314,costin,Committer,Apache Commons Logging
+636,cr0636,Committer,Apache OpenJPA
+2581,cr2581,NA,OpenJPA
+1635,cr1635,Committer,Apache OpenJPA
+275,craigmcc,Committer,Apache Commons EL
+311,craigmcc,Committer,Apache Commons Logging
+318,craigmcc,Committer,Apache Commons Modeler
+1301,craigmcc,Committer,Apache Commons JXPath
+2184,u2184,NA,Db
+2185,Dag Wanvik,NA,Db
+919,daggerrz,Committer,Apache ActiveMQ
+1911,daggerrz,NA,ActiveMQ
+14,daggerrz,Committer,ActiveMQ
+338,da0338,PMC,Apache Geronimo
+382,da0382,Committer,Apache Geronimo
+701,dain,Committer,Apache ServiceMix
+920,dain,Committer,Apache ActiveMQ
+2665,dain,NA,ServiceMix
+1276,da1276,Contributor,Apache Commons DBCP
+15,dain,Committer,ActiveMQ
+1686,dain,Committer,Apache ServiceMix
+702,dandiep,Committer,Apache ServiceMix
+2666,dandiep,NA,ServiceMix
+1687,dandiep,Committer,Apache ServiceMix
+1747,dklco,Java Developer,Apache Sling
+54,da0054,PMC,Apache Aries
+1033,da1033,PMC,Apache Aries
+2057,da2057,NA,Aries
+370,da0370,Committer,Apache Geronimo
+1328,da0370,Committer,Apache Geronimo
+2240,da2240,NA,Geronimo
+656,daijy,PMC member,Apache Pig
+669,daijy,Committer,Apache Pig
+882,daijy,Committer,Apache HCatalog
+2432,daijy,NA,Hive
+2609,daijy,NA,Pig
+1550,daijy,Committer,Apache Hive
+1661,daijy,PMC member,Apache PIG
+323,dfs,Committer,Apache Commons Net
+1313,dfs,Committer,Apache Commons Net
+596,dkulp,PMC Member,Apache Maven
+1217,dkulp,Committer,Apache Camel
+2135,dkulp,NA,Camel
+2667,dkulp,NA,ServiceMix
+202,dkulp,Committer,Apache Camel
+1688,dkulp,Committer,Apache ServiceMix
+163,dlr,PMC Member,Apache Velocity
+168,dlr,Committer,Apache Velocity
+256,dlr,Committer,Apache Commons Configuration
+281,dlr,Committer,Apache Commons Email
+287,dlr,Committer,Apache Commons FileUpload
+307,dlr,Committer,Apache Commons Lang
+826,dlr,Committer,Apache Torque
+976,dlr,PMC Member,Apache Velocity Anakia
+981,dlr,Java developer,Apache Velocity Anakia
+986,dlr,Committer,Apache Velocity Anakia
+1309,dlr,Committer,Apache Commons Lang
+1814,dlr,Java Developer,Apache Torque
+2778,dlr,NA,Velocity
+1247,dlr,Committer,Apache Commons Betwixt
+1254,dlr,Java Developer,Apache Commons Configuration
+1262,dlr,Committer,Apache Commons Configuration
+1284,dlr,Committer,Apache Commons Email
+1834,dlr,PMC Member,Apache Velocity
+1839,dlr,Java developer,Apache Velocity
+538,danny,Committer,Apache James
+540,danny,PMC,Apache James
+1554,danny,Committer,Apache James
+2643,da2643,NA,Sentry
+371,da0371,Committer,Apache Geronimo
+484,daryn,Committer,Apache Hadoop
+1426,daryn,PMC,Apache Hadoop
+1475,daryn,Committer,Apache Hadoop
+109,dasarath,Committer,Apache Axiom
+147,dasarath,Committer,Apache Axis
+1095,dasarath,Committer,Apache Axiom
+1134,dasarath,Committer,Apache Axis2
+2241,dims,NA,Geronimo
+107,dims,Committer,Apache Axiom
+690,dims,Committer,Apache Sandesha
+1093,dims,Committer,Apache Axiom
+1675,dims,Committer,Apache Sandesha
+1329,dims,Committer,Apache Geronimo
+57,dims,PMC,Apache Aries
+1036,dims,PMC,Apache Aries
+2060,dims,NA,Aries
+2178,dbeech,NA,Crunch
+2534,da2534,NA,Mesos
+744,da0744,Contributor,Apache ServiceMix
+2695,da2695,NA,ServiceMix
+1731,da1731,Contributor,Apache ServiceMix
+1888,da1888,NA,Accumulo
+421,woollard,Committer,Apache Gora
+1379,woollard,Committer,Apache Gora
+1393,woollard,PMC,Apache Gora
+2296,woollard,NA,Gora
+809,dralves,Committer,Apache Whirr
+1845,dralves,committer,Apache Whirr
+1873,da1873,Committer,Apache XMLBeans
+339,da0339,PMC,Apache Geronimo
+383,da0383,Committer,Apache Geronimo
+2242,da2242,NA,Geronimo
+703,dblevins,Committer,Apache ServiceMix
+2668,dblevins,NA,ServiceMix
+1330,da1330,Committer,Apache Geronimo
+1689,dblevins,Committer,Apache ServiceMix
+55,da0055,PMC,Apache Aries
+1034,da1034,PMC,Apache Aries
+2058,da2058,NA,Aries
+2770,da2770,NA,Tajo
+627,da0627,PMC,Apache OpenJPA
+637,da0627,Committer,Apache OpenJPA
+2582,da2582,NA,OpenJPA
+1636,da1636,Committer,Apache OpenJPA
+1653,da1636,PMC,Apache OpenJPA
+124,davidillsley,Committer,Apache Axis
+1111,davidillsley,Committer,Apache Axis2
+56,djencks,PMC,Apache Aries
+340,djencks,PMC,Apache Geronimo
+384,djencks,Committer,Apache Geronimo
+1035,djencks,PMC,Apache Aries
+2059,djencks,NA,Aries
+2243,djencks,NA,Geronimo
+704,djencks,Committer,Apache ServiceMix
+728,djencks,PMC,Apache ServiceMix
+921,djencks,Committer,Apache ActiveMQ
+1148,djencks,PMC,Apache BVal
+1216,djencks,Committer,Apache Camel
+1912,djencks,NA,ActiveMQ
+2134,djencks,NA,Camel
+2500,djencks,NA,Karaf
+2669,djencks,NA,ServiceMix
+16,djencks,Committer,ActiveMQ
+171,djencks,PMC,Apache Bean Validation
+182,djencks,Committer,Apache Bean Validation
+201,djencks,Committer,Apache Camel
+575,djencks,Committer,Apache Karaf
+588,djencks,PMC,Apache Karaf
+1593,djencks,NA,Apache Karaf
+1690,djencks,Committer,Apache ServiceMix
+1715,djencks,PMC,Apache ServiceMix
+1331,djencks,Committer,Apache Geronimo
+567,uncled,Committer,Apache Jackrabbit
+2493,uncled,NA,Jackrabbit
+1583,uncled,Committer,Apache Jackrabbit
+1950,dmreagan,NA,Airavata
+2177,davw,NA,Crunch
+638,da0638,Committer,Apache OpenJPA
+2583,da2583,NA,OpenJPA
+1637,da1637,Committer,Apache OpenJPA
+2467,davide,NA,Jackrabbit
+1164,de1164,Committer,Apache Batik
+99,deepal,Committer,Apache Axiom
+125,deepal,Committer,Apache Axis
+776,deepal,Committer,Apache Synapse
+1085,deepal,Committer,Apache Axiom
+1112,deepal,Committer,Apache Axis2
+1771,deepal,Committer,Apache Synapse
+2734,deepal,NA,Synapse
+918,dejanb,Committer,Apache ActiveMQ
+1910,dejanb,NA,ActiveMQ
+13,dejanb,Committer,ActiveMQ
+910,de0910,Contributor,Apache Syncope
+2762,de0911,NA,Syncope
+1799,de0912,Contributor,Apache Syncope
+36,dennisbyrne,Contributor,ActiveMQ
+1194,dennisbyrne,Contributor,Apache Camel
+1933,dennisbyrne,NA,ActiveMQ
+2158,dennisbyrne,NA,Camel
+2556,dennisbyrne,NA,MyFaces
+1623,dennisbyrne,PMC Emeritus,Apache MyFaces
+223,dennisbyrne,Contributor,Apache Camel
+17,dcook,Committer,ActiveMQ
+922,dcook,Committer,Apache ActiveMQ
+1913,dcook,NA,ActiveMQ
+317,dennisl,Committer,Apache Commons Logging
+595,dennisl,PMC Member,Apache Maven
+1021,dennisl,Committer,Apache Archiva
+1008,de1008,Contributor,Apache Accumulo
+2637,de2637,NA,River
+1672,de1672,Committer,Apache River
+142,dsosnoski,Committer,Apache Axis
+1129,dsosnoski,Committer,Apache Axis2
+446,ddas,PMC,Apache Hadoop
+485,ddas,Committer,Apache Hadoop
+846,ddas,Committer,Apache Ambari
+847,ddas,PMC,Apache Ambari
+871,ddas,Committer,Apache HCatalog
+874,ddas,PPMC,Apache HCatalog
+947,ddas,PMC,Apache Ambari
+1977,ddas,NA,Ambari
+2314,ddas,NA,Hadoop
+2380,ddas,NA,HBase
+2511,ddas,NA,Knox
+2574,ddas,NA,Oozie
+2600,ddas,NA,Phoenix
+1399,ddas,Committer,Apache HBase
+1427,ddas,PMC,Apache Hadoop
+1476,ddas,Committer,Apache Hadoop
+2315,devaraj,NA,Hadoop
+110,dh0110,Contributor,Apache Axiom
+152,dh0111,Contributor,Apache Axis
+1097,dh0112,Contributor,Apache Axiom
+1139,dh0113,Contributor,Apache Axis2
+447,dhruba,PMC,Apache Hadoop
+486,dhruba,Committer,Apache Hadoop
+526,dhruba,Committer,Apache Hive
+2316,dhruba,NA,Hadoop
+1428,dhruba,PMC,Apache Hadoop
+1477,dhruba,Committer,Apache Hadoop
+2630,dhruv,NA,REEF
+1978,dili,NA,Ambari
+2717,dianfu,NA,Sqoop
+639,di0639,Committer,Apache OpenJPA
+2584,di0640,NA,OpenJPA
+1638,di0641,Committer,Apache OpenJPA
+58,di0058,PMC,Apache Aries
+1037,di0059,PMC,Apache Aries
+2061,di0060,NA,Aries
+903,anzelld,Committer,Apache Syncope
+1793,anzelld,committer,Apache Syncope
+303,dion,Committer,Apache Commons Jelly
+259,dion,Committer,Apache Commons Configuration
+277,dion,Committer,Apache Commons Email
+285,dion,Committer,Apache Commons FileUpload
+290,dion,Committer,Apache Commons HTTP Client
+294,dion,Committer,Apache Commons JEXL
+1295,dion,Committer,Apache Commons JEXL
+1305,dion,Committer,Apache Commons Jelly
+1246,dion,Committer,Apache Commons Betwixt
+1257,dion,Java Developer,Apache Commons Configuration
+1265,dion,Committer,Apache Commons Configuration
+1290,dion,Committer,Apache Commons HTTP Client
+1976,dbhowmick,NA,Ambari
+2186,djd,NA,Db
+2101,djencks,NA,BVal
+2187,dlr,NA,Db
+1608,dlyubimov,PMC,Apache Mahout
+657,dvryaboy,PMC member,Apache Pig
+670,dvryaboy,Committer,Apache Pig
+2280,dvryaboy,NA,Giraph
+2610,dvryaboy,NA,Pig
+1662,dvryaboy,PMC member,Apache PIG
+948,dmitriusan,PMC,Apache Ambari
+1979,dmitriusan,NA,Ambari
+949,dsen,PMC,Apache Ambari
+1980,dsen,NA,Ambari
+505,molkov,Committer,Apache Hadoop
+2341,molkov,NA,Hadoop
+1499,molkov,Committer,Apache Hadoop
+159,do0159,Contributor,Apache Axis
+1146,do1146,Contributor,Apache Axis2
+413,dogacan,Committer,Apache Gora
+1369,dogacan,Committer,Apache Gora
+1383,dogacan,PMC,Apache Gora
+2468,dj,NA,Jackrabbit
+548,dpfister,Committer,Apache Jackrabbit
+2469,dpfister,NA,Jackrabbit
+1563,dpfister,Committer,Apache Jackrabbit
+628,dwoods,PMC,Apache OpenJPA
+640,dwoods,Committer,Apache OpenJPA
+2585,dwoods,NA,OpenJPA
+1149,dwoods,PMC,Apache BVal
+1639,dwoods,Committer,Apache OpenJPA
+1654,dwoods,PMC,Apache OpenJPA
+172,dwoods,PMC,Apache Bean Validation
+183,dwoods,Committer,Apache Bean Validation
+341,dwoods,PMC,Apache Geronimo
+385,dwoods,Committer,Apache Geronimo
+1332,dwoods,Committer,Apache Geronimo
+2244,dwoods,NA,Geronimo
+2443,dongc,NA,Hive
+84,cutting,Committer,Apache Avro
+445,cutting,PMC,Apache Hadoop
+483,cutting,Committer,Apache Hadoop
+1063,cutting,spec,Apache Avro
+1069,cutting,Committer,Apache Avro
+2090,cutting,NA,Avro
+2313,cutting,NA,Hadoop
+1425,cutting,PMC,Apache Hadoop
+1474,cutting,Committer,Apache Hadoop
+997,drew,PMC,Apache Accumulo
+1002,drew,Committer,Apache Accumulo
+1882,drew,NA,Accumulo
+2102,dwoods,NA,BVal
+1009,edkohlwey,Contributor,Apache Accumulo
+1889,edkohlwey,NA,Accumulo
+6,edkohlwey,Contributor,Apache Accumulo
+705,edelln,Committer,Apache ServiceMix
+2670,enolan,NA,ServiceMix
+1691,enolan,Committer,Apache ServiceMix
+2411,ecapriolo,NA,Hive
+1525,ecapriolo,PMC,Apache Hive
+890,edwardyoon,Committer,Apache Hama
+891,edwardyoon,PMC,Apache Hama
+1187,edwardyoon,committer,Apache Bigtop
+448,eli,PMC,Apache Hadoop
+487,eli,Committer,Apache Hadoop
+2318,eli,NA,Hadoop
+1172,eli,committer,Apache Bigtop
+1429,eli,PMC,Apache Hadoop
+1478,eli,Committer,Apache Hadoop
+2283,ereisman,NA,Giraph
+438,eclark,Committer,Apache Hbase
+2381,eclark,NA,HBase
+1418,eclark,Committer,Apache HBase
+59,em0059,PMC,Apache Aries
+1038,em1038,PMC,Apache Aries
+2062,em2062,NA,Aries
+254,ebourg,Committer,Apache Commons CLI
+262,ebourg,Committer,Apache Commons Configuration
+1252,ebourg,Committer,Apache Commons CLI
+1260,ebourg,Java Developer,Apache Commons Configuration
+1268,ebourg,Committer,Apache Commons Configuration
+1792,elecharny,PMC member,Apache Syncope
+244,evenisse,PMC Member,Apache Continuum
+597,evenisse,PMC Member,Apache Maven
+2601,enis,NA,Phoenix
+414,enis,Committer,Apache Gora
+423,enis,Committer,Apache Hbase
+449,enis,PMC,Apache Hadoop
+488,enis,Committer,Apache Hadoop
+1370,enis,Committer,Apache Gora
+1384,enis,PMC,Apache Gora
+2289,enis,NA,Gora
+2319,enis,NA,Hadoop
+2382,enis,NA,HBase
+1400,enis,Committer,Apache HBase
+1430,enis,PMC,Apache Hadoop
+1479,enis,Committer,Apache Hadoop
+706,eglynn,Committer,Apache ServiceMix
+2671,eglynn,NA,ServiceMix
+1692,eglynn,Committer,Apache ServiceMix
+91,chinthaka,Committer,Apache Axiom
+116,chinthaka,Committer,Apache Axis
+773,chinthaka,Committer,Apache Synapse
+1077,chinthaka,Committer,Apache Axiom
+1103,chinthaka,Committer,Apache Axis2
+1768,chinthaka,Committer,Apache Synapse
+2731,chinthaka,NA,Synapse
+1024,skygo,Committer,Apache Archiva
+2433,ehans,NA,Hive
+1535,ehans,Committer,Apache Hive
+260,epugh,Committer,Apache Commons Configuration
+280,epugh,Committer,Apache Commons Email
+1258,epugh,Java Developer,Apache Commons Configuration
+1266,epugh,Committer,Apache Commons Configuration
+1283,epugh,Committer,Apache Commons Email
+489,eyang,Committer,Apache Hadoop
+848,eyang,Committer,Apache Ambari
+849,eyang,PMC,Apache Ambari
+950,eyang,PMC,Apache Ambari
+1981,eyang,NA,Ambari
+2173,eyang,NA,Chukwa
+2320,eyang,NA,Hadoop
+1480,eyang,Committer,Apache Hadoop
+2644,er2644,NA,Sentry
+2245,er2245,NA,Geronimo
+1333,er2246,Committer,Apache Geronimo
+989,ehatcher,PMC,Apache ANT
+1982,eboyd,NA,Ambari
+609,jtolentino,Emeritus,Apache Maven
+1951,eroma,NA,Airavata
+549,eaf,Committer,Apache Jackrabbit
+2470,eaf,NA,Jackrabbit
+1564,eaf,Committer,Apache Jackrabbit
+2388,esteban,NA,HBase
+2434,ekoifman,NA,Hive
+2281,ekoontz,NA,Giraph
+2457,ev2457,NA,Ignite
+895,fmartelli,PMC,Apache Syncope
+896,fmartelli,Committer,Apache Syncope
+2750,fmartelli,NA,Syncope
+1787,fmartelli,PMC member,Apache Syncope
+156,fa0156,Contributor,Apache Axis
+1143,fa1143,Contributor,Apache Axis2
+641,fa0641,Committer,Apache OpenJPA
+2587,fa0642,NA,OpenJPA
+1640,fa0643,Committer,Apache OpenJPA
+2063,fmeschbe,NA,Aries
+551,fmeschbe,Committer,Apache Jackrabbit
+2472,fmeschbe,NA,Jackrabbit
+758,fmeschbe,Committer,Apache Sling
+765,fmeschbe,PMC,Apache Sling
+1566,fmeschbe,Committer,Apache Jackrabbit
+1748,fmeschbe ,Java Developer,Apache Sling
+1759,fmeschbe ,PMC,Apache Sling
+2442,xuf,NA,Hive
+415,ferdy,Committer,Apache Gora
+1371,ferdy,Committer,Apache Gora
+1385,ferdy,PMC,Apache Gora
+2159,fe2159,NA,Camel
+1585,fbalicchia,NA,Apache Karaf
+2097,fpj,NA,Bookkeeper
+2586,fr2586,NA,OpenJPA
+240,ilgrosso,PMC,Apache Cocoon
+241,ilgrosso,Committer,Apache Cocoon
+894,ilgrosso,PMC Chair,Apache Syncope
+897,ilgrosso,Committer,Apache Syncope
+2749,ilgrosso,NA,Syncope
+1786,ilgrosso,PMC chair,Apache Syncope
+2473,frm,NA,Jackrabbit
+880,toffer,Committer,Apache HCatalog
+881,toffer,PPMC,Apache HCatalog
+1549,toffer,Committer,Apache Hive
+686,fr0686,Emeritus Committer,Apache River
+808,frankscholten,Committer,Apache Whirr
+1846,frankscholten,committer,Apache Whirr
+2136,forsthofer,NA,Camel
+683,fr0683,Emeritus Committer,Apache River
+707,ffang,Committer,Apache ServiceMix
+729,ffang,PMC,Apache ServiceMix
+1218,ffang,Committer,Apache Camel
+2137,ffang,NA,Camel
+2497,ffang,NA,Karaf
+2672,ffang,NA,ServiceMix
+203,ffang,Committer,Apache Camel
+572,ffang,Committer,Apache Karaf
+585,ffang,PMC,Apache Karaf
+1590,ffang,NA,Apache Karaf
+1693,ffang,Committer,Apache ServiceMix
+1716,ffang,PMC,Apache ServiceMix
+266,ga0266,Contributor,Apache Commons Configuration
+1272,ga1272,Contributor,Apache Commons Configuration
+2545,gcrawford,NA,MyFaces
+2435,gangtimliu,NA,Hive
+1536,gangtimliu,Committer,Apache Hive
+327,ggregory,Committer,Apache Commons Pool
+424,garyh,Committer,Apache Hbase
+2383,garyh,NA,HBase
+18,gtully,Committer,ActiveMQ
+923,gtully,Committer,Apache ActiveMQ
+1219,gtully,Committer,Apache Camel
+1914,gtully,NA,ActiveMQ
+2138,gtully,NA,Camel
+204,gtully,Committer,Apache Camel
+151,ga0151,Contributor,Apache Axis
+1138,ga1138,Contributor,Apache Axis2
+342,ge0342,PMC,Apache Geronimo
+386,ge0386,Committer,Apache Geronimo
+629,ge0629,PMC,Apache OpenJPA
+642,ge0642,Committer,Apache OpenJPA
+1641,ge1641,Committer,Apache OpenJPA
+1655,ge1655,PMC,Apache OpenJPA
+2246,ge2246,NA,Geronimo
+2588,ge2588,NA,OpenJPA
+162,geirm,PMC Member,Apache Velocity
+167,geirm,Committer,Apache Velocity
+295,geirm,Committer,Apache Commons JEXL
+975,geirm,PMC Member,Apache Velocity Anakia
+980,geirm,Java developer,Apache Velocity Anakia
+985,geirm,Committer,Apache Velocity Anakia
+1296,geirm,Committer,Apache Commons JEXL
+1303,geirm,Committer,Apache Commons Jelly
+1334,geirm,Committer,Apache Geronimo
+1833,geirm,PMC Member,Apache Velocity
+1838,geirm,Java developer,Apache Velocity
+301,geirm,Committer,Apache Commons Jelly
+2321,gera,NA,Hadoop
+1150,gpetracek,PMC,Apache BVal
+173,gpetracek,PMC,Apache Bean Validation
+184,gpetracek,Committer,Apache Bean Validation
+708,gertv,Committer,Apache ServiceMix
+730,gertv,PMC,Apache ServiceMix
+1220,gertv,Committer,Apache Camel
+2139,gertv,NA,Camel
+2506,gertv,NA,Karaf
+2673,gertv,NA,ServiceMix
+205,gertv,Committer,Apache Camel
+581,gertv,Committer,Apache Karaf
+592,gertv,PMC,Apache Karaf
+1600,gertv,NA,Apache Karaf
+1694,gertv,Committer,Apache ServiceMix
+1717,gertv,PMC,Apache ServiceMix
+2761,giacomolm,NA,Syncope
+745,gi0745,Contributor,Apache ServiceMix
+2696,gi0746,NA,ServiceMix
+1732,gi0747,Contributor,Apache ServiceMix
+343,gi0343,PMC,Apache Geronimo
+387,gi0344,Committer,Apache Geronimo
+2028,gkesavan,NA,Ambari
+450,gkesavan,PMC,Apache Hadoop
+490,gkesavan,Committer,Apache Hadoop
+659,gkesavan,PMC member,Apache Pig
+672,gkesavan,Committer,Apache Pig
+2322,gkesavan,NA,Hadoop
+2612,gkesavan,NA,Pig
+2785,gkesavan,NA,Zookeeper
+1431,gkesavan,PMC,Apache Hadoop
+1481,gkesavan,Committer,Apache Hadoop
+1664,gkesavan,PMC member,Apache PIG
+2561,totaro,NA,Nutch
+92,gdaniels,Committer,Apache Axiom
+117,gdaniels,Committer,Apache Axis
+775,gdaniels,Committer,Apache Synapse
+1078,gdaniels,Committer,Apache Axiom
+1104,gdaniels,Committer,Apache Axis2
+1770,gdaniels,Committer,Apache Synapse
+2733,gdaniels,NA,Synapse
+37,gl0037,Contributor,ActiveMQ
+1195,gl0038,Contributor,Apache Camel
+1934,gl0039,NA,ActiveMQ
+2160,gl0040,NA,Camel
+224,gl0041,Contributor,Apache Camel
+1612,gcapan,Committer,Apache Mahout
+2412,gopalv,NA,Hive
+2103,Gerhard Petracek,NA,BVal
+746,gr0746,Contributor,Apache ServiceMix
+2697,gr0747,NA,ServiceMix
+1733,gr0748,Contributor,Apache ServiceMix
+2174,grace.huang,NA,Chukwa
+60,gr0060,PMC,Apache Aries
+1039,gr0061,PMC,Apache Aries
+2064,gr0062,NA,Aries
+1847,graham.gear,committer,Apache Whirr
+842,gturrell,Committer,Apache Woden
+1871,gturrell,Committer,Apache Woden
+1603,gsingers,PMC Chair,Apache Mahout
+2645,gr2645,NA,Sentry
+754,gr0754,Contributor,Apache ServiceMix
+2704,gr0755,NA,ServiceMix
+1740,gr0756,Contributor,Apache ServiceMix
+681,gr0681,Committer,Apache River
+2638,gr0682,NA,River
+1673,gr0683,Committer,Apache River
+372,gregw,Committer,Apache Geronimo
+2247,gregw,NA,Geronimo
+19,gregw,Committer,ActiveMQ
+709,gregw,Committer,Apache ServiceMix
+924,gregw,Committer,Apache ActiveMQ
+1915,gregw,NA,ActiveMQ
+2674,gregw,NA,ServiceMix
+1335,gregw,Committer,Apache Geronimo
+1695,gregw,Committer,Apache ServiceMix
+425,gchanan,Committer,Apache Hbase
+2384,gchanan,NA,HBase
+1401,gchanan,Committer,Apache HBase
+2759,gwimmel,NA,Syncope
+1803,gu1803,Contributor,Apache Syncope
+20,gnodet,Committer,ActiveMQ
+617,gnodet,PMC,Apache ODE
+621,gnodet,Committer,Apache ODE
+710,gnodet,Committer,Apache ServiceMix
+731,gnodet,PMC,Apache ServiceMix
+925,gnodet,Committer,Apache ActiveMQ
+1221,gnodet,Committer,Apache Camel
+1916,gnodet,NA,ActiveMQ
+2140,gnodet,NA,Camel
+2502,gnodet,NA,Karaf
+2675,gnodet,NA,ServiceMix
+61,gu0061,PMC,Apache Aries
+1040,gu1040,PMC,Apache Aries
+2065,gu2065,NA,Aries
+2248,gu2248,NA,Geronimo
+206,gnodet,Committer,Apache Camel
+577,gnodet,Committer,Apache Karaf
+590,gnodet,PMC,Apache Karaf
+1596,gnodet,NA,Apache Karaf
+1624,gnodet,PMC,Apache ODE
+1628,gnodet,Developer,Apache ODE
+1696,gnodet,Committer,Apache ServiceMix
+1718,gnodet,PMC,Apache ServiceMix
+1336,gu1336,Committer,Apache Geronimo
+2413,gunther,NA,Hive
+1537,gunther,Committer,Apache Hive
+2718,gwenshap,NA,Sqoop
+21,hadrian,Committer,ActiveMQ
+926,hadrian,Committer,Apache ActiveMQ
+1222,hadrian,Committer,Apache Camel
+1917,hadrian,NA,ActiveMQ
+2141,hadrian,NA,Camel
+207,hadrian,Committer,Apache Camel
+373,ha0373,Committer,Apache Geronimo
+1337,ha1337,Committer,Apache Geronimo
+2249,ha2249,NA,Geronimo
+451,hairong,PMC,Apache Hadoop
+492,hairong,Committer,Apache Hadoop
+2325,hairong,NA,Hadoop
+1432,hairong,PMC,Apache Hadoop
+1483,hairong,Committer,Apache Hadoop
+38,ha0038,Contributor,ActiveMQ
+1196,ha0039,Contributor,Apache Camel
+1935,ha0040,NA,ActiveMQ
+2161,ha0041,NA,Camel
+225,ha0042,Contributor,Apache Camel
+2646,ha2646,NA,Sentry
+2444,harisankar,NA,Hive
+2224,hshreedharan,NA,Flume
+2719,hshreedharan,NA,Sqoop
+2421,rhbutani,NA,Hive
+1543,rhbutani,Committer,Apache Hive
+493,harsh,Committer,Apache Hadoop
+2326,harsh,NA,Hadoop
+2575,harsh,NA,Oozie
+1484,harsh,Committer,Apache Hadoop
+2549,hazems,NA,MyFaces
+531,he yongqiang,Committer,Apache Hive
+2507,hkesler,NA,Karaf
+582,hkesler,Committer,Apache Karaf
+1601,hkesler,NA,Apache Karaf
+643,he0643,Committer,Apache OpenJPA
+2589,he2589,NA,OpenJPA
+1642,he1642,Committer,Apache OpenJPA
+1161,he1161,Committer,Apache Batik
+644,he0644,Committer,Apache OpenJPA
+1643,he1643,Committer,Apache OpenJPA
+2590,he2590,NA,OpenJPA
+164,henning,PMC Member,Apache Velocity
+169,henning,Committer,Apache Velocity
+814,henning,Emeritus PMC Member,Apache Turbine
+977,henning,PMC Member,Apache Velocity Anakia
+982,henning,Java developer,Apache Velocity Anakia
+987,henning,Committer,Apache Velocity Anakia
+1830,henning,PMC Emeritus,Apache Turbine
+1835,henning,PMC Member,Apache Velocity
+1840,henning,Java developer,Apache Velocity
+2225,henry,NA,Flume
+2783,henry,NA,Zookeeper
+1223,hekonsek,Committer,Apache Camel
+2142,hekonsek,NA,Camel
+344,he0344,PMC,Apache Geronimo
+388,he0388,Committer,Apache Geronimo
+598,hboutemy,PMC Member,Apache Maven
+790,heshan,Committer,Apache Synapse
+1785,heshan,Committer,Apache Synapse
+2748,heshan,NA,Synapse
+2188,Humberto Hernandez,NA,Db
+22,chirino,Committer,ActiveMQ
+711,chirino,Committer,Apache ServiceMix
+732,chirino,PMC,Apache ServiceMix
+927,chirino,Committer,Apache ActiveMQ
+1224,chirino,Committer,Apache Camel
+1918,chirino,NA,ActiveMQ
+2143,chirino,NA,Camel
+2495,chirino,NA,Karaf
+2676,chirino,NA,ServiceMix
+62,hi0062,PMC,Apache Aries
+1041,hi1041,PMC,Apache Aries
+2066,hi2066,NA,Aries
+2250,hi2250,NA,Geronimo
+208,chirino,Committer,Apache Camel
+570,chirino,Committer,Apache Karaf
+1587,chirino,NA,Apache Karaf
+1697,chirino,Committer,Apache ServiceMix
+1719,chirino,PMC,Apache ServiceMix
+1338,hi1338,Committer,Apache Geronimo
+788,hiranya,Committer,Apache Synapse
+1783,hiranya,Committer,Apache Synapse
+2746,hiranya,NA,Synapse
+491,hitesh,Committer,Apache Hadoop
+850,hitesh,Committer,Apache Ambari
+851,hitesh,PMC,Apache Ambari
+951,hitesh,PMC,Apache Ambari
+1983,hitesh,NA,Ambari
+2324,hitesh,NA,Hadoop
+1433,hitesh,PMC,Apache Hadoop
+1482,hitesh,Committer,Apache Hadoop
+63,ho0063,PMC,Apache Aries
+1042,ho1042,PMC,Apache Aries
+2067,ho2067,NA,Aries
+374,ho0374,Committer,Apache Geronimo
+1339,ho1339,Committer,Apache Geronimo
+2251,ho2251,NA,Geronimo
+2789,hdeng,NA,Zookeeper
+748,ho0748,Contributor,Apache ServiceMix
+2699,ho2699,NA,ServiceMix
+1735,ho1735,Contributor,Apache ServiceMix
+830,hhernandez,Committer,Apache Torque
+1810,hhernandez,Java Developer,Apache Torque
+1890,hu1890,NA,Accumulo
+1752,ieb ,Java Developer,Apache Sling
+1762,ieb ,PMC,Apache Sling
+2533,ia2533,NA,Mesos
+64,ia0064,PMC,Apache Aries
+1043,ia1043,PMC,Apache Aries
+2068,ia2068,NA,Aries
+2710,im2710,NA,Spark
+779,indika,Committer,Apache Synapse
+1774,indika,Committer,Apache Synapse
+2737,indika,NA,Synapse
+416,iocanel,Committer,Apache Gora
+712,iocanel,Committer,Apache ServiceMix
+807,iocanel,Committer,Apache Whirr
+1225,iocanel,Committer,Apache Camel
+1372,iocanel,Committer,Apache Gora
+1386,iocanel,PMC,Apache Gora
+1848,iocanel,committer,Apache Whirr
+2144,iocanel,NA,Camel
+2290,iocanel,NA,Gora
+2494,iocanel,NA,Karaf
+2677,iocanel,NA,ServiceMix
+209,iocanel,Committer,Apache Camel
+569,iocanel,Committer,Apache Karaf
+583,iocanel,PMC,Apache Karaf
+1586,iocanel,NA,Apache Karaf
+1698,iocanel,Committer,Apache ServiceMix
+1604,isabel,PMC,Apache Mahout
+2034,iv2034,NA,Ambari
+2327,ivanmi,NA,Hadoop
+1485,ivanmi,Committer,Apache Hadoop
+816,hoffmann,Committer,Apache Turbine
+822,hoffmann,PMC Member,Apache Turbine
+2772,hoffmann,NA,Turbine
+1818,hoffmann,PMC Member,Apache Turbine
+1824,hoffmann,Java Developer,Apache Turbine
+1828,hoffmann,Committer,Apache Turbine
+345,ja0345,PMC,Apache Geronimo
+389,ja0389,Committer,Apache Geronimo
+1891,ja1891,NA,Accumulo
+952,jagane,PMC,Apache Ambari
+1984,jagane,NA,Ambari
+953,jaimin,PMC,Apache Ambari
+1985,jaimin,NA,Ambari
+2279,jake.mannix,NA,Giraph
+452,jghoman,PMC,Apache Hadoop
+495,jghoman,Committer,Apache Hadoop
+2277,jghoman,NA,Giraph
+2328,jghoman,NA,Hadoop
+2767,jghoman,NA,Tajo
+1435,jghoman,PMC,Apache Hadoop
+1487,jghoman,Committer,Apache Hadoop
+93,jaliya,Committer,Apache Axiom
+119,jaliya,Committer,Apache Axis
+691,jaliya,Committer,Apache Sandesha
+1079,jaliya,Committer,Apache Axiom
+1106,jaliya,Committer,Apache Axis2
+1676,jaliya,Committer,Apache Sandesha
+308,jcarman,Committer,Apache Commons Lang
+328,jcarman,Committer,Apache Commons Proxy
+334,jcarman,Committer,Apache Commons VFS
+1310,jcarman,Committer,Apache Commons Lang
+1315,jcarman,Committer,Apache Commons Proxy
+1319,jcarman,Committer,Apache Commons VFS
+995,ja0995,Emeritus PMC,Apache ANT
+336,jmitchell,Committer,Apache Commons Validator
+1321,jmitchell,Committer,Apache Commons Validator
+1180,jamespage,committer,Apache Bigtop
+65,ja0065,PMC,Apache Aries
+1044,ja1044,PMC,Apache Aries
+2069,ja2069,NA,Aries
+2252,ja2252,NA,Geronimo
+23,jstrachan,Committer,ActiveMQ
+250,jstrachan,Committer,Apache Commons CLI
+271,jstrachan,Committer,Apache Commons Discovery
+298,jstrachan,Committer,Apache Commons JEXL
+331,jstrachan,Committer,Apache Commons VFS
+714,jstrachan,Committer,Apache ServiceMix
+733,jstrachan,PMC,Apache ServiceMix
+928,jstrachan,Committer,Apache ActiveMQ
+1230,jstrachan,Committer,Apache Camel
+1248,jstrachan,Committer,Apache Commons CLI
+1277,jstrachan,NA,Apache Commons Discovery
+1299,jstrachan,Committer,Apache Commons JEXL
+1302,jstrachan,Committer,Apache Commons Jelly
+1316,jstrachan,Committer,Apache Commons VFS
+1919,jstrachan,NA,ActiveMQ
+2149,jstrachan,NA,Camel
+2504,jstrachan,NA,Karaf
+2679,jstrachan,NA,ServiceMix
+1340,ja1340,Committer,Apache Geronimo
+214,jstrachan,Committer,Apache Camel
+579,jstrachan,Committer,Apache Karaf
+1242,jstrachan,Committer,Apache Commons Betwixt
+1598,jstrachan,NA,Apache Karaf
+1700,jstrachan,Committer,Apache ServiceMix
+1720,jstrachan,PMC,Apache ServiceMix
+715,jgoodyear,Committer,Apache ServiceMix
+2499,jgoodyear,NA,Karaf
+2680,jgoodyear,NA,ServiceMix
+574,jgoodyear,Committer,Apache Karaf
+587,jgoodyear,PMC,Apache Karaf
+1592,jgoodyear,NA,Apache Karaf
+1701,jgoodyear,Committer,Apache ServiceMix
+265,ja0265,Contributor,Apache Commons Configuration
+1271,ja1271,Contributor,Apache Commons Configuration
+346,ja0346,PMC,Apache Geronimo
+390,ja0390,Committer,Apache Geronimo
+2253,ja2253,NA,Geronimo
+713,janb,Committer,Apache ServiceMix
+2678,janb,NA,ServiceMix
+1341,ja1341,Committer,Apache Geronimo
+1699,janb,Committer,Apache ServiceMix
+908,jbernhardt,Committer,Apache Syncope
+909,jbernhardt,PMC,Apache Syncope
+2756,jbernhardt,NA,Syncope
+1796,jbernhardt,PMC member,Apache Syncope
+276,luehe,Committer,Apache Commons EL
+1280,luehe,Committer,Apache Commons El
+1992,matyix,NA,Ambari
+66,ja0066,PMC,Apache Aries
+347,ja0347,PMC,Apache Geronimo
+391,ja0391,Committer,Apache Geronimo
+1045,ja1045,PMC,Apache Aries
+2070,ja2070,NA,Aries
+2254,ja2254,NA,Geronimo
+2498,jgawor,NA,Karaf
+1342,ja1342,PMC Chair,Apache Geronimo
+573,jgawor,Committer,Apache Karaf
+586,jgawor,PMC,Apache Karaf
+1591,jgawor,NA,Apache Karaf
+2647,ja2647,NA,Sentry
+2226,jarcec,NA,Flume
+2720,jarcec,NA,Sqoop
+2705,ja2705,NA,Spark
+2423,jdere,NA,Hive
+348,ja0348,PMC,Apache Geronimo
+392,ja0392,Committer,Apache Geronimo
+497,jlowe,Committer,Apache Hadoop
+1437,jlowe,PMC,Apache Hadoop
+1491,jlowe,Committer,Apache Hadoop
+257,jvanzyl,Committer,Apache Commons Configuration
+283,jvanzyl,Committer,Apache Commons Email
+288,jvanzyl,Committer,Apache Commons FileUpload
+1243,jvanzyl,Committer,Apache Commons Betwixt
+1255,jvanzyl,Java Developer,Apache Commons Configuration
+1263,jvanzyl,Committer,Apache Commons Configuration
+1286,jvanzyl,Committer,Apache Commons Email
+1343,ja1343,Committer,Apache Geronimo
+2255,ja2255,NA,Geronimo
+349,ja0349,PMC,Apache Geronimo
+393,ja0393,Committer,Apache Geronimo
+108,jaya,Committer,Apache Axiom
+143,jaya,Committer,Apache Axis
+1094,jaya,Committer,Apache Axiom
+1130,jaya,Committer,Apache Axis2
+2577,jaydeep,NA,Oozie
+1987,jluniya,NA,Ambari
+2071,je2071,NA,Aries
+716,jbonofre,Committer,Apache ServiceMix
+734,jbonofre,PMC,Apache ServiceMix
+906,jbonofre,Committer,Apache Syncope
+907,jbonofre,PMC,Apache Syncope
+1023,jbonofre,Committer,Apache Archiva
+1226,jbonofre,Committer,Apache Camel
+1920,jbonofre,NA,ActiveMQ
+2145,jbonofre,NA,Camel
+2211,jbonofre,NA,Falcon
+2503,jbonofre,NA,Karaf
+2681,jbonofre,NA,ServiceMix
+2755,jbonofre,NA,Syncope
+210,jbonofre,Committer,Apache Camel
+578,jbonofre,Committer,Apache Karaf
+591,jbonofre,PMC,Apache Karaf
+1597,jbonofre,NA,Apache Karaf
+1702,jbonofre,Committer,Apache ServiceMix
+1721,jbonofre,PMC,Apache ServiceMix
+1795,jbonofre,PMC member,Apache Syncope
+1749,jckautzmann,Java Developer,Apache Sling
+426,jdcryans,Committer,Apache Hbase
+2385,jdcryans,NA,HBase
+1402,jdcryans,Committer,Apache HBase
+67,je0067,PMC,Apache Aries
+1046,je1046,PMC,Apache Aries
+2072,je2072,NA,Aries
+2546,jwaldman,NA,MyFaces
+115,u115,Committer,Apache Axis
+1102,u1102,Committer,Apache Axis2
+289,jsdever,Committer,Apache Commons HTTP Client
+1289,jsdever,Committer,Apache Commons HTTP Client
+1606,jeastman,PMC Emeritus,Apache Mahout
+1011,jfield,Contributor,Apache Accumulo
+1892,jfield,NA,Accumulo
+2256,je2256,NA,Geronimo
+717,jgenender,Committer,Apache ServiceMix
+735,jgenender,PMC,Apache ServiceMix
+1227,jgenender,Committer,Apache Camel
+1921,jgenender,NA,ActiveMQ
+2146,jgenender,NA,Camel
+2682,jgenender,NA,ServiceMix
+1344,je1344,Committer,Apache Geronimo
+211,jgenender,Committer,Apache Camel
+1703,jgenender,Committer,Apache ServiceMix
+1722,jgenender,PMC,Apache ServiceMix
+88,hammer,Committer,Apache Avro
+1064,hammer,python,Apache Avro
+1070,hammer,Committer,Apache Avro
+2091,hammer,NA,Avro
+39,je0039,Contributor,ActiveMQ
+1197,je1197,Contributor,Apache Camel
+1936,je1936,NA,ActiveMQ
+2162,je2162,NA,Camel
+226,je0226,Contributor,Apache Camel
+2030,je2030,NA,Ambari
+2006,sposetti,NA,Ambari
+620,jeffyu,PMC,Apache ODE
+624,jeffyu,Committer,Apache ODE
+1627,jeffyu,PMC,Apache ODE
+1631,jeffyu,Developer,Apache ODE
+321,brekke,Committer,Apache Commons Net
+1311,brekke,Committer,Apache Commons Net
+2523,je2523,NA,Knox
+2386,jeffreyz,NA,HBase
+1403,jeffreyz,Committer,Apache HBase
+630,jrbauer,PMC,Apache OpenJPA
+645,jrbauer,Committer,Apache OpenJPA
+1644,jrbauer,Committer,Apache OpenJPA
+1656,jrbauer,PMC,Apache OpenJPA
+2591,jrbauer,NA,OpenJPA
+1151,jrbauer,PMC,Apache BVal
+174,jrbauer,PMC,Apache Bean Validation
+185,jrbauer,Committer,Apache Bean Validation
+375,je0375,Committer,Apache Geronimo
+837,hughesj,Committer,Apache Woden
+1866,hughesj,Committer,Apache Woden
+68,je0068,PMC,Apache Aries
+1047,je1047,PMC,Apache Aries
+2073,je2073,NA,Aries
+1893,je1893,NA,Accumulo
+994,je0994,PMC,Apache ANT
+245,jmcconnell,PMC Member,Apache Continuum
+607,jmcconnell,Emeritus,Apache Maven
+1010,je1010,Contributor,Apache Accumulo
+1894,je1894,NA,Accumulo
+2114,jcamacho,NA,Calcite
+2449,jcamacho,NA,Hive
+2329,jianhe,NA,Hadoop
+1488,jianhe,Committer,Apache Hadoop
+305,ji0305,Contributor,Apache Commons Jelly
+1307,ji1307,Contributor,Apache Commons Jelly
+428,jxiang,Committer,Apache Hbase
+2390,jxiang,NA,HBase
+2445,jxiang,NA,Hive
+1405,jxiang,Committer,Apache HBase
+2387,jerryjch,NA,HBase
+2330,jing9,NA,Hadoop
+1489,jing9,Committer,Apache Hadoop
+453,jitendra,PMC,Apache Hadoop
+496,jitendra,Committer,Apache Hadoop
+852,jitendra,Committer,Apache Ambari
+853,jitendra,PMC,Apache Ambari
+954,jitendra,PMC,Apache Ambari
+1986,jitendra,NA,Ambari
+2331,jitendra,NA,Hadoop
+2436,jitendra,NA,Hive
+1436,jitendra,PMC,Apache Hadoop
+1490,jitendra,Committer,Apache Hadoop
+1538,jitendra,Committer,Apache Hive
+2189,John McNally,NA,Db
+248,joakime,Emeritus Committer,Apache Continuum
+608,joakime,Emeritus,Apache Maven
+1025,joakime,Emeritus,Apache Archiva
+69,jo0069,PMC,Apache Aries
+350,jo0350,PMC,Apache Geronimo
+394,jo0394,Committer,Apache Geronimo
+1048,jo1048,PMC,Apache Aries
+2074,jo2074,NA,Aries
+2257,jo2257,NA,Geronimo
+1345,jo1345,Committer,Apache Geronimo
+2648,jo2648,NA,Sentry
+40,jo0040,Contributor,ActiveMQ
+1198,jo1198,Contributor,Apache Camel
+1937,jo1937,NA,ActiveMQ
+2163,jo2163,NA,Camel
+227,jo0227,Contributor,Apache Camel
+646,jo0646,Committer,Apache OpenJPA
+2592,jo2592,NA,OpenJPA
+1645,jo1645,Committer,Apache OpenJPA
+304,jo0304,Contributor,Apache Commons Jelly
+1306,jo1306,Contributor,Apache Commons Jelly
+24,joe,Committer,ActiveMQ
+929,joe,Committer,Apache ActiveMQ
+1922,joe,NA,ActiveMQ
+2019,zhewang,NA,Ambari
+718,joed,Committer,Apache ServiceMix
+1228,joed,Committer,Apache Camel
+2147,joed,NA,Camel
+2683,joed,NA,ServiceMix
+212,joed,Committer,Apache Camel
+1704,joed,Committer,Apache ServiceMix
+498,johan,Committer,Apache Hadoop
+797,johan,PMC,Apache Whirr
+806,johan,Committer,Apache Whirr
+1849,johan,committer,Apache Whirr
+1859,johan,PMC,Apache Whirr
+2332,johan,NA,Hadoop
+1492,johan,Committer,Apache Hadoop
+599,jdcasey,PMC Member,Apache Maven
+838,jkaputin,Committer,Apache Woden
+1867,jkaputin,Committer,Apache Woden
+252,jkeyes,Committer,Apache Commons CLI
+1250,jkeyes,Committer,Apache Commons CLI
+685,jo0685,Emeritus Committer,Apache River
+278,jmcnally,Committer,Apache Commons Email
+286,jmcnally,Committer,Apache Commons FileUpload
+828,jmcnally,Committer,Apache Torque
+1812,jmcnally,Java Developer,Apache Torque
+1281,jmcnally,Committer,Apache Commons Email
+2115,jpullokk,NA,Calcite
+2437,jpullokk,NA,Hive
+351,jo0351,PMC,Apache Geronimo
+395,jo0395,Committer,Apache Geronimo
+70,jo0070,Contributor,Apache Aries
+1049,jo1049,PMC,Apache Aries
+2075,jo2075,NA,Aries
+533,jvs,Committer,Apache Hive
+1188,jvs,committer,Apache Bigtop
+955,jspeidel,PMC,Apache Ambari
+1989,jspeidel,NA,Ambari
+2513,jspeidel,NA,Knox
+854,jspiedel,Committer,Apache Ambari
+2227,johnyrufus,NA,Flume
+2190,Jon Scott Stevens,NA,Db
+26,janstey,Committer,ActiveMQ
+719,janstey,Committer,Apache ServiceMix
+931,janstey,Committer,Apache ActiveMQ
+1229,janstey,Committer,Apache Camel
+1923,janstey,NA,ActiveMQ
+2148,janstey,NA,Camel
+2684,janstey,NA,ServiceMix
+213,janstey,Committer,Apache Camel
+1705,janstey,Committer,Apache ServiceMix
+282,jon,Committer,Apache Commons Email
+825,jon,Committer,Apache Torque
+1815,jon,Java Developer,Apache Torque
+1244,jon,Committer,Apache Commons Betwixt
+1285,jon,Committer,Apache Commons Email
+25,jlim,Committer,ActiveMQ
+930,jlim,Committer,Apache ActiveMQ
+661,jcoveney,Committer,Apache Pig
+2614,jcoveney,NA,Pig
+494,jeagles,Committer,Apache Hadoop
+1434,jeagles,PMC,Apache Hadoop
+1486,jeagles,Committer,Apache Hadoop
+427,jmhsieh,Committer,Apache Hbase
+1012,jmhsieh,Contributor,Apache Accumulo
+1895,jmhsieh,NA,Accumulo
+2228,jmhsieh,NA,Flume
+2389,jmhsieh,NA,HBase
+2721,jmhsieh,NA,Sqoop
+1404,jmhsieh,Committer,Apache HBase
+1988,jonathanhurley,NA,Ambari
+2031,jo2031,NA,Ambari
+2191,Jorgen Loland,NA,Db
+998,elserj,PMC,Apache Accumulo
+1003,elserj,Committer,Apache Accumulo
+1883,elserj,NA,Accumulo
+2116,elserj,NA,Calcite
+2606,jo2606,NA,Phoenix
+529,jsensarma,Committer,Apache Hive
+2415,jssarma,NA,Hive
+1528,jssarma,PMC,Apache Hive
+2104,Jeremy Bauer,NA,BVal
+300,James Strachan,Committer,Apache Commons Jelly
+684,ju0684,Emeritus Committer,Apache River
+2032,ju2032,NA,Ambari
+747,ju0747,Contributor,Apache ServiceMix
+2698,ju2698,NA,ServiceMix
+1734,ju1734,Contributor,Apache ServiceMix
+1589,ju1589,NA,Apache Karaf
+552,jukka,Committer,Apache Jackrabbit
+769,jukka,Mentor,Apache Sling
+2474,jukka,NA,Jackrabbit
+1567,jukka,Committer,Apache Jackrabbit
+1764,jukka,Mentor,Apache Sling
+2622,juliaw,NA,REEF
+2117,jhyde,NA,Calcite
+561,reschke,Committer,Apache Jackrabbit
+2483,reschke,NA,Jackrabbit
+1576,reschke,Committer,Apache Jackrabbit
+662,julien,PMC member,Apache Pig
+674,julien,Committer,Apache Pig
+2615,julien,NA,Pig
+1666,julien,PMC member,Apache PIG
+417,jnioche,Committer,Apache Gora
+1395,jnioche,Committer Emeritus,Apache Gora
+1346,ju1346,Committer,Apache Geronimo
+2258,ju2258,NA,Geronimo
+2333,junping_du,NA,Hadoop
+553,justin,Committer,Apache Jackrabbit
+2475,justin,NA,Jackrabbit
+759,justin,Committer,Apache Sling
+766,justin,PMC,Apache Sling
+1568,justin,Committer,Apache Jackrabbit
+1750,justin ,Java Developer,Apache Sling
+1760,justin ,PMC,Apache Sling
+2192,Jason van Zyl,NA,Db
+2193,Knut Anders Hatlen,NA,Db
+2317,drankye,NA,Hadoop
+501,kzhang,Committer,Apache Hadoop
+855,kzhang,Committer,Apache Ambari
+856,kzhang,PMC,Apache Ambari
+956,kzhang,PMC,Apache Ambari
+1990,kzhang,NA,Ambari
+2335,kzhang,NA,Hadoop
+1496,kzhang,Committer,Apache Hadoop
+429,kannan,Committer,Apache Hbase
+2391,kannan,NA,HBase
+1406,kannan,Committer,Apache HBase
+805,kve,Committer,Apache Whirr
+1850,kve,committer,Apache Whirr
+2334,kasha,NA,Hadoop
+1493,kasha,Committer,Apache Hadoop
+430,karthik,Committer,Apache Hbase
+2392,karthik,NA,HBase
+1407,karthik,Committer,Apache HBase
+781,kasun,Committer,Apache Synapse
+1776,kasun,Committer,Apache Synapse
+2739,kasun,NA,Synapse
+2722,kathleen,NA,Sqoop
+1373,kaz,Committer,Apache Gora
+1387,kaz,PMC,Apache Gora
+2291,kaz,NA,Gora
+149,keithc,Committer,Apache Axis
+1136,keithc,Committer,Apache Axis2
+3,kturner,PMC,Apache Accumulo
+5,kturner,Committer,Apache Accumulo
+418,kturner,Committer,Apache Gora
+999,kturner,PMC,Apache Accumulo
+1004,kturner,Committer,Apache Accumulo
+1374,kturner,Committer,Apache Gora
+1388,kturner,PMC,Apache Gora
+1884,kturner,NA,Accumulo
+2292,kturner,NA,Gora
+352,ke0352,PMC,Apache Geronimo
+396,ke0353,Committer,Apache Geronimo
+2259,ke0354,NA,Geronimo
+1348,ke0355,Committer,Apache Geronimo
+2105,kevan,NA,BVal
+71,kevan,PMC,Apache Aries
+365,kevan,PMC Chair,Apache Geronimo
+409,kevan,Committer,Apache Geronimo
+1050,kevan,PMC,Apache Aries
+1152,kevan,PMC,Apache BVal
+1347,kevan,Committer,Apache Geronimo
+175,kevan,PMC,Apache Bean Validation
+186,kevan,Committer,Apache Bean Validation
+193,kevan,Mentor,Apache Bean Validation
+2508,kminder,NA,Knox
+631,ke0631,PMC,Apache OpenJPA
+647,ke0632,Committer,Apache OpenJPA
+1646,ke0633,Committer,Apache OpenJPA
+1657,ke0634,PMC,Apache OpenJPA
+2593,ke0635,NA,OpenJPA
+2438,kevinwilfong,NA,Hive
+1539,kevinwilfong,Committer,Apache Hive
+499,kihwal,Committer,Apache Hadoop
+1438,kihwal,PMC,Apache Hadoop
+1494,kihwal,Committer,Apache Hadoop
+2560,kiran,NA,Nutch
+74,ki0074,PMC,Apache Aries
+1053,ki1053,PMC,Apache Aries
+2078,ki2078,NA,Aries
+2194,Kathey Marsden,NA,Db
+500,knoguchi,Committer,Apache Hadoop
+1495,knoguchi,Committer,Apache Hadoop
+2312,cos,NA,Hadoop
+2455,cos,NA,Ignite
+1170,cos,committer,Apache Bigtop
+1473,cos,Committer,Apache Hadoop
+264,ko0264,Contributor,Apache Commons Configuration
+1270,ko0265,Contributor,Apache Commons Configuration
+460,shv,PMC,Apache Hadoop
+512,shv,Committer,Apache Hadoop
+2349,shv,NA,Hadoop
+1445,shv,PMC,Apache Hadoop
+1506,shv,Committer,Apache Hadoop
+2027,kr2027,NA,Ambari
+619,lwaterman,PMC,Apache ODE
+623,lwaterman,Committer,Apache ODE
+1626,lwaterman,PMC,Apache ODE
+1630,lwaterman,Developer,Apache ODE
+2338,lmccay,NA,Hadoop
+2509,lmccay,NA,Knox
+431,larsgeorge,Committer,Apache Hbase
+796,larsgeorge,PMC,Apache Whirr
+804,larsgeorge,Committer,Apache Whirr
+1851,larsgeorge,committer,Apache Whirr
+1860,larsgeorge,PMC,Apache Whirr
+2393,larsgeorge,NA,HBase
+1408,larsgeorge,Committer,Apache HBase
+2164,lhein,NA,Camel
+720,lhein,Committer,Apache ServiceMix
+736,lhein,PMC,Apache ServiceMix
+2685,lhein,NA,ServiceMix
+228,lhein,Contributor,Apache Camel
+1602,lhein,NA,Apache Karaf
+1706,lhein,Committer,Apache ServiceMix
+1723,lhein,PMC,Apache ServiceMix
+839,lmandel,Committer,Apache Woden
+1868,lmandel,Committer,Apache Woden
+72,le0072,Contributor,Apache Aries
+2076,le2076,NA,Aries
+1051,le1051,Contributor,Apache Aries
+353,le0353,PMC,Apache Geronimo
+397,le0397,Committer,Apache Geronimo
+1349,le1349,Committer,Apache Geronimo
+2260,le2260,NA,Geronimo
+2336,lei,NA,Hadoop
+2649,le2649,NA,Sentry
+1375,lewismc,Committer,Apache Gora
+1389,lewismc,PMC Chair,Apache Gora
+2293,lewismc,NA,Gora
+2558,lewismc,NA,Nutch
+2323,gtcarrera9,NA,Hadoop
+2440,lirui,NA,Hive
+354,li0354,PMC,Apache Geronimo
+398,li0398,Committer,Apache Geronimo
+1350,li1350,Committer,Apache Geronimo
+2261,li2261,NA,Geronimo
+73,li0073,PMC,Apache Aries
+355,li0073,PMC,Apache Geronimo
+399,li0073,Committer,Apache Geronimo
+1052,li0073,PMC,Apache Aries
+2077,li0073,NA,Aries
+2262,li0073,NA,Geronimo
+1351,li0073,Committer,Apache Geronimo
+437,liyin,Committer,Apache Hbase
+2394,liyin,NA,HBase
+1417,liyin,Committer,Apache HBase
+2337,lohit,NA,Hadoop
+2106,Luciano Resende,NA,BVal
+1153,lresende,PMC,Apache BVal
+176,lresende,PMC,Apache Bean Validation
+187,lresende,Committer,Apache Bean Validation
+502,llu,Committer,Apache Hadoop
+992,umagesh,PMC,Apache ANT
+454,mahadev,PMC,Apache Hadoop
+503,mahadev,Committer,Apache Hadoop
+857,mahadev,Committer,Apache Ambari
+858,mahadev,PMC,Apache Ambari
+957,mahadev,PMC,Apache Ambari
+1991,mahadev,NA,Ambari
+2339,mahadev,NA,Hadoop
+2514,mahadev,NA,Knox
+2781,mahadev,NA,Zookeeper
+1439,mahadev,PMC,Apache Hadoop
+1497,mahadev,Committer,Apache Hadoop
+2284,maja,NA,Giraph
+2515,mkononenko,NA,Knox
+237,medgar,Chair,Apache Click
+239,medgar,Committer,Apache Click
+1239,medgar,Chair,Apache Click
+2551,muthaman,NA,MyFaces
+2195,Mamta,NA,Db
+2263,ma2263,NA,Geronimo
+1352,ma1352,Committer,Apache Geronimo
+557,mreutegg,Committer,Apache Jackrabbit
+2479,mreutegg,NA,Jackrabbit
+1572,mreutegg,Committer,Apache Jackrabbit
+2712,ma2712,NA,Spark
+41,ma0041,Contributor,ActiveMQ
+1199,ma1199,Contributor,Apache Camel
+1938,ma1938,NA,ActiveMQ
+2165,ma2165,NA,Camel
+229,ma0229,Contributor,Apache Camel
+898,mdisabatino,Committer,Apache Syncope
+899,mdisabatino,PMC,Apache Syncope
+2751,mdisabatino,NA,Syncope
+1788,mdisabatino,PMC member,Apache Syncope
+2628,mariia,NA,REEF
+332,imario,Committer,Apache Commons VFS
+614,imario,PMC,Apache MyFaces
+792,imario,PMC,Apache Tobago
+1317,imario,Committer,Apache Commons VFS
+1619,imario,PMC,Apache MyFaces
+2544,imario,NA,MyFaces
+1806,imario,PMC,Apache Tobago
+376,ma0376,Committer,Apache Geronimo
+1939,ma1939,NA,ActiveMQ
+2650,ma2650,NA,Sentry
+75,ma0075,PMC,Apache Aries
+1054,ma1054,PMC,Apache Aries
+2079,ma2079,NA,Aries
+270,markt,Committer,Apache Commons DBCP
+2616,mwagner,NA,Pig
+249,mdahm,Committer,Apache Commons BCEL
+1241,mdahm,Committer,Apache Commons BCel
+2620,weimer,NA,REEF
+1952,mpierce,NA,Airavata
+554,martijnh,Committer,Apache Jackrabbit
+2476,martijnh,NA,Jackrabbit
+1569,martijnh,Committer,Apache Jackrabbit
+330,martinc,Committer,Apache Commons SCXML
+1022,martinc,Committer,Apache Archiva
+749,ma0749,Contributor,Apache ServiceMix
+2700,ma2700,NA,ServiceMix
+1736,ma1736,Contributor,Apache ServiceMix
+258,mpoeschl,Committer,Apache Commons Configuration
+268,mpoeschl,Committer,Apache Commons DBCP
+827,mpoeschl,Committer,Apache Torque
+1813,mpoeschl,Java Developer,Apache Torque
+1256,mpoeschl,Java Developer,Apache Commons Configuration
+1264,mpoeschl,Committer,Apache Commons Configuration
+1274,mpoeschl,Committer,Apache Commons DBCP
+1245,mvdb,Committer,Apache Commons Betwixt
+2602,ma2602,NA,Phoenix
+2118,maryannxue,NA,Calcite
+900,massi,PMC,Apache Syncope
+901,massi,Committer,Apache Syncope
+2752,massi,NA,Syncope
+1789,massi,PMC member,Apache Syncope
+42,ma0042,Contributor,ActiveMQ
+1200,ma1200,Contributor,Apache Camel
+1940,ma1940,NA,ActiveMQ
+2166,ma2166,NA,Camel
+230,ma0230,Contributor,Apache Camel
+1154,mbenson,PMC Chair,Apache BVal
+177,mbenson,PMC,Apache Bean Validation
+188,mbenson,Committer,Apache Bean Validation
+192,mbenson,PMC Chair,Apache Bean Validation
+2547,mcooper,NA,MyFaces
+455,mattf,PMC,Apache Hadoop
+504,mattf,Committer,Apache Hadoop
+2340,mattf,NA,Hadoop
+1440,mattf,PMC,Apache Hadoop
+1498,mattf,Committer,Apache Hadoop
+2686,hogstrom,NA,ServiceMix
+721,ma0721,Committer,Apache ServiceMix
+737,ma0737,PMC,Apache ServiceMix
+1707,hogstrom,Committer,Apache ServiceMix
+1724,hogstrom,PMC,Apache ServiceMix
+696,mlovett,Committer,Apache Sandesha
+1681,mlovett,Committer,Apache Sandesha
+85,massie,Committer,Apache Avro
+2447,mmccline,NA,Hive
+356,ma0356,PMC,Apache Geronimo
+400,ma0400,Committer,Apache Geronimo
+439,mbertozzi,Committer,Apache Hbase
+2396,mbertozzi,NA,HBase
+1419,mbertozzi,Committer,Apache HBase
+835,duftler,Committer,Apache Woden
+1864,duftler,Committer,Apache Woden
+2023,ma2023,NA,Ambari
+2179,mafr,NA,Crunch
+612,matzew,PMC,Apache MyFaces
+794,matzew,PMC,Apache Tobago
+1155,matzew,PMC,Apache BVal
+1617,matzew,PMC,Apache MyFaces
+2541,matzew,NA,MyFaces
+178,matzew,PMC,Apache Bean Validation
+189,matzew,Committer,Apache Bean Validation
+1804,matzew,PMC,Apache Tobago
+2108,Matthias Wessendorf,NA,BVal
+27,mkington,Committer,ActiveMQ
+932,mkington,Committer,Apache ActiveMQ
+1924,mkington,NA,ActiveMQ
+2548,mstarets,NA,MyFaces
+2107,Matt Benson,NA,BVal
+2723,mengwei,NA,Sqoop
+556,meteatamel,Committer,Apache Jackrabbit
+2478,meteatamel,NA,Jackrabbit
+1571,meteatamel,Committer,Apache Jackrabbit
+615,mconcini,committer,Apache MyFaces
+791,mconcini,committer,Apache Tobago
+1620,mconcini,committer,Apache MyFaces
+2550,mconcini,NA,MyFaces
+1807,mconcini,committer,Apache Tobago
+555,mduerig,Committer,Apache Jackrabbit
+2477,mduerig,NA,Jackrabbit
+1570,mduerig,Committer,Apache Jackrabbit
+28,mgaffney,Committer,ActiveMQ
+933,mgaffney,Committer,Apache ActiveMQ
+1925,mgaffney,NA,ActiveMQ
+2564,joyce,NA,Nutch
+136,u136,Committer,Apache Axis
+1123,u1123,Committer,Apache Axis2
+2603,mi2603,NA,Phoenix
+434,stack,Committer,Apache Hbase
+463,stack,PMC,Apache Hadoop
+2404,stack,NA,HBase
+1184,stack,committer,Apache Bigtop
+1413,stack,Committer,Apache HBase
+1448,stack,PMC,Apache Hadoop
+1000,mdrob,PMC,Apache Accumulo
+1005,mdrob,Committer,Apache Accumulo
+1885,mdrob,NA,Accumulo
+761,mykee,Committer,Apache Sling
+768,mykee,PMC,Apache Sling
+1753,mykee ,Java Developer,Apache Sling
+1763,mykee ,PMC,Apache Sling
+2229,mpercy,NA,Flume
+610,mperham,Emeritus,Apache Maven
+2531,mperham,NA,Maven
+1616,mperham,Emeritus,Apache Maven
+1896,mi1896,NA,Accumulo
+2196,Mike Matrigali,NA,Db
+2378,antonov,NA,HBase
+432,mbautin,Committer,Apache Hbase
+2395,mbautin,NA,HBase
+1409,mbautin,Committer,Apache HBase
+1953,milinda,NA,Airavata
+2342,mingma,NA,Hadoop
+1353,mi1353,Committer,Apache Geronimo
+2264,mi2264,NA,Geronimo
+2397,misty,NA,HBase
+1553,mithun,Committer,Apache Hive
+1201,mi1201,Contributor,Apache Camel
+2167,mi2167,NA,Camel
+231,mi0231,Contributor,Apache Camel
+2109,Mohammad Nour El-Din,NA,BVal
+1156,mnour,Committer Emeritus,Apache BVal
+179,mnour,PMC,Apache Bean Validation
+190,mnour,Committer,Apache Bean Validation
+309,morgand,Committer,Apache Commons Logging
+2035,mo2035,NA,Ambari
+2197,Martin Poeschl,NA,Db
+506,mukund,Committer,Apache Hadoop
+1500,mukund,Committer,Apache Hadoop
+2199,Myrna van Lunteren,NA,Db
+958,mpapirkovskyy,PMC,Apache Ambari
+1994,mpapirkovskyy,NA,Ambari
+2198,Martin Zaun,NA,Db
+153,na0153,Contributor,Apache Axis
+1140,na1140,Contributor,Apache Axis2
+2005,smnaha,NA,Ambari
+527,namit,Committer,Apache Hive
+1529,namit,PMC,Apache Hive
+95,nandana,Committer,Apache Axiom
+144,nandana,Committer,Apache Axis
+1081,nandana,Committer,Apache Axiom
+1131,nandana,Committer,Apache Axis2
+959,ncole,PMC,Apache Ambari
+1995,ncole,NA,Ambari
+272,arista,Committer,Apache Commons EL
+1278,arista,Committer,Apache Commons El
+160,nbubna,PMC Member,Apache Velocity
+165,nbubna,Committer,Apache Velocity
+973,nbubna,PMC Member,Apache Velocity Anakia
+978,nbubna,Java developer,Apache Velocity Anakia
+983,nbubna,Committer,Apache Velocity Anakia
+2776,nbubna,NA,Velocity
+1831,nbubna,PMC Member,Apache Velocity
+1836,nbubna,Java developer,Apache Velocity
+2416,navis,NA,Hive
+1530,navis,PMC,Apache Hive
+1540,navis,Committer,Apache Hive
+43,ne0043,Contributor,ActiveMQ
+1202,ne1202,Contributor,Apache Camel
+1941,ne1941,NA,ActiveMQ
+2168,ne2168,NA,Camel
+232,ne0232,Contributor,Apache Camel
+121,u121,Committer,Apache Axis
+1108,u1108,Committer,Apache Axis2
+2119,ndimiduk,NA,Calcite
+2022,ni2022,NA,Ambari
+1410,ndimiduk,Committer,Apache HBase
+2709,ni2709,NA,Spark
+44,ni0044,Contributor,ActiveMQ
+1203,ni1203,Contributor,Apache Camel
+1942,ni1942,NA,ActiveMQ
+2169,ni2169,NA,Camel
+233,ni0233,Contributor,Apache Camel
+2765,ni2765,NA,Syncope
+267,ni0267,Contributor,Apache Commons Configuration
+1273,ni1273,Contributor,Apache Commons Configuration
+1165,ni1165,Committer,Apache Batik
+433,nspiegelberg,Committer,Apache Hbase
+2398,nspiegelberg,NA,HBase
+1411,nspiegelberg,Committer,Apache HBase
+145,u145,Committer,Apache Axis
+1132,u1132,Committer,Apache Axis2
+2536,ni2536,NA,Mesos
+539,niklas,Committer,Apache James
+541,niklas,PMC,Apache James
+1555,niklas,Committer,Apache James
+76,ni0076,PMC,Apache Aries
+1055,ni1055,PMC,Apache Aries
+2080,ni2080,NA,Aries
+532,nzhang,Committer,Apache Hive
+2417,nzhang,NA,Hive
+1531,nzhang,PMC,Apache Hive
+1954,ndoshi,NA,Airavata
+2285,nitay,NA,Giraph
+785,olegk,Committer,Apache Synapse
+1780,olegk,Committer,Apache Synapse
+2743,olegk,NA,Synapse
+962,onechiporenko,PMC,Apache Ambari
+1997,onechiporenko,NA,Ambari
+960,odiachenko,PMC,Apache Ambari
+663,olga,PMC member,Apache Pig
+675,olga,Committer,Apache Pig
+246,olamy,PMC Member,Apache Continuum
+1020,olamy,PMC Member,Apache Archiva
+841,os0841,Committer,Apache Woden
+1870,os1870,Committer,Apache Woden
+456,omalley,PMC,Apache Hadoop
+507,omalley,Committer,Apache Hadoop
+844,omalley,Committer,Apache Ambari
+845,omalley,PMC,Apache Ambari
+887,omalley,Mentor,Apache HCatalog
+961,omalley,PMC,Apache Ambari
+1996,omalley,NA,Ambari
+2278,omalley,NA,Giraph
+2343,omalley,NA,Hadoop
+2424,omalley,NA,Hive
+2516,omalley,NA,Knox
+2634,omalley,NA,REEF
+2768,omalley,NA,Tajo
+1179,omalley,committer,Apache Bigtop
+1191,omalley,mentor,Apache Bigtop
+1441,omalley,PMC,Apache Hadoop
+1501,omalley,Committer,Apache Hadoop
+1541,omalley,Committer,Apache Hive
+760,hannonpi,Committer,Apache Sling
+767,hannonpi,PMC,Apache Sling
+1751,hannonpi ,Java Developer,Apache Sling
+1761,hannonpi ,PMC,Apache Sling
+1998,pallavkul,NA,Ambari
+2217,pallavi,NA,Falcon
+1609,pranjan,PMC,Apache Mahout
+2524,pa2524,NA,Knox
+2651,pa2651,NA,Sentry
+457,phunt,PMC,Apache Hadoop
+795,phunt,PMC,Apache Whirr
+803,phunt,Committer,Apache Whirr
+1852,phunt,committer,Apache Whirr
+1861,phunt,PMC,Apache Whirr
+2230,phunt,NA,Flume
+2780,phunt,NA,Zookeeper
+1176,phunt,committer,Apache Bigtop
+1442,phunt,PMC,Apache Hadoop
+1182,ptr,committer,Apache Bigtop
+772,pzf,Committer,Apache Synapse
+1767,pzf,Committer,Apache Synapse
+1955,pzf,NA,Airavata
+2730,pzf,NA,Synapse
+600,pgier,PMC Member,Apache Maven
+2529,pgier,NA,Maven
+1613,pgier,PMC Member,Apache Maven
+2216,pisaychuk,NA,Falcon
+357,pa0357,PMC,Apache Geronimo
+401,pa0401,Committer,Apache Geronimo
+2265,pa2265,NA,Geronimo
+1354,pa1354,Committer,Apache Geronimo
+2554,paulnicolucci,NA,MyFaces
+534,pauly,Committer,Apache Hive
+878,pauly,Committer,Apache HCatalog
+879,pauly,PPMC,Apache HCatalog
+2220,pavankumar,NA,Falcon
+559,ppiegaze,Committer,Apache Jackrabbit
+2482,ppiegaze,NA,Jackrabbit
+1574,ppiegaze,Committer,Apache Jackrabbit
+2221,peeyushb,NA,Falcon
+2452,pxiong,NA,Hive
+29,pbrooke,Committer,ActiveMQ
+934,pbrooke,Committer,Apache ActiveMQ
+1926,pbrooke,NA,ActiveMQ
+1177,plinnell,committer,Apache Bigtop
+255,pe0255,Contributor,Apache Commons CLI
+1253,pe1253,Contributor,Apache Commons CLI
+1622,pe1622,Contributor,Apache MyFaces
+2555,pe2555,NA,MyFaces
+77,pe0077,PMC,Apache Aries
+1056,pe1056,PMC,Apache Aries
+2081,pe2081,NA,Aries
+297,proyal,Committer,Apache Commons JEXL
+1298,proyal,Committer,Apache Commons JEXL
+752,pe0752,Contributor,Apache ServiceMix
+2703,pe2703,NA,ServiceMix
+1739,pe1739,Contributor,Apache ServiceMix
+722,pdodds,Committer,Apache ServiceMix
+738,pdodds,PMC,Apache ServiceMix
+2687,pdodds,NA,ServiceMix
+1708,pdodds,Committer,Apache ServiceMix
+1725,pdodds,PMC,Apache ServiceMix
+87,philz,Committer,Apache Avro
+1065,philz,java,Apache Avro
+1071,philz,Committer,Apache Avro
+2092,philz,NA,Avro
+560,pmarx,Committer,Apache Jackrabbit
+2480,pmarx,NA,Jackrabbit
+1575,pmarx,Committer,Apache Jackrabbit
+274,pierred,Committer,Apache Commons EL
+1279,pierred,Committer,Apache Commons El
+2218,pragyam,NA,Falcon
+2043,pr2043,NA,Ambari
+528,prasadc,Committer,Apache Hive
+358,pr0358,PMC,Apache Geronimo
+402,pr0402,Committer,Apache Geronimo
+2266,pr2266,NA,Geronimo
+1355,pr1355,Committer,Apache Geronimo
+2231,prasadm,NA,Flume
+2428,prasadm,NA,Hive
+1542,prasadm,Committer,Apache Hive
+2425,prasanth_j,NA,Hive
+2711,pr2711,NA,Spark
+558,ppakulski,Committer,Apache Jackrabbit
+2481,ppakulski,NA,Jackrabbit
+1573,ppakulski,Committer,Apache Jackrabbit
+2725,qxu,NA,Sqoop
+279,quintonm,Committer,Apache Commons Email
+829,quintonm,Committer,Apache Torque
+1811,quintonm,Java Developer,Apache Torque
+1282,quintonm,Committer,Apache Commons Email
+2200,Quinton McCombs,NA,Db
+750,ra0750,Contributor,Apache ServiceMix
+2701,ra2701,NA,ServiceMix
+1737,ra1737,Contributor,Apache ServiceMix
+618,rr,PMC,Apache ODE
+622,rr,Committer,Apache ODE
+1625,rr,PMC,Apache ODE
+1629,rr,Developer,Apache ODE
+2213,raghav,NA,Falcon
+530,rmurthy,Committer,Apache Hive
+2418,rmurthy,NA,Hive
+1532,rmurthy,PMC,Apache Hive
+458,rangadi,PMC,Apache Hadoop
+508,rangadi,Committer,Apache Hadoop
+2344,rangadi,NA,Hadoop
+1443,rangadi,PMC,Apache Hadoop
+1502,rangadi,Committer,Apache Hadoop
+2652,ra2652,NA,Sentry
+299,rahul,Committer,Apache Commons JEXL
+329,rahul,Committer,Apache Commons SCXML
+333,rahul,Committer,Apache Commons VFS
+1300,rahul,Committer,Apache Commons JEXL
+1318,rahul,Committer,Apache Commons VFS
+2604,ra2604,NA,Phoenix
+2399,rajeshbabu,NA,HBase
+2788,rakeshr,NA,Zookeeper
+263,rgoers,Committer,Apache Commons Configuration
+335,rgoers,Committer,Apache Commons VFS
+601,rgoers,PMC Member,Apache Maven
+1320,rgoers,Committer,Apache Commons VFS
+2528,rgoers,NA,Maven
+1261,rgoers,Java Developer,Apache Commons Configuration
+1269,rgoers,Committer,Apache Commons Configuration
+1614,rgoers,PMC Member,Apache Maven
+2045,ra2045,NA,Ambari
+1956,raminder,NA,Airavata
+2400,ramkrishna,NA,HBase
+1416,ramkrishna,Committer,Apache HBase
+2605,ra2605,NA,Phoenix
+509,ramya,Committer,Apache Hadoop
+859,ramya,Committer,Apache Ambari
+860,ramya,PMC,Apache Ambari
+963,ramya,PMC,Apache Ambari
+1999,ramya,NA,Ambari
+2345,ramya,NA,Hadoop
+1503,ramya,Committer,Apache Hadoop
+30,rsaba,Committer,ActiveMQ
+935,rsaba,Committer,Apache ActiveMQ
+1927,rsaba,NA,ActiveMQ
+2790,rgs,NA,Zookeeper
+1013,ra1013,Contributor,Apache Accumulo
+1897,ra1897,NA,Accumulo
+648,ra0648,Committer,Apache OpenJPA
+2594,ra2594,NA,OpenJPA
+1647,ra1647,Committer,Apache OpenJPA
+78,ra0078,PMC,Apache Aries
+1057,ra1057,PMC,Apache Aries
+2082,ra2082,NA,Aries
+902,rene,Committer,Apache Syncope
+2753,rene,NA,Syncope
+1790,rene,committer,Apache Syncope
+1377,rmarroquin,Committer,Apache Gora
+1391,rmarroquin,PMC,Apache Gora
+2201,Rick Hillegas,NA,Db
+104,scheu,Committer,Apache Axiom
+139,scheu,Committer,Apache Axis
+1090,scheu,Committer,Apache Axiom
+1126,scheu,Committer,Apache Axis2
+664,rding,PMC member,Apache Pig
+676,rding,Committer,Apache Pig
+2617,rding,NA,Pig
+1667,rding,PMC member,Apache PIG
+1231,rickette,Committer,Apache Camel
+2150,rickette,NA,Camel
+215,rickette,Committer,Apache Camel
+315,rsitze,Committer,Apache Commons Logging
+2000,rzang,NA,Ambari
+2726,rzhou1,NA,Sqoop
+632,ri0632,PMC,Apache OpenJPA
+649,ri0649,Committer,Apache OpenJPA
+1648,ri1648,Committer,Apache OpenJPA
+1658,ri1658,PMC,Apache OpenJPA
+2595,ri2595,NA,OpenJPA
+359,ri0359,PMC,Apache Geronimo
+403,ri0403,Committer,Apache Geronimo
+1356,ri1356,Committer,Apache Geronimo
+2209,rishumehrothra,NA,Falcon
+31,rajdavies,Committer,ActiveMQ
+723,rajdavies,Committer,Apache ServiceMix
+739,rajdavies,PMC,Apache ServiceMix
+936,rajdavies,Committer,Apache ActiveMQ
+1232,rajdavies,Committer,Apache Camel
+1928,rajdavies,NA,ActiveMQ
+2151,rajdavies,NA,Camel
+2688,rajdavies,NA,ServiceMix
+216,rajdavies,Committer,Apache Camel
+1709,rajdavies,Committer,Apache ServiceMix
+1726,rajdavies,PMC,Apache ServiceMix
+253,roxspring,Committer,Apache Commons CLI
+1251,roxspring,Committer,Apache Commons CLI
+313,rdonkin,Committer,Apache Commons Logging
+325,rdonkin,Committer,Apache Commons Pool
+2346,rkanter,NA,Hadoop
+2576,rkanter,NA,Oozie
+126,robertlazarski,Committer,Apache Axis
+1113,robertlazarski,Committer,Apache Axis2
+2001,rlevas,NA,Ambari
+46,ro0046,Contributor,ActiveMQ
+751,ro0751,Contributor,Apache ServiceMix
+1204,ro1204,Contributor,Apache Camel
+1738,ro1738,Contributor,Apache ServiceMix
+1944,ro1944,NA,ActiveMQ
+2170,ro2170,NA,Camel
+2702,ro2702,NA,ServiceMix
+234,ro0234,Contributor,Apache Camel
+1754,rombert,Java Developer,Apache Sling
+443,bobby,PMC,Apache Hadoop
+480,bobby,Committer,Apache Hadoop
+1423,bobby,PMC,Apache Hadoop
+1467,bobby,Committer,Apache Hadoop
+45,ro0045,Contributor,ActiveMQ
+1205,ro1205,Contributor,Apache Camel
+1943,ro1943,NA,ActiveMQ
+2171,ro2171,NA,Camel
+235,ro0235,Contributor,Apache Camel
+293,rwaldhoff,Committer,Apache Commons HTTP Client
+310,rwaldhoff,Committer,Apache Commons Logging
+1293,rwaldhoff,Committer,Apache Commons HTTP Client
+665,rohini,Committer,Apache Pig
+79,ro0079,PMC,Apache Aries
+1058,ro1058,PMC,Apache Aries
+2083,ro2083,NA,Aries
+1183,rvs,committer,Apache Bigtop
+1157,romanstumm,PMC,Apache BVal
+180,romanstumm,PMC,Apache Bean Validation
+191,romanstumm,Committer,Apache Bean Validation
+2110,Roman Stumm,NA,BVal
+688,ro0688,Emeritus Committer,Apache River
+2232,roshannaik,NA,Flume
+2532,ro2532,NA,Mesos
+1957,rgardler,NA,Airavata
+2633,rgardler,NA,REEF
+550,fielding,Committer,Apache Jackrabbit
+2471,fielding,NA,Jackrabbit
+1565,fielding,Committer,Apache Jackrabbit
+96,ruchith,Committer,Apache Axiom
+1082,ruchith,Committer,Apache Axiom
+120,ruchithf,Committer,Apache Axis
+1107,ruchithf,Committer,Apache Axis2
+1357,ru1357,Committer,Apache Geronimo
+2267,ru2267,NA,Geronimo
+2212,rostafiychuk,NA,Falcon
+778,ruwan,Committer,Apache Synapse
+1773,ruwan,Committer,Apache Synapse
+2736,ruwan,NA,Synapse
+1014,ry1014,Contributor,Apache Accumulo
+1898,ry1898,NA,Accumulo
+2401,rawson,NA,HBase
+563,sebastien,Committer,Apache Jackrabbit
+2485,sebastien,NA,Jackrabbit
+1578,sebastien,Committer,Apache Jackrabbit
+80,sa0080,PMC,Apache Aries
+1059,sa1059,PMC,Apache Aries
+2084,sa2084,NA,Aries
+360,sa0360,PMC,Apache Geronimo
+404,sa0404,Committer,Apache Geronimo
+2268,sa2268,NA,Geronimo
+1358,sa1358,Committer,Apache Geronimo
+1958,sachith,NA,Airavata
+150,sagara,Committer,Apache Axis
+1137,sagara,Committer,Apache Axis2
+2208,samarthg,NA,Falcon
+89,saminda,Committer,Apache Axiom
+113,saminda,Committer,Apache Axis
+770,saminda,Committer,Apache Synapse
+1075,saminda,Committer,Apache Axiom
+1100,saminda,Committer,Apache Axis2
+1765,saminda,Committer,Apache Synapse
+2728,saminda,NA,Synapse
+1993,magyari_sandor,NA,Ambari
+326,sandymac,Committer,Apache Commons Pool
+2350,sandy,NA,Hadoop
+1507,sandy,Committer,Apache Hadoop
+2351,sjlee,NA,Hadoop
+461,sradia,PMC,Apache Hadoop
+513,sradia,Committer,Apache Hadoop
+2352,sradia,NA,Hadoop
+1446,sradia,PMC,Apache Hadoop
+1508,sradia,Committer,Apache Hadoop
+148,sanjiva,Committer,Apache Axis
+692,sanjiva,Committer,Apache Sandesha
+777,sanjiva,Committer,Apache Synapse
+1096,sanjiva,Committer,Apache Axiom
+1135,sanjiva,Committer,Apache Axis2
+1677,sanjiva,Committer,Apache Sandesha
+1772,sanjiva,Committer,Apache Synapse
+1959,sanjiva,NA,Airavata
+2735,sanjiva,NA,Synapse
+138,sanka,Committer,Apache Axis
+693,sanka,Committer,Apache Sandesha
+1125,sanka,Committer,Apache Axis2
+1678,sanka,Committer,Apache Sandesha
+666,sms,PMC member,Apache Pig
+677,sms,Committer,Apache Pig
+2618,sms,NA,Pig
+1668,sms,PMC member,Apache PIG
+86,sbanacho,Committer,Apache Avro
+1066,sbanacho,c++,Apache Avro
+1072,sbanacho,Committer,Apache Avro
+2093,sbanacho,NA,Avro
+510,schen,Committer,Apache Hadoop
+2347,schen,NA,Hadoop
+1504,schen,Committer,Apache Hadoop
+2003,screeley,NA,Ambari
+818,seade,Committer,Apache Turbine
+823,seade,PMC Member,Apache Turbine
+831,seade,Committer,Apache Torque
+1809,seade,Java Developer,Apache Torque
+2771,seade,NA,Turbine
+1817,seade,PMC Member,Apache Turbine
+1822,seade,Java Developer,Apache Turbine
+1826,seade,Committer,Apache Turbine
+1233,sully6768,Committer,Apache Camel
+2152,sully6768,NA,Camel
+217,sully6768,Committer,Apache Camel
+2542,sobryan,NA,MyFaces
+312,sanders,Committer,Apache Commons Logging
+2202,Scott Eade,NA,Db
+1881,busbey,NA,Accumulo
+2089,busbey,NA,Avro
+2379,busbey,NA,HBase
+1015,se1015,Contributor,Apache Accumulo
+291,sullis,Committer,Apache Commons HTTP Client
+1291,sullis,Committer,Apache Commons HTTP Client
+2653,se2653,NA,Sentry
+2708,se2708,NA,Spark
+1607,srowen,PMC Emeritus,Apache Mahout
+2527,sschaffert,NA,Marmotta
+2007,stoader,NA,Ambari
+2037,se2037,NA,Ambari
+94,senaka,Committer,Apache Axiom
+127,senaka,Committer,Apache Axis
+1080,senaka,Committer,Apache Axiom
+1114,senaka,Committer,Apache Axis2
+81,se0081,PMC,Apache Aries
+1060,se1060,PMC,Apache Aries
+2085,se2085,NA,Aries
+2402,sershe,NA,HBase
+2419,sershe,NA,Hive
+1412,sershe,Committer,Apache HBase
+2446,spena,NA,Hive
+2621,motus,NA,REEF
+420,sertan,Committer,Apache Gora
+1378,sertan,Committer,Apache Gora
+1392,sertan,PMC,Apache Gora
+2295,sertan,NA,Gora
+2205,shaikidris,NA,Falcon
+1960,shameera,NA,Airavata
+2707,sh2707,NA,Spark
+459,sharad,PMC,Apache Hadoop
+511,sharad,Committer,Apache Hadoop
+2206,sharad,NA,Falcon
+2348,sharad,NA,Hadoop
+1067,sharadag,python,Apache Avro
+1073,sharadag,Committer,Apache Avro
+2094,sharadag,NA,Avro
+1444,sharad,PMC,Apache Hadoop
+1505,sharad,Committer,Apache Hadoop
+2486,shashank,NA,Jackrabbit
+273,shawn,Committer,Apache Commons EL
+361,sh0361,PMC,Apache Geronimo
+405,sh0405,Committer,Apache Geronimo
+2269,sh2269,NA,Geronimo
+1359,sh1359,Committer,Apache Geronimo
+158,sh0158,Contributor,Apache Axis
+1145,sh1145,Contributor,Apache Axis2
+2623,shravan,NA,REEF
+2654,sh2654,NA,Sentry
+2175,shreyas,NA,Chukwa
+462,sseth,PMC,Apache Hadoop
+514,sseth,Committer,Apache Hadoop
+2354,sseth,NA,Hadoop
+1447,sseth,PMC,Apache Hadoop
+1509,sseth,Committer,Apache Hadoop
+965,swagle,PMC,Apache Ambari
+2008,swagle,NA,Ambari
+817,sgoeschl,Committer,Apache Turbine
+820,sgoeschl,PMC Member,Apache Turbine
+2774,sgoeschl,NA,Turbine
+1820,sgoeschl,PMC Member,Apache Turbine
+1823,sgoeschl,Java Developer,Apache Turbine
+1827,sgoeschl,Committer,Apache Turbine
+2098,sijie,NA,Bookkeeper
+680,si0680,Committer,Apache River
+2636,si2636,NA,River
+1671,si1671,Committer,Apache River
+316,skitching,Committer,Apache Commons Logging
+1158,simonetripodi,PMC,Apache BVal
+2566,simonetripodi,NA,Oltu
+1791,simonetripodi,PMC member,Apache Syncope
+2111,Simone Tripodi,NA,BVal
+2439,sdong,NA,Hive
+1544,sdong,Committer,Apache Hive
+2215,sowmya_kr,NA,Falcon
+2655,sr2655,NA,Sentry
+2353,sreekanth,NA,Hadoop
+2040,sr2040,NA,Ambari
+2009,sriharsha,NA,Ambari
+2403,ssrungarapu,NA,HBase
+2204,sriksun,NA,Falcon
+862,srimanth,Committer,Apache Ambari
+966,srimanth,PMC,Apache Ambari
+2010,srimanth,NA,Ambari
+101,hemapani,Committer,Apache Axiom
+133,hemapani,Committer,Apache Axis
+1087,hemapani,Committer,Apache Axiom
+1120,hemapani,Committer,Apache Axis2
+1961,hemapani,NA,Airavata
+377,sr0377,Committer,Apache Geronimo
+650,sr0650,Committer,Apache OpenJPA
+2596,sr2596,NA,OpenJPA
+1649,sr1649,Committer,Apache OpenJPA
+1234,slewis,Committer,Apache Camel
+2153,slewis,NA,Camel
+218,slewis,Committer,Apache Camel
+613,ssilvert,Committer,Apache MyFaces
+793,ssilvert,Committer,Apache Tobago
+1618,ssilvert,committer,Apache MyFaces
+2543,ssilvert,NA,MyFaces
+1805,ssilvert,Portlets Guru,Apache Tobago
+2488,stefanegli,NA,Jackrabbit
+1755,stefanegli,Java Developer,Apache Sling
+564,stefan,Committer,Apache Jackrabbit
+2487,stefan,NA,Jackrabbit
+1579,stefan,Committer,Apache Jackrabbit
+602,snicoll,PMC Member,Apache Maven
+1171,schu,committer,Apache Bigtop
+2405,syuanjiang,NA,HBase
+128,stevel,Committer,Apache Axis
+892,stevel,Committer,Apache Hama
+893,stevel,PMC,Apache Hama
+1016,stevel,Contributor,Apache Accumulo
+1115,stevel,Committer,Apache Axis2
+1899,stevel,NA,Accumulo
+2355,stevel,NA,Hadoop
+2373,stevel,NA,hama
+1178,stevel,committer,Apache Bigtop
+1190,stevel,mentor,Apache Bigtop
+1449,stevel,PMC,Apache Hadoop
+1510,stevel,Committer,Apache Hadoop
+1611,sslavic,Committer,Apache Mahout
+2011,subin,NA,Ambari
+2210,suhasv,NA,Falcon
+2563,sujen,NA,Nutch
+131,sumedha,Committer,Apache Axis
+1118,sumedha,Committer,Apache Axis2
+2026,su2026,NA,Ambari
+2510,sumit,NA,Knox
+964,smohanty,PMC,Apache Ambari
+2004,smohanty,NA,Ambari
+2517,smohanty,NA,Knox
+1610,smarthi,PMC,Apache Mahout
+2044,su2044,NA,Ambari
+787,supun,Committer,Apache Synapse
+1782,supun,Committer,Apache Synapse
+2745,supun,NA,Synapse
+1962,scnakandala,NA,Airavata
+1963,smarru,NA,Airavata
+2041,su2041,NA,Ambari
+464,suresh,PMC,Apache Hadoop
+515,suresh,Committer,Apache Hadoop
+2356,suresh,NA,Hadoop
+1450,suresh,PMC,Apache Hadoop
+1511,suresh,Committer,Apache Hadoop
+2203,Suresh Thalamati,NA,Db
+876,khorgath,Committer,Apache HCatalog
+877,khorgath,PPMC,Apache HCatalog
+2429,khorgath,NA,Hive
+1548,khorgath,Committer,Apache Hive
+2012,swapan,NA,Ambari
+2426,szehon,NA,Hive
+1900,ta1900,NA,Accumulo
+517,tanping,Committer,Apache Hadoop
+1513,tanping,Committer,Apache Hadoop
+2779,dunning,NA,Zookeeper
+843,tdunning,PMC,Apache Zookeeper
+1874,tdunning,PMC,Apache Zookeeper
+1605,tdunning,PMC,Apache Mahout
+2270,te2270,NA,Geronimo
+1360,te1360,Committer,Apache Geronimo
+1901,te1901,NA,Accumulo
+2046,te2046,NA,Ambari
+435,tedyu,Committer,Apache Hbase
+1017,tedyu,Contributor,Apache Accumulo
+1902,tedyu,NA,Accumulo
+2406,tedyu,NA,HBase
+1414,tedyu,Committer,Apache HBase
+2559,tejasp,NA,Nutch
+1878,thawan,Committer,Apache Zookeeper
+2787,thawan,NA,Zookeeper
+2036,th2036,NA,Ambari
+667,thejas,PMC member,Apache Pig
+678,thejas,Committer,Apache Pig
+2420,thejas,NA,Hive
+2619,thejas,NA,Pig
+1533,thejas,PMC,Apache Hive
+1669,thejas,PMC member,Apache PIG
+97,thilina,Committer,Apache Axiom
+122,thilina,Committer,Apache Axis
+1083,thilina,Committer,Apache Axiom
+1109,thilina,Committer,Apache Axis2
+154,th0154,Contributor,Apache Axis
+1141,th1141,Contributor,Apache Axis2
+863,tbeerbower,Committer,Apache Ambari
+967,tbeerbower,PMC,Apache Ambari
+2013,tbeerbower,NA,Ambari
+2518,tbeerbower,NA,Knox
+1159,th1159,Committer,Apache Batik
+2706,th2706,NA,Spark
+466,tgraves,PMC,Apache Hadoop
+518,tgraves,Committer,Apache Hadoop
+1452,tgraves,PMC,Apache Hadoop
+1514,tgraves,Committer,Apache Hadoop
+695,mckierna,Committer,Apache Sandesha
+1680,mckierna,Committer,Apache Sandesha
+565,thomasm,Committer,Apache Jackrabbit
+2489,thomasm,NA,Jackrabbit
+1580,thomasm,Committer,Apache Jackrabbit
+1288,tn,Committer,Apache Commons Email
+724,tterm,Committer,Apache ServiceMix
+740,tterm,PMC,Apache ServiceMix
+2689,tterm,NA,ServiceMix
+1710,tterm,Committer,Apache ServiceMix
+1727,tterm,PMC,Apache ServiceMix
+819,tv,PMC Chair,Apache Turbine
+824,tv,Committer,Apache Torque
+1816,tv,Java Developer,Apache Torque
+2775,tv,NA,Turbine
+1821,tv,PMC Chair,Apache Turbine
+2538,th2538,NA,Mesos
+802,tibor,Committer,Apache Whirr
+833,tibor,PMC,Apache Whirr
+1853,tibor,committer,Apache Whirr
+1862,tibor,PMC,Apache Whirr
+782,tijs,Committer,Apache Synapse
+1777,tijs,Committer,Apache Synapse
+2740,tijs,NA,Synapse
+306,ti0306,Contributor,Apache Commons Jelly
+1308,ti1308,Contributor,Apache Commons Jelly
+362,ti0362,PMC,Apache Geronimo
+406,ti0406,Committer,Apache Geronimo
+651,ti0651,Committer,Apache OpenJPA
+2271,ti2271,NA,Geronimo
+2597,ti2597,NA,OpenJPA
+1361,ti1361,Committer,Apache Geronimo
+1650,ti1650,Committer,Apache OpenJPA
+296,tobrien,Committer,Apache Commons JEXL
+1297,tobrien,Committer,Apache Commons JEXL
+32,tabish,Committer,ActiveMQ
+937,tabish,Committer,Apache ActiveMQ
+1929,tabish,NA,ActiveMQ
+2537,ti2537,NA,Mesos
+566,tripod,Committer,Apache Jackrabbit
+2492,tripod,NA,Jackrabbit
+1582,tripod,Committer,Apache Jackrabbit
+1275,to1275,Contributor,Apache Commons DBCP
+436,todd,Committer,Apache Hbase
+467,todd,PMC,Apache Hadoop
+519,todd,Committer,Apache Hadoop
+2358,todd,NA,Hadoop
+2407,todd,NA,HBase
+1415,todd,Committer,Apache HBase
+1453,todd,PMC,Apache Hadoop
+1515,todd,Committer,Apache Hadoop
+82,to0082,PMC,Apache Aries
+1061,to1061,PMC,Apache Aries
+2086,to2086,NA,Aries
+679,to0679,Committer,Apache River
+2635,to2635,NA,River
+1670,to1670,Committer,Apache River
+2087,to2087,NA,Aries
+2656,to2656,NA,Sentry
+468,tomwhite,PMC,Apache Hadoop
+520,tomwhite,Committer,Apache Hadoop
+801,tomwhite,Committer,Apache Whirr
+834,tomwhite,PMC Chair,Apache Whirr
+1068,tomwhite,java,Apache Avro
+1074,tomwhite,Committer,Apache Avro
+1854,tomwhite,committer,Apache Whirr
+1863,tomwhite,PMC,Apache Whirr
+2095,tomwhite,NA,Avro
+2180,tomwhite,NA,Crunch
+2359,tomwhite,NA,Hadoop
+1185,tomwhite,committer,Apache Bigtop
+1192,tomwhite,mentor,Apache Bigtop
+1454,tomwhite,PMC,Apache Hadoop
+1516,tomwhite,Committer,Apache Hadoop
+2490,tomekr,NA,Jackrabbit
+888,tommaso,PMC,Apache Hama
+889,tommaso,Committer,Apache Hama
+2374,tommaso,NA,hama
+2491,tommaso,NA,Jackrabbit
+2567,tommaso,NA,Oltu
+1581,tommaso,Committer,Apache Jackrabbit
+605,tchemit,Committer,Apache Maven
+2530,tchemit,NA,Maven
+1615,tchemit,Committer,Apache Maven
+2625,tmajest,NA,REEF
+1240,tcurdt,Committer,Apache Commons BCel
+1235,tjsnell,Committer,Apache Camel
+2154,tjsnell,NA,Camel
+219,tjsnell,Committer,Apache Camel
+885,travis,Committer,Apache HCatalog
+1552,travis,Committer,Apache Hive
+1173,traviscraw,committer,Apache Bigtop
+1294,tsavo,Committer,Apache Commons JCS
+2033,tr2033,NA,Ambari
+247,trygvis,PMC Member,Apache Continuum
+611,trygvis,Emeritus,Apache Maven
+465,szetszwo,PMC,Apache Hadoop
+516,szetszwo,Committer,Apache Hadoop
+2357,szetszwo,NA,Hadoop
+1451,szetszwo,PMC,Apache Hadoop
+1512,szetszwo,Committer,Apache Hadoop
+2657,tu2657,NA,Sentry
+725,ulhasbhole,Committer,Apache ServiceMix
+2690,ulhasbhole,NA,ServiceMix
+1711,ulhasbhole,Committer,Apache ServiceMix
+2099,umamahesh,NA,Bookkeeper
+2361,umamahesh,NA,Hadoop
+784,upul,Committer,Apache Synapse
+1779,upul,Committer,Apache Synapse
+2742,upul,NA,Synapse
+2441,vgumashta,NA,Hive
+363,va0363,PMC,Apache Geronimo
+407,va0407,Committer,Apache Geronimo
+2272,va2272,NA,Geronimo
+1362,va1362,Committer,Apache Geronimo
+2658,va2658,NA,Sentry
+883,avandana,Committer,Apache HCatalog
+884,avandana,PPMC,Apache HCatalog
+1551,avandana,Committer,Apache Hive
+861,reznor,Committer,Apache Ambari
+2363,vvasudev,NA,Hadoop
+2038,ve2038,NA,Ambari
+2727,venkatnrangan,NA,Sqoop
+103,venkat,Committer,Apache Axiom
+135,venkat,Committer,Apache Axis
+1089,venkat,Committer,Apache Axiom
+1122,venkat,Committer,Apache Axis2
+2519,venkatesh,NA,Knox
+378,vi0378,Committer,Apache Geronimo
+2273,vi2273,NA,Geronimo
+1363,vi1363,Committer,Apache Geronimo
+2463,catholicon,NA,Jackrabbit
+864,vikram,Committer,Apache Ambari
+969,vikram,PMC,Apache Ambari
+2015,vikram,NA,Ambari
+2427,vikram,NA,Hive
+1886,vikrams,NA,Accumulo
+2525,vi2525,NA,Knox
+1163,vi1163,Committer,Apache Batik
+606,vmassol,Committer,Apache Maven
+603,vsiveton,PMC Member,Apache Maven
+687,vi0687,Emeritus Committer,Apache River
+470,vinodkv,PMC,Apache Hadoop
+522,vinodkv,Committer,Apache Hadoop
+867,vinodkv,Committer,Apache Ambari
+970,vinodkv,PMC,Apache Ambari
+2016,vinodkv,NA,Ambari
+2181,vinodkv,NA,Crunch
+2362,vinodkv,NA,Hadoop
+1456,vinodkv,PMC,Apache Hadoop
+1518,vinodkv,Committer,Apache Hadoop
+83,vi0083,PMC,Apache Aries
+1062,vi1062,PMC,Apache Aries
+2088,vi2088,NA,Aries
+968,vbrodetskyi,Committer,Apache Ambari
+2014,vbrodetskyi,NA,Ambari
+865,vgogate,Committer,Apache Ambari
+866,vgogate,PMC,Apache Ambari
+2042,vi2042,NA,Ambari
+2520,vtkhir,NA,Knox
+2365,wangda,NA,Hadoop
+604,wfay,PMC Member,Apache Maven
+302,Bob McWhirter,Committer,Apache Commons Jelly
+161,wglass,PMC Chair,Apache Velocity
+166,wglass,Committer,Apache Velocity
+815,wglass,Committer,Apache Turbine
+821,wglass,PMC Member,Apache Turbine
+974,wglass,PMC Chair,Apache Velocity Anakia
+979,wglass,Java developer,Apache Velocity Anakia
+984,wglass,Committer,Apache Velocity Anakia
+2773,wglass,NA,Turbine
+2777,wglass,NA,Velocity
+1819,wglass,PMC Member,Apache Turbine
+1825,wglass,Java Developer,Apache Turbine
+1829,wglass,Committer,Apache Turbine
+1832,wglass,PMC Chair,Apache Velocity
+1837,wglass,Java developer,Apache Velocity
+33,ningjiang,Committer,ActiveMQ
+938,ningjiang,Committer,Apache ActiveMQ
+1236,ningjiang,Committer,Apache Camel
+1930,ningjiang,NA,ActiveMQ
+2691,njiang,NA,ServiceMix
+753,wi0753,Contributor,Apache ServiceMix
+220,ningjiang,Committer,Apache Camel
+1712,njiang,Committer,Apache ServiceMix
+1237,wtam,Committer,Apache Camel
+2155,wtam,NA,Camel
+221,wtam,Committer,Apache Camel
+324,wi0324,Contributor,Apache Commons Net
+1314,wi1314,Contributor,Apache Commons Net
+2233,whoschek,NA,Flume
+971,xiwang,PMC,Apache Ambari
+2017,xiwang,NA,Ambari
+2367,xyao,NA,Hadoop
+364,xu0364,PMC,Apache Geronimo
+408,xu0408,Committer,Apache Geronimo
+1364,xu1364,Committer,Apache Geronimo
+2274,xu2274,NA,Geronimo
+2366,xgong,NA,Hadoop
+2659,xu2659,NA,Sentry
+1546,xuefuz,Committer,Apache Hive
+2539,ya2539,NA,Mesos
+2375,yxjiang,NA,hama
+2369,yliu,NA,Hadoop
+2769,yliu,NA,Tajo
+2450,yhuai,NA,Hive
+1545,yhuai,Committer,Apache Hive
+2624,yingdachen,NA,REEF
+269,yoavs,Committer,Apache Commons DBCP
+319,yoavs,Committer,Apache Commons Modeler
+2368,yjzhangal,NA,Hadoop
+1527,heyongqiang,PMC,Apache Hive
+2454,ychena,NA,Hive
+2526,yu2526,NA,Knox
+1964,yuma,NA,Airavata
+379,yu0379,Committer,Apache Geronimo
+2275,yu2275,NA,Geronimo
+1365,yu1365,Committer,Apache Geronimo
+868,yusaku,Committer,Apache Ambari
+869,yusaku,PMC,Apache Ambari
+972,yusaku,PMC,Apache Ambari
+2018,yusaku,NA,Ambari
+2521,zblanko,NA,Knox
+2047,zh2047,NA,Ambari
+2370,zhz,NA,Hadoop
+471,zshao,PMC,Apache Hadoop
+523,zshao,Committer,Apache Hadoop
+525,zshao,Committer,Apache Hive
+2372,zshao,NA,Hadoop
+1457,zshao,PMC,Apache Hadoop
+1521,zshao,Committer,Apache Hadoop
+2371,zjshen,NA,Hadoop
+1520,zjshen,Committer,Apache Hadoop

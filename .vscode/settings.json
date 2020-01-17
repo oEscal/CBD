@@ -1,0 +1,14 @@
+{
+    "cSpell.language": "en,pt",
+    "python.pythonPath": "/usr/bin/python",
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "dialect": "Cassandra",
+            "name": "CBD_cassandra",
+            "port": 9042,
+            "server": "localhost",
+            "username": "escaleira"
+        }
+    ]
+}
